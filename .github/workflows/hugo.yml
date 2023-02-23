@@ -48,7 +48,9 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: NPM postcss-cli
-        run: sudo npm install -g postcss-cli autoprefixer
+        run: sudo npm install -g postcss-cli
+      - name: NPM autoprefixer
+        run: sudo npm install -g autoprefixer
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
