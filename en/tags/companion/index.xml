@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Companion</title><link>https://dewiweb.github.io/en/tags/companion/</link><description>Recent content in Companion on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/companion/index.xml" rel="self" type="application/rss+xml"/><item><title>Bitfocus Companion modules</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/companion-modules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/companion-modules/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://bitfocus.io/companion" target="_blank" rel="noopener">Bitfocus Companion&lt;/a> turns an Elgato Stream Deck into a professional control surface for broadcast and stage equipment. These modules integrate specific devices.&lt;/p>
+&lt;hr>
+&lt;h2>companion-module-canon-network-legacy-http&lt;span class="hx-absolute -hx-mt-20" id="companion-module-canon-network-legacy-http">&lt;/span>
+&lt;a href="#companion-module-canon-network-legacy-http" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Repository&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-canon-network-legacy-http" target="_blank" rel="noopener">github.com/dewiweb/companion-module-canon-network-legacy-http&lt;/a>&lt;/p>
+&lt;p>Companion module for controlling &lt;strong>Canon cameras&lt;/strong> via the legacy HTTP network API. Allows driving compatible Canon cameras from a Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript · Protocol: HTTP&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-powersoft-amplifier&lt;span class="hx-absolute -hx-mt-20" id="companion-module-powersoft-amplifier">&lt;/span>
+&lt;a href="#companion-module-powersoft-amplifier" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Repository&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-powersoft-amplifier" target="_blank" rel="noopener">github.com/dewiweb/companion-module-powersoft-amplifier&lt;/a>&lt;/p>
+&lt;p>Companion module for controlling &lt;strong>Powersoft amplifiers&lt;/strong>. Monitor and control Powersoft amps (X series, Quattrocanali, etc.) from a Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>Show control &amp; OSC</title><link>https://dewiweb.github.io/en/docs/contributions/show-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/show-control/</guid><description>
+&lt;h2>open-stage-control&lt;span class="hx-absolute -hx-mt-20" id="open-stage-control">&lt;/span>
+&lt;a href="#open-stage-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/open-stage-control" target="_blank" rel="noopener">github.com/dewiweb/open-stage-control&lt;/a>&lt;/p>
+&lt;p>Libre and modular OSC/MIDI controller. Customisable web interface to drive any system via OSC or MIDI.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>ADM-OSC&lt;span class="hx-absolute -hx-mt-20" id="adm-osc">&lt;/span>
+&lt;a href="#adm-osc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ADM-OSC" target="_blank" rel="noopener">github.com/dewiweb/ADM-OSC&lt;/a>&lt;/p>
+&lt;p>OSC dictionary implementing the &lt;strong>Audio Definition Model (ADM)&lt;/strong> — standard for object-based and immersive audio.&lt;/p>
+&lt;hr>
+&lt;h2>sisyfos-audio-controller&lt;span class="hx-absolute -hx-mt-20" id="sisyfos-audio-controller">&lt;/span>
+&lt;a href="#sisyfos-audio-controller" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sisyfos-audio-controller" target="_blank" rel="noopener">github.com/dewiweb/sisyfos-audio-controller&lt;/a>&lt;/p>
+&lt;p>Intelligent audio controller for automation systems (broadcast). Manages routing and mixing via a web interface.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Chataigne&lt;span class="hx-absolute -hx-mt-20" id="chataigne">&lt;/span>
+&lt;a href="#chataigne" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Chataigne" target="_blank" rel="noopener">github.com/dewiweb/Chataigne&lt;/a>&lt;/p>
+&lt;p>Artist-friendly modular machine for art and technology by Benjamin Kuperberg. Central show control tool used with several of my modules.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion&lt;span class="hx-absolute -hx-mt-20" id="companion">&lt;/span>
+&lt;a href="#companion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion" target="_blank" rel="noopener">github.com/dewiweb/companion&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Bitfocus Companion&lt;/strong> — turns an Elgato Stream Deck into a professional control surface for broadcast and stage equipment.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-denon-recorder&lt;span class="hx-absolute -hx-mt-20" id="companion-module-denon-recorder">&lt;/span>
+&lt;a href="#companion-module-denon-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-denon-recorder" target="_blank" rel="noopener">github.com/dewiweb/companion-module-denon-recorder&lt;/a>&lt;/p>
+&lt;p>Companion module for &lt;strong>Denon&lt;/strong> recorders.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Behringer-x-Touch-Extender-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="behringer-x-touch-extender-chataigne-module">&lt;/span>
+&lt;a href="#behringer-x-touch-extender-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Chataigne module for the &lt;strong>Behringer X-Touch Extender&lt;/strong> controller.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>XTouch-Universal-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="xtouch-universal-chataigne-module">&lt;/span>
+&lt;a href="#xtouch-universal-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/XTouch-Universal-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/XTouch-Universal-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Universal Chataigne module for &lt;strong>Behringer X-Touch&lt;/strong> surfaces.&lt;/p>
+&lt;hr>
+&lt;h2>midimonster&lt;span class="hx-absolute -hx-mt-20" id="midimonster">&lt;/span>
+&lt;a href="#midimonster" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/midimonster" target="_blank" rel="noopener">github.com/dewiweb/midimonster&lt;/a>&lt;/p>
+&lt;p>Multi-protocol control &amp;amp; translation software: ArtNet, MIDI, OSC, sACN and more.&lt;/p></description></item></channel></rss>

@@ -178,6 +178,37 @@
 &lt;li>&lt;a href="https://bitbucket.org/MergingTechnologies/ravenna-alsa-lkm" target="_blank" rel="noopener">Original source (Merging Technologies)&lt;/a>&lt;/li>
 &lt;li>Language: C&lt;/li>
 &lt;li>Topics: &lt;code>aes67&lt;/code> &lt;code>alsa&lt;/code> &lt;code>driver&lt;/code> &lt;code>linux&lt;/code>&lt;/li>
+&lt;/ul></description></item><item><title>Bitfocus Companion modules</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/companion-modules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/companion-modules/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://bitfocus.io/companion" target="_blank" rel="noopener">Bitfocus Companion&lt;/a> turns an Elgato Stream Deck into a professional control surface for broadcast and stage equipment. These modules integrate specific devices.&lt;/p>
+&lt;hr>
+&lt;h2>companion-module-canon-network-legacy-http&lt;span class="hx-absolute -hx-mt-20" id="companion-module-canon-network-legacy-http">&lt;/span>
+&lt;a href="#companion-module-canon-network-legacy-http" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Repository&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-canon-network-legacy-http" target="_blank" rel="noopener">github.com/dewiweb/companion-module-canon-network-legacy-http&lt;/a>&lt;/p>
+&lt;p>Companion module for controlling &lt;strong>Canon cameras&lt;/strong> via the legacy HTTP network API. Allows driving compatible Canon cameras from a Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript · Protocol: HTTP&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-powersoft-amplifier&lt;span class="hx-absolute -hx-mt-20" id="companion-module-powersoft-amplifier">&lt;/span>
+&lt;a href="#companion-module-powersoft-amplifier" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Repository&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-powersoft-amplifier" target="_blank" rel="noopener">github.com/dewiweb/companion-module-powersoft-amplifier&lt;/a>&lt;/p>
+&lt;p>Companion module for controlling &lt;strong>Powersoft amplifiers&lt;/strong>. Monitor and control Powersoft amps (X series, Quattrocanali, etc.) from a Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>MCxOSC</title><link>https://dewiweb.github.io/en/docs/projets/protocoles/mcxosc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/protocoles/mcxosc/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A bridge between the &lt;strong>Ember+&lt;/strong> and &lt;strong>OSC&lt;/strong> protocols, specifically designed for &lt;strong>Lawo MCx&lt;/strong> consoles. Allows controlling and monitoring an MCx console from any OSC environment (Chataigne, Max/MSP, QLab, etc.).&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Bidirectional Ember+ ↔ OSC translation&lt;/li>
+&lt;li>Adapted to Lawo MCx console specifics&lt;/li>
+&lt;li>Interfacing with show control systems via OSC&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>6 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
 &lt;/ul></description></item><item><title>Tools &amp; Sequencers</title><link>https://dewiweb.github.io/en/docs/contributions/outils/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/outils/</guid><description>
 &lt;h2>IanniX&lt;span class="hx-absolute -hx-mt-20" id="iannix">&lt;/span>
 &lt;a href="#iannix" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/IanniX" target="_blank" rel="noopener">github.com/dewiweb/IanniX&lt;/a>&lt;/p>
@@ -195,6 +226,68 @@
 &lt;li>Language: Python&lt;/li>
 &lt;li>Licence: GPL-3.0&lt;/li>
 &lt;li>&lt;a href="http://code.sat.qc.ca/trac/scenic/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>AES67 &amp; network audio</title><link>https://dewiweb.github.io/en/docs/contributions/aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/aes67/</guid><description>
+&lt;h2>aes67-web-monitor&lt;span class="hx-absolute -hx-mt-20" id="aes67-web-monitor">&lt;/span>
+&lt;a href="#aes67-web-monitor" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-web-monitor" target="_blank" rel="noopener">github.com/dewiweb/aes67-web-monitor&lt;/a>&lt;/p>
+&lt;p>Tool to monitor &lt;strong>AES67&lt;/strong> streams via a web page: VU meter, RTP and timing statistics, PCM sound in the browser.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-linux-daemon&lt;span class="hx-absolute -hx-mt-20" id="aes67-linux-daemon">&lt;/span>
+&lt;a href="#aes67-linux-daemon" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-linux-daemon" target="_blank" rel="noopener">github.com/dewiweb/aes67-linux-daemon&lt;/a>&lt;/p>
+&lt;p>Linux daemon for AES67 audio transport with a WebUI for configuration.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-recorder&lt;span class="hx-absolute -hx-mt-20" id="aes67-recorder">&lt;/span>
+&lt;a href="#aes67-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-recorder" target="_blank" rel="noopener">github.com/dewiweb/aes67-recorder&lt;/a>&lt;/p>
+&lt;p>Linux/GStreamer-based AES67 multitrack audio backup solution.&lt;/p>
+&lt;ul>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>mai&lt;span class="hx-absolute -hx-mt-20" id="mai">&lt;/span>
+&lt;a href="#mai" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/mai" target="_blank" rel="noopener">github.com/dewiweb/mai&lt;/a>&lt;/p>
+&lt;p>Mark&amp;rsquo;s AES67 Implementation — a C implementation of the AES67 standard.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star · Language: C&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>MARIAN-ALSA-DRIVER&lt;span class="hx-absolute -hx-mt-20" id="marian-alsa-driver">&lt;/span>
+&lt;a href="#marian-alsa-driver" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/MARIAN-ALSA-DRIVER" target="_blank" rel="noopener">github.com/dewiweb/MARIAN-ALSA-DRIVER&lt;/a>&lt;/p>
+&lt;p>ALSA driver for MARIAN audio interfaces.&lt;/p></description></item><item><title>holophonix_blender_addon</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Blender&lt;/strong> addon providing utility functions for &lt;strong>Holophonix&lt;/strong> projects, including management of tracks, speakers, handlers and OSC operations directly from Blender&amp;rsquo;s interface.&lt;/p>
+&lt;p>Combines Blender&amp;rsquo;s 3D visualisation power with the Holophonix spatialisation engine.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Manage Holophonix tracks from Blender&lt;/li>
+&lt;li>Configure speakers (positions, groups)&lt;/li>
+&lt;li>Manage OSC handlers&lt;/li>
+&lt;li>Direct OSC operations to Holophonix&lt;/li>
+&lt;li>3D visualisation of the sound scene in Blender&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/en/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/protocoles/mcxoscnext/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A rewrite and evolution of &lt;strong>MCxOSC&lt;/strong> — an &lt;strong>Ember+&lt;/strong> to &lt;strong>OSC&lt;/strong> bridge. Revised architecture for greater robustness and flexibility, compatible with a wider range of Ember+ equipment.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Ember+ ↔ OSC bridge with improved architecture&lt;/li>
+&lt;li>Better error handling and automatic reconnection&lt;/li>
+&lt;li>Compatible with any Ember+ device, not only Lawo MCx&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>4 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
 &lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Full rewrite of the &lt;strong>Trajectoires&lt;/strong> application, a web/mobile interface for controlling sound spatialisation via OSC. This modernised version is developed in TypeScript with a revised architecture.&lt;/p>
@@ -210,4 +303,126 @@
 &lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;li>Language: TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>chataigne_spatiale</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Python&lt;/strong> module integrating the &lt;strong>Holophonix&lt;/strong> spatial audio processor into &lt;strong>Chataigne&lt;/strong> — a modular software for arts and technology. Drives spatial sound sources from Chataigne&amp;rsquo;s interface via OSC.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Control Holophonix sources from Chataigne&lt;/li>
+&lt;li>Bidirectional OSC communication&lt;/li>
+&lt;li>Integration into show control workflows&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>7 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item><item><title>Show control &amp; OSC</title><link>https://dewiweb.github.io/en/docs/contributions/show-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/show-control/</guid><description>
+&lt;h2>open-stage-control&lt;span class="hx-absolute -hx-mt-20" id="open-stage-control">&lt;/span>
+&lt;a href="#open-stage-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/open-stage-control" target="_blank" rel="noopener">github.com/dewiweb/open-stage-control&lt;/a>&lt;/p>
+&lt;p>Libre and modular OSC/MIDI controller. Customisable web interface to drive any system via OSC or MIDI.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>ADM-OSC&lt;span class="hx-absolute -hx-mt-20" id="adm-osc">&lt;/span>
+&lt;a href="#adm-osc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ADM-OSC" target="_blank" rel="noopener">github.com/dewiweb/ADM-OSC&lt;/a>&lt;/p>
+&lt;p>OSC dictionary implementing the &lt;strong>Audio Definition Model (ADM)&lt;/strong> — standard for object-based and immersive audio.&lt;/p>
+&lt;hr>
+&lt;h2>sisyfos-audio-controller&lt;span class="hx-absolute -hx-mt-20" id="sisyfos-audio-controller">&lt;/span>
+&lt;a href="#sisyfos-audio-controller" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sisyfos-audio-controller" target="_blank" rel="noopener">github.com/dewiweb/sisyfos-audio-controller&lt;/a>&lt;/p>
+&lt;p>Intelligent audio controller for automation systems (broadcast). Manages routing and mixing via a web interface.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Chataigne&lt;span class="hx-absolute -hx-mt-20" id="chataigne">&lt;/span>
+&lt;a href="#chataigne" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Chataigne" target="_blank" rel="noopener">github.com/dewiweb/Chataigne&lt;/a>&lt;/p>
+&lt;p>Artist-friendly modular machine for art and technology by Benjamin Kuperberg. Central show control tool used with several of my modules.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion&lt;span class="hx-absolute -hx-mt-20" id="companion">&lt;/span>
+&lt;a href="#companion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion" target="_blank" rel="noopener">github.com/dewiweb/companion&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Bitfocus Companion&lt;/strong> — turns an Elgato Stream Deck into a professional control surface for broadcast and stage equipment.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-denon-recorder&lt;span class="hx-absolute -hx-mt-20" id="companion-module-denon-recorder">&lt;/span>
+&lt;a href="#companion-module-denon-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-denon-recorder" target="_blank" rel="noopener">github.com/dewiweb/companion-module-denon-recorder&lt;/a>&lt;/p>
+&lt;p>Companion module for &lt;strong>Denon&lt;/strong> recorders.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Behringer-x-Touch-Extender-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="behringer-x-touch-extender-chataigne-module">&lt;/span>
+&lt;a href="#behringer-x-touch-extender-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Chataigne module for the &lt;strong>Behringer X-Touch Extender&lt;/strong> controller.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>XTouch-Universal-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="xtouch-universal-chataigne-module">&lt;/span>
+&lt;a href="#xtouch-universal-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/XTouch-Universal-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/XTouch-Universal-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Universal Chataigne module for &lt;strong>Behringer X-Touch&lt;/strong> surfaces.&lt;/p>
+&lt;hr>
+&lt;h2>midimonster&lt;span class="hx-absolute -hx-mt-20" id="midimonster">&lt;/span>
+&lt;a href="#midimonster" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/midimonster" target="_blank" rel="noopener">github.com/dewiweb/midimonster&lt;/a>&lt;/p>
+&lt;p>Multi-protocol control &amp;amp; translation software: ArtNet, MIDI, OSC, sACN and more.&lt;/p></description></item><item><title>Broadcast &amp; media</title><link>https://dewiweb.github.io/en/docs/contributions/broadcast-media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/broadcast-media/</guid><description>
+&lt;h2>sofie-emberplus-connection&lt;span class="hx-absolute -hx-mt-20" id="sofie-emberplus-connection">&lt;/span>
+&lt;a href="#sofie-emberplus-connection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sofie-emberplus-connection" target="_blank" rel="noopener">github.com/dewiweb/sofie-emberplus-connection&lt;/a>&lt;/p>
+&lt;p>Ember+ connection layer for &lt;strong>Sofie&lt;/strong> — the modern TV news studio automation system. TypeScript Ember+ communication layer.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>pi-list&lt;span class="hx-absolute -hx-mt-20" id="pi-list">&lt;/span>
+&lt;a href="#pi-list" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/pi-list" target="_blank" rel="noopener">github.com/dewiweb/pi-list&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Live IP Software Toolkit&lt;/strong> from the EBU to assist in implementing IP facilities (ST2110, AES67). Analysis and monitoring tool for IP media streams.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>media-network-manager-cloud&lt;span class="hx-absolute -hx-mt-20" id="media-network-manager-cloud">&lt;/span>
+&lt;a href="#media-network-manager-cloud" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/media-network-manager-cloud" target="_blank" rel="noopener">github.com/dewiweb/media-network-manager-cloud&lt;/a>&lt;/p>
+&lt;p>&lt;strong>MnMs&lt;/strong> — set of tools for monitoring and administering real-time media networks (ST2110, AES67, Dante&amp;hellip;).&lt;/p>
+&lt;hr>
+&lt;h2>ear-production-suite&lt;span class="hx-absolute -hx-mt-20" id="ear-production-suite">&lt;/span>
+&lt;a href="#ear-production-suite" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ear-production-suite" target="_blank" rel="noopener">github.com/dewiweb/ear-production-suite&lt;/a>&lt;/p>
+&lt;p>VST plugin suite for producing and reproducing immersive and personalisable audio, based on the &lt;strong>Audio Definition Model (ADM)&lt;/strong> and ITU renderer.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>pam&lt;span class="hx-absolute -hx-mt-20" id="pam">&lt;/span>
+&lt;a href="#pam" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/pam" target="_blank" rel="noopener">github.com/dewiweb/pam&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Audio Monitoring Software&lt;/strong> designed to run on a Raspberry Pi with touchscreen.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star · Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>BM-Camera-Control-WebUI&lt;span class="hx-absolute -hx-mt-20" id="bm-camera-control-webui">&lt;/span>
+&lt;a href="#bm-camera-control-webui" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/BM-Camera-Control-WebUI" target="_blank" rel="noopener">github.com/dewiweb/BM-Camera-Control-WebUI&lt;/a>&lt;/p>
+&lt;p>Extensible web interface for &lt;strong>Blackmagic&lt;/strong> camera control.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul></description></item><item><title>Holophonix-chataigne-module</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Chataigne&lt;/strong> module dedicated to the &lt;strong>Holophonix&lt;/strong> spatial audio processor. Natively integrates Holophonix into Chataigne to drive sound sources, read states and automate behaviours in a show control context.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Control Holophonix spatial audio sources from Chataigne&lt;/li>
+&lt;li>Read/write parameters via OSC&lt;/li>
+&lt;li>Integration into complex show control workflows&lt;/li>
+&lt;li>Compatible with recent Holophonix versions&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>6 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
 &lt;/ul></description></item></channel></rss>

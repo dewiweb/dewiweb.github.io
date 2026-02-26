@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – 3d</title><link>https://dewiweb.github.io/tags/3d/</link><description>Recent content in 3d on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml"/><item><title>holophonix_blender_addon</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Addon &lt;strong>Blender&lt;/strong> fournissant des fonctions utilitaires pour les projets &lt;strong>Holophonix&lt;/strong>, notamment la gestion de pistes (tracks), de haut-parleurs (speakers), de handlers et d&amp;rsquo;opérations OSC directement depuis l&amp;rsquo;interface de Blender.&lt;/p>
+&lt;p>Combine la puissance de Blender comme outil de visualisation 3D avec le moteur de spatialisation Holophonix.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Gestion des tracks Holophonix depuis Blender&lt;/li>
+&lt;li>Configuration des haut-parleurs (positions, groupes)&lt;/li>
+&lt;li>Gestion des handlers OSC&lt;/li>
+&lt;li>Opérations OSC directes vers Holophonix&lt;/li>
+&lt;li>Visualisation 3D de la scène sonore dans Blender&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Python&lt;/li>
+&lt;/ul></description></item></channel></rss>

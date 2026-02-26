@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – 3d</title><link>https://dewiweb.github.io/en/tags/3d/</link><description>Recent content in 3d on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/3d/index.xml" rel="self" type="application/rss+xml"/><item><title>holophonix_blender_addon</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Blender&lt;/strong> addon providing utility functions for &lt;strong>Holophonix&lt;/strong> projects, including management of tracks, speakers, handlers and OSC operations directly from Blender&amp;rsquo;s interface.&lt;/p>
+&lt;p>Combines Blender&amp;rsquo;s 3D visualisation power with the Holophonix spatialisation engine.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Manage Holophonix tracks from Blender&lt;/li>
+&lt;li>Configure speakers (positions, groups)&lt;/li>
+&lt;li>Manage OSC handlers&lt;/li>
+&lt;li>Direct OSC operations to Holophonix&lt;/li>
+&lt;li>3D visualisation of the sound scene in Blender&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item></channel></rss>

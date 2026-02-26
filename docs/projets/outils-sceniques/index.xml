@@ -41,4 +41,37 @@
 &lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/music-constellation" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>Modules Bitfocus Companion</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/companion-modules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/companion-modules/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://bitfocus.io/companion" target="_blank" rel="noopener">Bitfocus Companion&lt;/a> est un logiciel qui transforme une Elgato Stream Deck en surface de contrôle professionnelle pour des équipements broadcast et scéniques. Ces modules permettent d&amp;rsquo;intégrer des équipements spécifiques.&lt;/p>
+&lt;hr>
+&lt;h2>companion-module-canon-network-legacy-http&lt;span class="hx-absolute -hx-mt-20" id="companion-module-canon-network-legacy-http">&lt;/span>
+&lt;a href="#companion-module-canon-network-legacy-http" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Dépôt&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-canon-network-legacy-http" target="_blank" rel="noopener">github.com/dewiweb/companion-module-canon-network-legacy-http&lt;/a>&lt;/p>
+&lt;p>Module Companion pour le contrôle de &lt;strong>caméras Canon&lt;/strong> via l&amp;rsquo;API HTTP réseau (version legacy). Permet de piloter les caméras Canon compatibles depuis une Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Langage : JavaScript&lt;/li>
+&lt;li>Protocole : HTTP&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-powersoft-amplifier&lt;span class="hx-absolute -hx-mt-20" id="companion-module-powersoft-amplifier">&lt;/span>
+&lt;a href="#companion-module-powersoft-amplifier" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Dépôt&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-powersoft-amplifier" target="_blank" rel="noopener">github.com/dewiweb/companion-module-powersoft-amplifier&lt;/a>&lt;/p>
+&lt;p>Module Companion pour le contrôle d&amp;rsquo;&lt;strong>amplificateurs Powersoft&lt;/strong>. Permet de monitorer et contrôler les amplis Powersoft (série X, Quattrocanali, etc.) depuis une Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>holophonix_blender_addon</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Addon &lt;strong>Blender&lt;/strong> fournissant des fonctions utilitaires pour les projets &lt;strong>Holophonix&lt;/strong>, notamment la gestion de pistes (tracks), de haut-parleurs (speakers), de handlers et d&amp;rsquo;opérations OSC directement depuis l&amp;rsquo;interface de Blender.&lt;/p>
+&lt;p>Combine la puissance de Blender comme outil de visualisation 3D avec le moteur de spatialisation Holophonix.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Gestion des tracks Holophonix depuis Blender&lt;/li>
+&lt;li>Configuration des haut-parleurs (positions, groupes)&lt;/li>
+&lt;li>Gestion des handlers OSC&lt;/li>
+&lt;li>Opérations OSC directes vers Holophonix&lt;/li>
+&lt;li>Visualisation 3D de la scène sonore dans Blender&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Python&lt;/li>
 &lt;/ul></description></item></channel></rss>

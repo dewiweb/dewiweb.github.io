@@ -19,6 +19,23 @@
 &lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/music-constellation" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>Modules Bitfocus Companion</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/companion-modules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/companion-modules/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;a href="https://bitfocus.io/companion" target="_blank" rel="noopener">Bitfocus Companion&lt;/a> est un logiciel qui transforme une Elgato Stream Deck en surface de contrôle professionnelle pour des équipements broadcast et scéniques. Ces modules permettent d&amp;rsquo;intégrer des équipements spécifiques.&lt;/p>
+&lt;hr>
+&lt;h2>companion-module-canon-network-legacy-http&lt;span class="hx-absolute -hx-mt-20" id="companion-module-canon-network-legacy-http">&lt;/span>
+&lt;a href="#companion-module-canon-network-legacy-http" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Dépôt&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-canon-network-legacy-http" target="_blank" rel="noopener">github.com/dewiweb/companion-module-canon-network-legacy-http&lt;/a>&lt;/p>
+&lt;p>Module Companion pour le contrôle de &lt;strong>caméras Canon&lt;/strong> via l&amp;rsquo;API HTTP réseau (version legacy). Permet de piloter les caméras Canon compatibles depuis une Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Langage : JavaScript&lt;/li>
+&lt;li>Protocole : HTTP&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-powersoft-amplifier&lt;span class="hx-absolute -hx-mt-20" id="companion-module-powersoft-amplifier">&lt;/span>
+&lt;a href="#companion-module-powersoft-amplifier" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Dépôt&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-powersoft-amplifier" target="_blank" rel="noopener">github.com/dewiweb/companion-module-powersoft-amplifier&lt;/a>&lt;/p>
+&lt;p>Module Companion pour le contrôle d&amp;rsquo;&lt;strong>amplificateurs Powersoft&lt;/strong>. Permet de monitorer et contrôler les amplis Powersoft (série X, Quattrocanali, etc.) depuis une Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Langage : TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Refonte complète de l&amp;rsquo;application &lt;strong>Trajectoires&lt;/strong>, une interface web/mobile pour le contrôle de la spatialisation sonore via OSC. Cette version modernisée est développée en TypeScript avec une architecture revue.&lt;/p>
@@ -34,4 +51,42 @@
 &lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>Broadcast &amp; média</title><link>https://dewiweb.github.io/docs/contributions/broadcast-media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/broadcast-media/</guid><description>
+&lt;h2>sofie-emberplus-connection&lt;span class="hx-absolute -hx-mt-20" id="sofie-emberplus-connection">&lt;/span>
+&lt;a href="#sofie-emberplus-connection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sofie-emberplus-connection" target="_blank" rel="noopener">github.com/dewiweb/sofie-emberplus-connection&lt;/a>&lt;/p>
+&lt;p>Connexion Ember+ pour &lt;strong>Sofie&lt;/strong> — système d&amp;rsquo;automatisation de studio TV moderne. Couche de communication Ember+ en TypeScript.&lt;/p>
+&lt;ul>
+&lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>pi-list&lt;span class="hx-absolute -hx-mt-20" id="pi-list">&lt;/span>
+&lt;a href="#pi-list" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/pi-list" target="_blank" rel="noopener">github.com/dewiweb/pi-list&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Live IP Software Toolkit&lt;/strong> de l&amp;rsquo;EBU pour assister à l&amp;rsquo;implémentation de facilities IP (ST2110, AES67). Outil d&amp;rsquo;analyse et de monitoring de flux médias IP.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>media-network-manager-cloud&lt;span class="hx-absolute -hx-mt-20" id="media-network-manager-cloud">&lt;/span>
+&lt;a href="#media-network-manager-cloud" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/media-network-manager-cloud" target="_blank" rel="noopener">github.com/dewiweb/media-network-manager-cloud&lt;/a>&lt;/p>
+&lt;p>&lt;strong>MnMs&lt;/strong> — ensemble d&amp;rsquo;outils pour la surveillance et l&amp;rsquo;administration de réseaux médias temps réel (ST2110, AES67, Dante&amp;hellip;).&lt;/p>
+&lt;hr>
+&lt;h2>ear-production-suite&lt;span class="hx-absolute -hx-mt-20" id="ear-production-suite">&lt;/span>
+&lt;a href="#ear-production-suite" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ear-production-suite" target="_blank" rel="noopener">github.com/dewiweb/ear-production-suite&lt;/a>&lt;/p>
+&lt;p>Suite de plugins VST pour la production audio immersive et personnalisable, basée sur l&amp;rsquo;&lt;strong>Audio Definition Model (ADM)&lt;/strong> et le rendu ITU.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 étoile&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>pam&lt;span class="hx-absolute -hx-mt-20" id="pam">&lt;/span>
+&lt;a href="#pam" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/pam" target="_blank" rel="noopener">github.com/dewiweb/pam&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Audio Monitoring Software&lt;/strong> conçu pour tourner sur Raspberry Pi avec écran tactile.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 étoile · Langage : C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>BM-Camera-Control-WebUI&lt;span class="hx-absolute -hx-mt-20" id="bm-camera-control-webui">&lt;/span>
+&lt;a href="#bm-camera-control-webui" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/BM-Camera-Control-WebUI" target="_blank" rel="noopener">github.com/dewiweb/BM-Camera-Control-WebUI&lt;/a>&lt;/p>
+&lt;p>Interface web extensible pour le contrôle de caméras &lt;strong>Blackmagic&lt;/strong>.&lt;/p>
+&lt;ul>
+&lt;li>Langage : JavaScript&lt;/li>
 &lt;/ul></description></item></channel></rss>

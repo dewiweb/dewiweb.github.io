@@ -64,4 +64,126 @@
 &lt;li>Language: Python&lt;/li>
 &lt;li>Licence: GPL-3.0&lt;/li>
 &lt;li>&lt;a href="http://code.sat.qc.ca/trac/scenic/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>AES67 &amp; network audio</title><link>https://dewiweb.github.io/en/docs/contributions/aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/aes67/</guid><description>
+&lt;h2>aes67-web-monitor&lt;span class="hx-absolute -hx-mt-20" id="aes67-web-monitor">&lt;/span>
+&lt;a href="#aes67-web-monitor" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-web-monitor" target="_blank" rel="noopener">github.com/dewiweb/aes67-web-monitor&lt;/a>&lt;/p>
+&lt;p>Tool to monitor &lt;strong>AES67&lt;/strong> streams via a web page: VU meter, RTP and timing statistics, PCM sound in the browser.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-linux-daemon&lt;span class="hx-absolute -hx-mt-20" id="aes67-linux-daemon">&lt;/span>
+&lt;a href="#aes67-linux-daemon" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-linux-daemon" target="_blank" rel="noopener">github.com/dewiweb/aes67-linux-daemon&lt;/a>&lt;/p>
+&lt;p>Linux daemon for AES67 audio transport with a WebUI for configuration.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-recorder&lt;span class="hx-absolute -hx-mt-20" id="aes67-recorder">&lt;/span>
+&lt;a href="#aes67-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-recorder" target="_blank" rel="noopener">github.com/dewiweb/aes67-recorder&lt;/a>&lt;/p>
+&lt;p>Linux/GStreamer-based AES67 multitrack audio backup solution.&lt;/p>
+&lt;ul>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>mai&lt;span class="hx-absolute -hx-mt-20" id="mai">&lt;/span>
+&lt;a href="#mai" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/mai" target="_blank" rel="noopener">github.com/dewiweb/mai&lt;/a>&lt;/p>
+&lt;p>Mark&amp;rsquo;s AES67 Implementation — a C implementation of the AES67 standard.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star · Language: C&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>MARIAN-ALSA-DRIVER&lt;span class="hx-absolute -hx-mt-20" id="marian-alsa-driver">&lt;/span>
+&lt;a href="#marian-alsa-driver" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/MARIAN-ALSA-DRIVER" target="_blank" rel="noopener">github.com/dewiweb/MARIAN-ALSA-DRIVER&lt;/a>&lt;/p>
+&lt;p>ALSA driver for MARIAN audio interfaces.&lt;/p></description></item><item><title>Show control &amp; OSC</title><link>https://dewiweb.github.io/en/docs/contributions/show-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/show-control/</guid><description>
+&lt;h2>open-stage-control&lt;span class="hx-absolute -hx-mt-20" id="open-stage-control">&lt;/span>
+&lt;a href="#open-stage-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/open-stage-control" target="_blank" rel="noopener">github.com/dewiweb/open-stage-control&lt;/a>&lt;/p>
+&lt;p>Libre and modular OSC/MIDI controller. Customisable web interface to drive any system via OSC or MIDI.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>ADM-OSC&lt;span class="hx-absolute -hx-mt-20" id="adm-osc">&lt;/span>
+&lt;a href="#adm-osc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ADM-OSC" target="_blank" rel="noopener">github.com/dewiweb/ADM-OSC&lt;/a>&lt;/p>
+&lt;p>OSC dictionary implementing the &lt;strong>Audio Definition Model (ADM)&lt;/strong> — standard for object-based and immersive audio.&lt;/p>
+&lt;hr>
+&lt;h2>sisyfos-audio-controller&lt;span class="hx-absolute -hx-mt-20" id="sisyfos-audio-controller">&lt;/span>
+&lt;a href="#sisyfos-audio-controller" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sisyfos-audio-controller" target="_blank" rel="noopener">github.com/dewiweb/sisyfos-audio-controller&lt;/a>&lt;/p>
+&lt;p>Intelligent audio controller for automation systems (broadcast). Manages routing and mixing via a web interface.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Chataigne&lt;span class="hx-absolute -hx-mt-20" id="chataigne">&lt;/span>
+&lt;a href="#chataigne" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Chataigne" target="_blank" rel="noopener">github.com/dewiweb/Chataigne&lt;/a>&lt;/p>
+&lt;p>Artist-friendly modular machine for art and technology by Benjamin Kuperberg. Central show control tool used with several of my modules.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion&lt;span class="hx-absolute -hx-mt-20" id="companion">&lt;/span>
+&lt;a href="#companion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion" target="_blank" rel="noopener">github.com/dewiweb/companion&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Bitfocus Companion&lt;/strong> — turns an Elgato Stream Deck into a professional control surface for broadcast and stage equipment.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-denon-recorder&lt;span class="hx-absolute -hx-mt-20" id="companion-module-denon-recorder">&lt;/span>
+&lt;a href="#companion-module-denon-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-denon-recorder" target="_blank" rel="noopener">github.com/dewiweb/companion-module-denon-recorder&lt;/a>&lt;/p>
+&lt;p>Companion module for &lt;strong>Denon&lt;/strong> recorders.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Behringer-x-Touch-Extender-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="behringer-x-touch-extender-chataigne-module">&lt;/span>
+&lt;a href="#behringer-x-touch-extender-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Chataigne module for the &lt;strong>Behringer X-Touch Extender&lt;/strong> controller.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>XTouch-Universal-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="xtouch-universal-chataigne-module">&lt;/span>
+&lt;a href="#xtouch-universal-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/XTouch-Universal-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/XTouch-Universal-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Universal Chataigne module for &lt;strong>Behringer X-Touch&lt;/strong> surfaces.&lt;/p>
+&lt;hr>
+&lt;h2>midimonster&lt;span class="hx-absolute -hx-mt-20" id="midimonster">&lt;/span>
+&lt;a href="#midimonster" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/midimonster" target="_blank" rel="noopener">github.com/dewiweb/midimonster&lt;/a>&lt;/p>
+&lt;p>Multi-protocol control &amp;amp; translation software: ArtNet, MIDI, OSC, sACN and more.&lt;/p></description></item><item><title>Broadcast &amp; media</title><link>https://dewiweb.github.io/en/docs/contributions/broadcast-media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/broadcast-media/</guid><description>
+&lt;h2>sofie-emberplus-connection&lt;span class="hx-absolute -hx-mt-20" id="sofie-emberplus-connection">&lt;/span>
+&lt;a href="#sofie-emberplus-connection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sofie-emberplus-connection" target="_blank" rel="noopener">github.com/dewiweb/sofie-emberplus-connection&lt;/a>&lt;/p>
+&lt;p>Ember+ connection layer for &lt;strong>Sofie&lt;/strong> — the modern TV news studio automation system. TypeScript Ember+ communication layer.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>pi-list&lt;span class="hx-absolute -hx-mt-20" id="pi-list">&lt;/span>
+&lt;a href="#pi-list" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/pi-list" target="_blank" rel="noopener">github.com/dewiweb/pi-list&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Live IP Software Toolkit&lt;/strong> from the EBU to assist in implementing IP facilities (ST2110, AES67). Analysis and monitoring tool for IP media streams.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>media-network-manager-cloud&lt;span class="hx-absolute -hx-mt-20" id="media-network-manager-cloud">&lt;/span>
+&lt;a href="#media-network-manager-cloud" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/media-network-manager-cloud" target="_blank" rel="noopener">github.com/dewiweb/media-network-manager-cloud&lt;/a>&lt;/p>
+&lt;p>&lt;strong>MnMs&lt;/strong> — set of tools for monitoring and administering real-time media networks (ST2110, AES67, Dante&amp;hellip;).&lt;/p>
+&lt;hr>
+&lt;h2>ear-production-suite&lt;span class="hx-absolute -hx-mt-20" id="ear-production-suite">&lt;/span>
+&lt;a href="#ear-production-suite" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ear-production-suite" target="_blank" rel="noopener">github.com/dewiweb/ear-production-suite&lt;/a>&lt;/p>
+&lt;p>VST plugin suite for producing and reproducing immersive and personalisable audio, based on the &lt;strong>Audio Definition Model (ADM)&lt;/strong> and ITU renderer.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>pam&lt;span class="hx-absolute -hx-mt-20" id="pam">&lt;/span>
+&lt;a href="#pam" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/pam" target="_blank" rel="noopener">github.com/dewiweb/pam&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Audio Monitoring Software&lt;/strong> designed to run on a Raspberry Pi with touchscreen.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star · Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>BM-Camera-Control-WebUI&lt;span class="hx-absolute -hx-mt-20" id="bm-camera-control-webui">&lt;/span>
+&lt;a href="#bm-camera-control-webui" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/BM-Camera-Control-WebUI" target="_blank" rel="noopener">github.com/dewiweb/BM-Camera-Control-WebUI&lt;/a>&lt;/p>
+&lt;p>Extensible web interface for &lt;strong>Blackmagic&lt;/strong> camera control.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
 &lt;/ul></description></item></channel></rss>

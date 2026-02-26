@@ -1,0 +1,85 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Chataigne</title><link>https://dewiweb.github.io/en/tags/chataigne/</link><description>Recent content in Chataigne on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/chataigne/index.xml" rel="self" type="application/rss+xml"/><item><title>chataigne_spatiale</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Python&lt;/strong> module integrating the &lt;strong>Holophonix&lt;/strong> spatial audio processor into &lt;strong>Chataigne&lt;/strong> — a modular software for arts and technology. Drives spatial sound sources from Chataigne&amp;rsquo;s interface via OSC.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Control Holophonix sources from Chataigne&lt;/li>
+&lt;li>Bidirectional OSC communication&lt;/li>
+&lt;li>Integration into show control workflows&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>7 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item><item><title>Show control &amp; OSC</title><link>https://dewiweb.github.io/en/docs/contributions/show-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/show-control/</guid><description>
+&lt;h2>open-stage-control&lt;span class="hx-absolute -hx-mt-20" id="open-stage-control">&lt;/span>
+&lt;a href="#open-stage-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/open-stage-control" target="_blank" rel="noopener">github.com/dewiweb/open-stage-control&lt;/a>&lt;/p>
+&lt;p>Libre and modular OSC/MIDI controller. Customisable web interface to drive any system via OSC or MIDI.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>ADM-OSC&lt;span class="hx-absolute -hx-mt-20" id="adm-osc">&lt;/span>
+&lt;a href="#adm-osc" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ADM-OSC" target="_blank" rel="noopener">github.com/dewiweb/ADM-OSC&lt;/a>&lt;/p>
+&lt;p>OSC dictionary implementing the &lt;strong>Audio Definition Model (ADM)&lt;/strong> — standard for object-based and immersive audio.&lt;/p>
+&lt;hr>
+&lt;h2>sisyfos-audio-controller&lt;span class="hx-absolute -hx-mt-20" id="sisyfos-audio-controller">&lt;/span>
+&lt;a href="#sisyfos-audio-controller" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sisyfos-audio-controller" target="_blank" rel="noopener">github.com/dewiweb/sisyfos-audio-controller&lt;/a>&lt;/p>
+&lt;p>Intelligent audio controller for automation systems (broadcast). Manages routing and mixing via a web interface.&lt;/p>
+&lt;ul>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Chataigne&lt;span class="hx-absolute -hx-mt-20" id="chataigne">&lt;/span>
+&lt;a href="#chataigne" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Chataigne" target="_blank" rel="noopener">github.com/dewiweb/Chataigne&lt;/a>&lt;/p>
+&lt;p>Artist-friendly modular machine for art and technology by Benjamin Kuperberg. Central show control tool used with several of my modules.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion&lt;span class="hx-absolute -hx-mt-20" id="companion">&lt;/span>
+&lt;a href="#companion" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion" target="_blank" rel="noopener">github.com/dewiweb/companion&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Bitfocus Companion&lt;/strong> — turns an Elgato Stream Deck into a professional control surface for broadcast and stage equipment.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-denon-recorder&lt;span class="hx-absolute -hx-mt-20" id="companion-module-denon-recorder">&lt;/span>
+&lt;a href="#companion-module-denon-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-denon-recorder" target="_blank" rel="noopener">github.com/dewiweb/companion-module-denon-recorder&lt;/a>&lt;/p>
+&lt;p>Companion module for &lt;strong>Denon&lt;/strong> recorders.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>Behringer-x-Touch-Extender-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="behringer-x-touch-extender-chataigne-module">&lt;/span>
+&lt;a href="#behringer-x-touch-extender-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/Behringer-x-Touch-Extender-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Chataigne module for the &lt;strong>Behringer X-Touch Extender&lt;/strong> controller.&lt;/p>
+&lt;ul>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>XTouch-Universal-Chataigne-Module&lt;span class="hx-absolute -hx-mt-20" id="xtouch-universal-chataigne-module">&lt;/span>
+&lt;a href="#xtouch-universal-chataigne-module" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/XTouch-Universal-Chataigne-Module" target="_blank" rel="noopener">github.com/dewiweb/XTouch-Universal-Chataigne-Module&lt;/a>&lt;/p>
+&lt;p>Universal Chataigne module for &lt;strong>Behringer X-Touch&lt;/strong> surfaces.&lt;/p>
+&lt;hr>
+&lt;h2>midimonster&lt;span class="hx-absolute -hx-mt-20" id="midimonster">&lt;/span>
+&lt;a href="#midimonster" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/midimonster" target="_blank" rel="noopener">github.com/dewiweb/midimonster&lt;/a>&lt;/p>
+&lt;p>Multi-protocol control &amp;amp; translation software: ArtNet, MIDI, OSC, sACN and more.&lt;/p></description></item><item><title>Holophonix-chataigne-module</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Chataigne&lt;/strong> module dedicated to the &lt;strong>Holophonix&lt;/strong> spatial audio processor. Natively integrates Holophonix into Chataigne to drive sound sources, read states and automate behaviours in a show control context.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Control Holophonix spatial audio sources from Chataigne&lt;/li>
+&lt;li>Read/write parameters via OSC&lt;/li>
+&lt;li>Integration into complex show control workflows&lt;/li>
+&lt;li>Compatible with recent Holophonix versions&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>6 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Network-Audio</title><link>https://dewiweb.github.io/tags/network-audio/</link><description>Recent content in Network-Audio on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/network-audio/index.xml" rel="self" type="application/rss+xml"/><item><title>AES67 &amp; réseau audio</title><link>https://dewiweb.github.io/docs/contributions/aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/aes67/</guid><description>
+&lt;h2>aes67-web-monitor&lt;span class="hx-absolute -hx-mt-20" id="aes67-web-monitor">&lt;/span>
+&lt;a href="#aes67-web-monitor" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-web-monitor" target="_blank" rel="noopener">github.com/dewiweb/aes67-web-monitor&lt;/a>&lt;/p>
+&lt;p>Outil de monitoring de flux &lt;strong>AES67&lt;/strong> via une page web : vumètre, statistiques RTP et temporelles, lecture PCM dans le navigateur.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 étoile&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-linux-daemon&lt;span class="hx-absolute -hx-mt-20" id="aes67-linux-daemon">&lt;/span>
+&lt;a href="#aes67-linux-daemon" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-linux-daemon" target="_blank" rel="noopener">github.com/dewiweb/aes67-linux-daemon&lt;/a>&lt;/p>
+&lt;p>Démon Linux pour le transport audio AES67 avec interface WebUI de configuration.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-recorder&lt;span class="hx-absolute -hx-mt-20" id="aes67-recorder">&lt;/span>
+&lt;a href="#aes67-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-recorder" target="_blank" rel="noopener">github.com/dewiweb/aes67-recorder&lt;/a>&lt;/p>
+&lt;p>Solution de sauvegarde multitrack audio AES67 basée sur Linux et GStreamer.&lt;/p>
+&lt;ul>
+&lt;li>Langage : Python&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>mai&lt;span class="hx-absolute -hx-mt-20" id="mai">&lt;/span>
+&lt;a href="#mai" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/mai" target="_blank" rel="noopener">github.com/dewiweb/mai&lt;/a>&lt;/p>
+&lt;p>Implémentation AES67 par Mark — implémentation en C du standard AES67.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 étoile · Langage : C&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>MARIAN-ALSA-DRIVER&lt;span class="hx-absolute -hx-mt-20" id="marian-alsa-driver">&lt;/span>
+&lt;a href="#marian-alsa-driver" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/MARIAN-ALSA-DRIVER" target="_blank" rel="noopener">github.com/dewiweb/MARIAN-ALSA-DRIVER&lt;/a>&lt;/p>
+&lt;p>Pilote ALSA pour les interfaces audio MARIAN.&lt;/p></description></item></channel></rss>

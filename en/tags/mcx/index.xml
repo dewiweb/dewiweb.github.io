@@ -1,0 +1,16 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Mcx</title><link>https://dewiweb.github.io/en/tags/mcx/</link><description>Recent content in Mcx on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/mcx/index.xml" rel="self" type="application/rss+xml"/><item><title>MCxOSC</title><link>https://dewiweb.github.io/en/docs/projets/protocoles/mcxosc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/protocoles/mcxosc/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A bridge between the &lt;strong>Ember+&lt;/strong> and &lt;strong>OSC&lt;/strong> protocols, specifically designed for &lt;strong>Lawo MCx&lt;/strong> consoles. Allows controlling and monitoring an MCx console from any OSC environment (Chataigne, Max/MSP, QLab, etc.).&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Bidirectional Ember+ ↔ OSC translation&lt;/li>
+&lt;li>Adapted to Lawo MCx console specifics&lt;/li>
+&lt;li>Interfacing with show control systems via OSC&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>6 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;/ul></description></item></channel></rss>

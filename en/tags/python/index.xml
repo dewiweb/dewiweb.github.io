@@ -1,0 +1,63 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Python</title><link>https://dewiweb.github.io/en/tags/python/</link><description>Recent content in Python on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>AES67 &amp; network audio</title><link>https://dewiweb.github.io/en/docs/contributions/aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/aes67/</guid><description>
+&lt;h2>aes67-web-monitor&lt;span class="hx-absolute -hx-mt-20" id="aes67-web-monitor">&lt;/span>
+&lt;a href="#aes67-web-monitor" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-web-monitor" target="_blank" rel="noopener">github.com/dewiweb/aes67-web-monitor&lt;/a>&lt;/p>
+&lt;p>Tool to monitor &lt;strong>AES67&lt;/strong> streams via a web page: VU meter, RTP and timing statistics, PCM sound in the browser.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-linux-daemon&lt;span class="hx-absolute -hx-mt-20" id="aes67-linux-daemon">&lt;/span>
+&lt;a href="#aes67-linux-daemon" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-linux-daemon" target="_blank" rel="noopener">github.com/dewiweb/aes67-linux-daemon&lt;/a>&lt;/p>
+&lt;p>Linux daemon for AES67 audio transport with a WebUI for configuration.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>aes67-recorder&lt;span class="hx-absolute -hx-mt-20" id="aes67-recorder">&lt;/span>
+&lt;a href="#aes67-recorder" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/aes67-recorder" target="_blank" rel="noopener">github.com/dewiweb/aes67-recorder&lt;/a>&lt;/p>
+&lt;p>Linux/GStreamer-based AES67 multitrack audio backup solution.&lt;/p>
+&lt;ul>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>mai&lt;span class="hx-absolute -hx-mt-20" id="mai">&lt;/span>
+&lt;a href="#mai" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/mai" target="_blank" rel="noopener">github.com/dewiweb/mai&lt;/a>&lt;/p>
+&lt;p>Mark&amp;rsquo;s AES67 Implementation — a C implementation of the AES67 standard.&lt;/p>
+&lt;ul>
+&lt;li>⭐ 1 star · Language: C&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>MARIAN-ALSA-DRIVER&lt;span class="hx-absolute -hx-mt-20" id="marian-alsa-driver">&lt;/span>
+&lt;a href="#marian-alsa-driver" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/MARIAN-ALSA-DRIVER" target="_blank" rel="noopener">github.com/dewiweb/MARIAN-ALSA-DRIVER&lt;/a>&lt;/p>
+&lt;p>ALSA driver for MARIAN audio interfaces.&lt;/p></description></item><item><title>holophonix_blender_addon</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Blender&lt;/strong> addon providing utility functions for &lt;strong>Holophonix&lt;/strong> projects, including management of tracks, speakers, handlers and OSC operations directly from Blender&amp;rsquo;s interface.&lt;/p>
+&lt;p>Combines Blender&amp;rsquo;s 3D visualisation power with the Holophonix spatialisation engine.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Manage Holophonix tracks from Blender&lt;/li>
+&lt;li>Configure speakers (positions, groups)&lt;/li>
+&lt;li>Manage OSC handlers&lt;/li>
+&lt;li>Direct OSC operations to Holophonix&lt;/li>
+&lt;li>3D visualisation of the sound scene in Blender&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item><item><title>chataigne_spatiale</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Python&lt;/strong> module integrating the &lt;strong>Holophonix&lt;/strong> spatial audio processor into &lt;strong>Chataigne&lt;/strong> — a modular software for arts and technology. Drives spatial sound sources from Chataigne&amp;rsquo;s interface via OSC.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Control Holophonix sources from Chataigne&lt;/li>
+&lt;li>Bidirectional OSC communication&lt;/li>
+&lt;li>Integration into show control workflows&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>7 stars&lt;/strong> · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item></channel></rss>
