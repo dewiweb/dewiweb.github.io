@@ -6,6 +6,8 @@ description: "Visualisez votre bibliothèque musicale beets comme une constellat
 tags: ["musique", "visualisation", "beets", "typescript", "web"]
 ---
 
+{{< repo-card repo="music-constellation" lang="true" >}}
+
 ## Présentation
 
 Application web qui représente une bibliothèque musicale gérée par **[beets](https://beets.io/)** sous forme de **constellation interactive**. Chaque étoile est un album ou un artiste, et les liens entre elles illustrent les relations (genres, années, similarités).

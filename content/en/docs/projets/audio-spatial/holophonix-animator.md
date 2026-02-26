@@ -5,6 +5,8 @@ description: "Desktop application to create and manage movement behaviours for H
 tags: ["holophonix", "spatial-audio", "osc", "electron"]
 ---
 
+{{< repo-card repo="holophonix-animator" lang="true" license="true" >}}
+
 ## Overview
 
 Desktop application for creating and managing **movement animations** for spatial audio tracks on the [Holophonix](https://holophonix.xyz/) processor.

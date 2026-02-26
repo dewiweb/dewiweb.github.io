@@ -5,6 +5,8 @@ description: "Modern rewrite of the Trajectoires app for OSC-driven spatial audi
 tags: ["osc", "spatial-audio", "typescript", "web"]
 ---
 
+{{< repo-card repo="trajectoires-modern" lang="true" >}}
+
 ## Overview
 
 Full rewrite of the **Trajectoires** application, a web/mobile interface for controlling sound spatialisation via OSC. This modernised version is developed in TypeScript with a revised architecture.

@@ -6,6 +6,8 @@ description: "Documentation du protocole XCTL utilisé par les consoles Behringe
 tags: ["xctl", "behringer", "midi", "protocole", "documentation"]
 ---
 
+{{< repo-card repo="XCTL_" lang="true" license="true" >}}
+
 ## Présentation
 
 Documentation de référence sur le protocole **XCTL** utilisé par les consoles de mixage **Behringer X-Touch** (et compatibles). Ce protocole, basé sur MIDI étendu, permet la communication bidirectionnelle entre la surface de contrôle et un logiciel DAW ou un système de contrôle personnalisé.

@@ -5,6 +5,8 @@ description: "Module Chataigne pour interagir avec le processeur audio spatial H
 tags: ["holophonix", "chataigne", "osc", "javascript", "spatial-audio"]
 ---
 
+{{< repo-card repo="Holophonix-chataigne-module" lang="true" license="true" >}}
+
 ## Présentation
 
 Module **Chataigne** dédié au processeur audio spatial **Holophonix**. Permet d'intégrer nativement Holophonix dans Chataigne pour piloter les sources sonores, lire les états et automatiser des comportements dans un contexte de show control.

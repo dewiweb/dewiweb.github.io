@@ -6,6 +6,8 @@ description: "Transformez n'importe quel Raspberry Pi en lecteur média kiosk pl
 tags: ["raspberry-pi", "kiosk", "chromium", "html", "media"]
 ---
 
+{{< repo-card repo="rpi-media-kiosk" lang="true" >}}
+
 ## Présentation
 
 Solution clé en main pour transformer n'importe quel **Raspberry Pi** en lecteur média **kiosk plein écran**. Lit automatiquement des vidéos, présentations PowerPoint, PDF et diaporamas d'images depuis une clé USB ou le stockage local — le tout rendu via **Chromium**.

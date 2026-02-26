@@ -5,6 +5,8 @@ description: "Addon Blender pour la gestion de projets Holophonix"
 tags: ["blender", "holophonix", "python", "osc", "spatial-audio", "3d"]
 ---
 
+{{< repo-card repo="holophonix_blender_addon" lang="true" >}}
+
 ## Présentation
 
 Addon **Blender** fournissant des fonctions utilitaires pour les projets **Holophonix**, notamment la gestion de pistes (tracks), de haut-parleurs (speakers), de handlers et d'opérations OSC directement depuis l'interface de Blender.

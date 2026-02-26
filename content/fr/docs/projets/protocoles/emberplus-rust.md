@@ -6,6 +6,8 @@ description: "Implémentation Rust du protocole Ember+ (client et serveur)"
 tags: ["ember+", "rust", "protocole", "broadcast"]
 ---
 
+{{< repo-card repo="emberplus_rust" lang="true" >}}
+
 ## Présentation
 
 Implémentation en **Rust** du protocole **Ember+**, couvrant à la fois le rôle de client (consumer) et de serveur (provider).

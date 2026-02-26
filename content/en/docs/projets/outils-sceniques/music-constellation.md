@@ -5,6 +5,8 @@ description: "Visualise your beets music library as an interactive constellation
 tags: ["music", "visualisation", "beets", "typescript", "web"]
 ---
 
+{{< repo-card repo="music-constellation" lang="true" >}}
+
 ## Overview
 
 A web application that represents a **[beets](https://beets.io/)** music library as an **interactive constellation**. Each star is an album or artist, and the links between them illustrate relationships (genres, years, similarities).

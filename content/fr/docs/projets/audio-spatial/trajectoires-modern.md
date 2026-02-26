@@ -6,6 +6,8 @@ description: "Refonte moderne de l'application Trajectoires pour le contrôle OS
 tags: ["osc", "audio-spatial", "typescript", "web"]
 ---
 
+{{< repo-card repo="trajectoires-modern" lang="true" >}}
+
 ## Présentation
 
 Refonte complète de l'application **Trajectoires**, une interface web/mobile pour le contrôle de la spatialisation sonore via OSC. Cette version modernisée est développée en TypeScript avec une architecture revue.

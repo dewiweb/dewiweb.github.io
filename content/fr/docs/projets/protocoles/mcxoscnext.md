@@ -5,6 +5,8 @@ description: "Réécriture de MCxOSC — bridge Ember+ ↔ OSC nouvelle généra
 tags: ["ember+", "osc", "lawo", "javascript", "broadcast"]
 ---
 
+{{< repo-card repo="MCxOSCnext" lang="true" license="true" >}}
+
 ## Présentation
 
 Réécriture et évolution de **MCxOSC** — une passerelle entre les protocoles **Ember+** et **OSC**. Architecture remaniée pour plus de robustesse et de flexibilité, compatible avec un plus large éventail d'équipements Ember+.

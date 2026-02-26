@@ -6,6 +6,8 @@ description: "Contrôleur 3D SpaceMouse vers OSC pour la spatialisation sonore"
 tags: ["osc", "spacemouse", "3dconnexion", "audio-spatial", "javascript"]
 ---
 
+{{< repo-card repo="spacemouse-osc" lang="true" license="true" >}}
+
 ## Présentation
 
 Passerelle entre la **SpaceMouse Compact de 3Dconnexion** et le protocole **OSC** (Open Sound Control). Permet d'utiliser le contrôleur 6DoF (6 degrés de liberté) pour piloter des sources sonores dans l'espace 3D en temps réel.

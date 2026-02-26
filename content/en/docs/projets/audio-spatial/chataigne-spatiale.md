@@ -5,6 +5,8 @@ description: "Python module to drive Holophonix from Chataigne"
 tags: ["holophonix", "chataigne", "osc", "python", "spatial-audio"]
 ---
 
+{{< repo-card repo="chataigne_spatiale" lang="true" >}}
+
 ## Overview
 
 A **Python** module integrating the **Holophonix** spatial audio processor into **Chataigne** — a modular software for arts and technology. Drives spatial sound sources from Chataigne's interface via OSC.

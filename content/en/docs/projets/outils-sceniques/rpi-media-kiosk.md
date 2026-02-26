@@ -5,6 +5,8 @@ description: "Turn any Raspberry Pi into a full-screen media kiosk player"
 tags: ["raspberry-pi", "kiosk", "chromium", "html", "media"]
 ---
 
+{{< repo-card repo="rpi-media-kiosk" lang="true" >}}
+
 ## Overview
 
 A plug-and-play solution to turn any **Raspberry Pi** into a **full-screen media kiosk** player. Automatically plays videos, PowerPoint presentations, PDFs and image slideshows from a USB stick or local storage — all rendered via **Chromium**.

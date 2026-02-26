@@ -5,6 +5,8 @@ description: "Ember+ ↔ OSC bridge dedicated to Lawo MCx consoles"
 tags: ["ember+", "osc", "lawo", "mcx", "javascript", "broadcast"]
 ---
 
+{{< repo-card repo="MCxOSC" lang="true" >}}
+
 ## Overview
 
 A bridge between the **Ember+** and **OSC** protocols, specifically designed for **Lawo MCx** consoles. Allows controlling and monitoring an MCx console from any OSC environment (Chataigne, Max/MSP, QLab, etc.).

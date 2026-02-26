@@ -5,6 +5,8 @@ description: "Module Python pour piloter Holophonix depuis Chataigne"
 tags: ["holophonix", "chataigne", "osc", "python", "spatial-audio"]
 ---
 
+{{< repo-card repo="chataigne_spatiale" lang="true" >}}
+
 ## Présentation
 
 Module **Python** pour intégrer le processeur audio spatial **Holophonix** dans l'environnement **Chataigne** — un logiciel modulaire orienté arts et technologie. Permet de piloter les sources sonores spatiales depuis l'interface de Chataigne via OSC.

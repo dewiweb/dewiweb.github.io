@@ -5,6 +5,8 @@ description: "Blender addon for Holophonix project management"
 tags: ["blender", "holophonix", "python", "osc", "spatial-audio", "3d"]
 ---
 
+{{< repo-card repo="holophonix_blender_addon" lang="true" >}}
+
 ## Overview
 
 A **Blender** addon providing utility functions for **Holophonix** projects, including management of tracks, speakers, handlers and OSC operations directly from Blender's interface.

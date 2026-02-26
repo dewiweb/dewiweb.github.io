@@ -6,6 +6,8 @@ description: "ALSA driver for RAVENNA/AES67 networked audio transport on Linux"
 tags: ["linux", "alsa", "driver", "aes67", "ravenna", "network-audio"]
 ---
 
+{{< repo-card repo="ALSA-RAVENNA-AES67-Driver" lang="true" >}}
+
 ## Overview
 
 Clone of the ALSA RAVENNA/AES67 driver originally provided by **Merging Technologies**. This Linux kernel module (LKM) enables the **RAVENNA** network audio transport protocol (compatible with **AES67**) within the ALSA subsystem on Linux.
