@@ -3,9 +3,15 @@ title: dewiweb
 layout: hextra-home
 ---
 
-<div class="hx-mt-6 hx-mb-6">
+<div class="hx-mt-6 hx-mb-4">
   <img src="https://avatars.githubusercontent.com/u/3625655?v=4" alt="dewiweb" style="width:96px;height:96px;border-radius:50%;border:2px solid rgba(255,255,255,0.15);" />
 </div>
+
+{{< hextra/hero-badge >}}
+  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
+  <span>Open source</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
 
 <div class="hx-mb-6">
 {{< hextra/hero-headline >}}
