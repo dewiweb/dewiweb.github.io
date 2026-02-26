@@ -1,28 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Lawo</title><link>https://dewiweb.github.io/tags/lawo/</link><description>Recent content in Lawo on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/lawo/index.xml" rel="self" type="application/rss+xml"/><item><title>MCxOSC</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</guid><description>
-&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
-&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" style="text-decoration:none;">
-&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSC?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
-&lt;/a>
-&lt;a href="https://github.com/dewiweb/MCxOSC/commits" target="_blank" style="text-decoration:none;">
-&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSC?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
-&lt;/a>
-&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSC?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
-&lt;/div>
-&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
-&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre le protocole &lt;strong>Ember+&lt;/strong> et &lt;strong>OSC&lt;/strong>, spécifiquement conçue pour les consoles &lt;strong>Lawo MCx&lt;/strong>. Permet de contrôler et monitorer une console MCx depuis n&amp;rsquo;importe quel environnement OSC (Chataigne, Max/MSP, QLab, etc.).&lt;/p>
-&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
-&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>Traduction bidirectionnelle Ember+ ↔ OSC&lt;/li>
-&lt;li>Adapté aux spécificités des consoles Lawo MCx&lt;/li>
-&lt;li>Interfaçage avec des systèmes de show control via OSC&lt;/li>
-&lt;/ul>
-&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
-&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>6 étoiles&lt;/strong> · actif&lt;/p>
-&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
-&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
-&lt;li>Langage : JavaScript&lt;/li>
-&lt;/ul></description></item><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Riedel</title><link>https://dewiweb.github.io/tags/riedel/</link><description>Recent content in Riedel on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/riedel/index.xml" rel="self" type="application/rss+xml"/><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</guid><description>
 &lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
 &lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" style="text-decoration:none;">
 &lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSCnext?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />

@@ -68,31 +68,6 @@
 &lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;li>Language: JavaScript&lt;/li>
-&lt;/ul></description></item><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/en/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/protocoles/mcxoscnext/</guid><description>
-&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
-&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" style="text-decoration:none;">
-&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSCnext?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
-&lt;/a>
-&lt;a href="https://github.com/dewiweb/MCxOSCnext/commits" target="_blank" style="text-decoration:none;">
-&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSCnext?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
-&lt;/a>
-&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSCnext?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
-&lt;img src="https://img.shields.io/github/license/dewiweb/MCxOSCnext?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
-&lt;/div>
-&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
-&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A rewrite and evolution of &lt;strong>MCxOSC&lt;/strong> — an &lt;strong>Ember+&lt;/strong> to &lt;strong>OSC&lt;/strong> bridge. Revised architecture for greater robustness and flexibility, compatible with a wider range of Ember+ equipment.&lt;/p>
-&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
-&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>Ember+ ↔ OSC bridge with improved architecture&lt;/li>
-&lt;li>Better error handling and automatic reconnection&lt;/li>
-&lt;li>Compatible with any Ember+ device, not only Lawo MCx&lt;/li>
-&lt;/ul>
-&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
-&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>4 stars&lt;/strong> · active&lt;/p>
-&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
-&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
-&lt;li>Language: JavaScript&lt;/li>
 &lt;/ul></description></item><item><title>Show control &amp; OSC</title><link>https://dewiweb.github.io/en/docs/contributions/show-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/show-control/</guid><description>
 &lt;h2>open-stage-control&lt;span class="hx-absolute -hx-mt-20" id="open-stage-control">&lt;/span>
 &lt;a href="#open-stage-control" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/open-stage-control" target="_blank" rel="noopener">github.com/dewiweb/open-stage-control&lt;/a>&lt;/p>

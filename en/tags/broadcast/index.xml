@@ -59,19 +59,59 @@
 &lt;img src="https://img.shields.io/github/license/dewiweb/MCxOSCnext?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
 &lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
-&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A rewrite and evolution of &lt;strong>MCxOSC&lt;/strong> — an &lt;strong>Ember+&lt;/strong> to &lt;strong>OSC&lt;/strong> bridge. Revised architecture for greater robustness and flexibility, compatible with a wider range of Ember+ equipment.&lt;/p>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>MCxOSCnext&lt;/strong> is a full rewrite of MCxOSC — evolved from a desktop Electron app into a &lt;strong>web microservice&lt;/strong> deployable via Docker. It bridges &lt;strong>Ember+&lt;/strong> devices (LAWO MC² consoles, Riedel MediorNet matrices&amp;hellip;) with &lt;strong>OSC&lt;/strong> control systems (QLab, Chataigne, Max/MSP&amp;hellip;).&lt;/p>
+&lt;div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
+&lt;pre>&lt;code>┌─────────────┐ ┌──────────────────────────┐ ┌─────────────┐
+│ Ember&amp;#43; │◄───►│ MCxOSC Bridge │◄───►│ OSC │
+│ (LAWO MC²) │ TCP │ Backend :3000 UI :80 │ UDP │ (QLab...) │
+└─────────────┘ └──────────────────────────┘ └─────────────┘&lt;/code>&lt;/pre>&lt;div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
+&lt;button
+class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;h2>Architecture&lt;span class="hx-absolute -hx-mt-20" id="architecture">&lt;/span>
+&lt;a href="#architecture" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Monorepo with two packages:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Backend&lt;/strong> (&lt;code>Node.js / TypeScript&lt;/code>) — Ember+ engine, OSC engine, REST API, WebSocket&lt;/li>
+&lt;li>&lt;strong>Frontend&lt;/strong> (&lt;code>React / Vite&lt;/code>) — web UI for configuration and monitoring&lt;/li>
+&lt;/ul>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
 &lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
-&lt;li>Ember+ ↔ OSC bridge with improved architecture&lt;/li>
-&lt;li>Better error handling and automatic reconnection&lt;/li>
-&lt;li>Compatible with any Ember+ device, not only Lawo MCx&lt;/li>
+&lt;li>Bidirectional &lt;strong>Ember+ ↔ OSC&lt;/strong> bridge in real time&lt;/li>
+&lt;li>Web UI for device configuration (IP, ports, mappings)&lt;/li>
+&lt;li>Built-in Ember+ tree explorer&lt;/li>
+&lt;li>&lt;strong>Session&lt;/strong> system — save and reload connection mappings&lt;/li>
+&lt;li>Full REST API + WebSocket for third-party integrations&lt;/li>
+&lt;li>&lt;strong>Matrix view&lt;/strong> for Ember+ routers&lt;/li>
+&lt;li>&lt;strong>Docker&lt;/strong> deployment (one-liner, Compose, Portainer)&lt;/li>
+&lt;li>Compatible with LAWO MC², Riedel MediorNet, and any Ember+ device&lt;/li>
 &lt;/ul>
+&lt;h2>Quick start&lt;span class="hx-absolute -hx-mt-20" id="quick-start">&lt;/span>
+&lt;a href="#quick-start" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;div class="hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code">
+&lt;div>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># One-liner deployment — no cloning required&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">curl -fsSL https://raw.githubusercontent.com/dewiweb/MCxOSCnext/develop/docker-compose.yml &lt;span class="p">|&lt;/span> &lt;span class="se">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="se">&lt;/span> &lt;span class="nv">EMBER_HOST&lt;/span>&lt;span class="o">=&lt;/span>192.168.1.100 docker compose -f - up -d&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;div class="hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0">
+&lt;button
+class="hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50"
+title="Copy code"
+>
+&lt;div class="copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;div class="success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4">&lt;/div>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;p>Open the UI at &lt;code>http://localhost&lt;/code>&lt;/p>
 &lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
-&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>4 stars&lt;/strong> · active&lt;/p>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>4 stars&lt;/strong> · active · v2.2.0-beta&lt;/p>
 &lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
 &lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
-&lt;li>Language: JavaScript&lt;/li>
+&lt;li>&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" rel="noopener">MCxOSC (original archived version)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Broadcast &amp; media</title><link>https://dewiweb.github.io/en/docs/contributions/broadcast-media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/broadcast-media/</guid><description>
 &lt;h2>sofie-emberplus-connection&lt;span class="hx-absolute -hx-mt-20" id="sofie-emberplus-connection">&lt;/span>
 &lt;a href="#sofie-emberplus-connection" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/sofie-emberplus-connection" target="_blank" rel="noopener">github.com/dewiweb/sofie-emberplus-connection&lt;/a>&lt;/p>
