@@ -1,0 +1,121 @@
+baseURL: https://dewiweb.github.io/
+title: dewiweb
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: false
+
+enableRobotsTXT: true
+enableGitInfo: true
+
+languages:
+  fr:
+    languageName: Français
+    languageCode: fr
+    contentDir: content/fr
+    weight: 1
+    params:
+      description: "Stage manager & développeur open source — Audio spatial · Protocoles de contrôle · Outils scéniques"
+    menu:
+      main:
+        - name: À propos
+          pageRef: /about
+          weight: 10
+        - name: Projets
+          pageRef: /docs/projets
+          weight: 20
+        - name: Contributions
+          pageRef: /docs/contributions
+          weight: 30
+        - name: Notes
+          pageRef: /blog
+          weight: 40
+        - identifier: github
+          name: GitHub
+          url: https://github.com/dewiweb
+          weight: 100
+          params:
+            type: icon
+            icon: github
+  en:
+    languageName: English
+    languageCode: en
+    contentDir: content/en
+    weight: 2
+    params:
+      description: "Stage manager & open source developer — Spatial audio · Control protocols · Stage tools"
+    menu:
+      main:
+        - name: About
+          pageRef: /about
+          weight: 10
+        - name: Projects
+          pageRef: /docs/projets
+          weight: 20
+        - name: Contributions
+          pageRef: /docs/contributions
+          weight: 30
+        - name: Notes
+          pageRef: /blog
+          weight: 40
+        - identifier: github
+          name: GitHub
+          url: https://github.com/dewiweb
+          weight: 100
+          params:
+            type: icon
+            icon: github
+
+outputs:
+  home:
+    - HTML
+    - RSS
+
+taxonomies:
+  tag: tags
+  category: categories
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: github-dark
+    noClasses: false
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.112.0"
+  imports:
+    - path: github.com/imfing/hextra
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    width: wide
+
+  page:
+    width: normal
+
+  theme:
+    default: dark
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: false
+    displayPoweredBy: false
+
+  sidebar:
+    hide: false
+
+  highlight:
+    copy:
+      enable: true
+
+  search:
+    enable: true
+    type: flexsearch
+
+  social:
+    github: dewiweb
