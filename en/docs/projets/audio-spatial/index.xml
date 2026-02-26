@@ -37,6 +37,7 @@
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Bridge between the &lt;strong>3Dconnexion SpaceMouse Compact&lt;/strong> and the &lt;strong>OSC&lt;/strong> (Open Sound Control) protocol. Lets you use the 6DoF (6 degrees of freedom) controller to drive sound sources in 3D space in real time.&lt;/p>
 &lt;p>Particularly well suited to controlling spatialisation systems such as Holophonix, Max/MSP or SuperCollider.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/dewiweb/spacemouse-osc/main/resources/screenshotV2.2.2.png" alt="spacemouse-osc interface" loading="lazy" />&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
 &lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Read 6DoF data (X/Y/Z translation + rotation) from the SpaceMouse&lt;/li>
@@ -141,6 +142,7 @@
 &lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Chataigne&lt;/strong> module dedicated to the &lt;strong>Holophonix&lt;/strong> spatial audio processor. Natively integrates Holophonix into Chataigne to drive sound sources, read states and automate behaviours in a show control context.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/dewiweb/Holophonix-chataigne-module/main/example/example.gif" alt="Holophonix-chataigne-module demo" loading="lazy" />&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
 &lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Control Holophonix spatial audio sources from Chataigne&lt;/li>

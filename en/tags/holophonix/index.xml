@@ -85,6 +85,7 @@
 &lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Chataigne&lt;/strong> module dedicated to the &lt;strong>Holophonix&lt;/strong> spatial audio processor. Natively integrates Holophonix into Chataigne to drive sound sources, read states and automate behaviours in a show control context.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/dewiweb/Holophonix-chataigne-module/main/example/example.gif" alt="Holophonix-chataigne-module demo" loading="lazy" />&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
 &lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Control Holophonix spatial audio sources from Chataigne&lt;/li>

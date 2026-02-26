@@ -172,6 +172,7 @@
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre la &lt;strong>SpaceMouse Compact de 3Dconnexion&lt;/strong> et le protocole &lt;strong>OSC&lt;/strong> (Open Sound Control). Permet d&amp;rsquo;utiliser le contrôleur 6DoF (6 degrés de liberté) pour piloter des sources sonores dans l&amp;rsquo;espace 3D en temps réel.&lt;/p>
 &lt;p>Particulièrement adapté au contrôle de systèmes de spatialisation comme Holophonix, Max/MSP ou SuperCollider.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/dewiweb/spacemouse-osc/main/resources/screenshotV2.2.2.png" alt="Interface spacemouse-osc" loading="lazy" />&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
 &lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Lecture des données 6DoF (translation X/Y/Z + rotation) de la SpaceMouse&lt;/li>
@@ -535,6 +536,7 @@
 &lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Module &lt;strong>Chataigne&lt;/strong> dédié au processeur audio spatial &lt;strong>Holophonix&lt;/strong>. Permet d&amp;rsquo;intégrer nativement Holophonix dans Chataigne pour piloter les sources sonores, lire les états et automatiser des comportements dans un contexte de show control.&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/dewiweb/Holophonix-chataigne-module/main/example/example.gif" alt="Démo Holophonix-chataigne-module" loading="lazy" />&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
 &lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Contrôle des sources audio spatiales Holophonix depuis Chataigne&lt;/li>
