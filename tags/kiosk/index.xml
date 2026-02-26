@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Kiosk</title><link>https://dewiweb.github.io/tags/kiosk/</link><description>Recent content in Kiosk on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/kiosk/index.xml" rel="self" type="application/rss+xml"/><item><title>rpi-media-kiosk</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/rpi-media-kiosk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/rpi-media-kiosk/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Solution clé en main pour transformer n&amp;rsquo;importe quel &lt;strong>Raspberry Pi&lt;/strong> en lecteur média &lt;strong>kiosk plein écran&lt;/strong>. Lit automatiquement des vidéos, présentations PowerPoint, PDF et diaporamas d&amp;rsquo;images depuis une clé USB ou le stockage local — le tout rendu via &lt;strong>Chromium&lt;/strong>.&lt;/p>
+&lt;p>Idéal pour les installations, expositions, signalétique numérique ou tout usage scénique nécessitant une lecture automatique de médias.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Lecture automatique au démarrage&lt;/li>
+&lt;li>Supporte : vidéos, PDF, PowerPoint (converti), diaporamas d&amp;rsquo;images&lt;/li>
+&lt;li>Chargement depuis clé USB ou stockage local&lt;/li>
+&lt;li>Interface Chromium en mode kiosk (plein écran, sans UI)&lt;/li>
+&lt;li>Configuration simple&lt;/li>
+&lt;/ul>
+&lt;h2>Prérequis&lt;span class="hx-absolute -hx-mt-20" id="prérequis">&lt;/span>
+&lt;a href="#pr%c3%a9requis" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Raspberry Pi (toute génération récente)&lt;/li>
+&lt;li>Raspberry Pi OS&lt;/li>
+&lt;li>Chromium (inclus par défaut sur Raspberry Pi OS)&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/rpi-media-kiosk" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : HTML/Shell&lt;/li>
+&lt;/ul></description></item></channel></rss>

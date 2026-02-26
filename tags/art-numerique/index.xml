@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Art-Numerique</title><link>https://dewiweb.github.io/tags/art-numerique/</link><description>Recent content in Art-Numerique on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/art-numerique/index.xml" rel="self" type="application/rss+xml"/><item><title>Outils &amp; Séquenceurs</title><link>https://dewiweb.github.io/docs/contributions/outils/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/outils/</guid><description>
+&lt;h2>IanniX&lt;span class="hx-absolute -hx-mt-20" id="iannix">&lt;/span>
+&lt;a href="#iannix" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/IanniX" target="_blank" rel="noopener">github.com/dewiweb/IanniX&lt;/a>&lt;/p>
+&lt;p>&lt;strong>IanniX&lt;/strong> est un séquenceur graphique open source basé sur les travaux d&amp;rsquo;Iannis Xenakis, destiné à l&amp;rsquo;art numérique. Il synchronise via OSC des événements et des courbes vers des environnements temps réel (Max/MSP, Pure Data, SuperCollider&amp;hellip;).&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++ (Qt)&lt;/li>
+&lt;li>Licence : GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://www.iannix.org" target="_blank" rel="noopener">Site officiel&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>scenic&lt;span class="hx-absolute -hx-mt-20" id="scenic">&lt;/span>
+&lt;a href="#scenic" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/scenic" target="_blank" rel="noopener">github.com/dewiweb/scenic&lt;/a>&lt;/p>
+&lt;p>Application de &lt;strong>téléprésence&lt;/strong> pour les performances live et les installations artistiques. Permet de partager flux vidéo, audio et données entre sites distants.&lt;/p>
+&lt;ul>
+&lt;li>Langage : Python&lt;/li>
+&lt;li>Licence : GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://code.sat.qc.ca/trac/scenic/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

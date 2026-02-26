@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Ember+</title><link>https://dewiweb.github.io/tags/ember+/</link><description>Recent content in Ember+ on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/ember+/index.xml" rel="self" type="application/rss+xml"/><item><title>emberplus_rust</title><link>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Implémentation en &lt;strong>Rust&lt;/strong> du protocole &lt;strong>Ember+&lt;/strong>, couvrant à la fois le rôle de client (consumer) et de serveur (provider).&lt;/p>
+&lt;p>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Ember+&lt;/a> est un protocole de contrôle utilisé dans l&amp;rsquo;industrie broadcast et audiovisuelle pour la communication entre équipements (mixeurs, routeurs, systèmes de monitoring&amp;hellip;).&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Implémentation client Ember+ (consumer)&lt;/li>
+&lt;li>Implémentation serveur Ember+ (provider)&lt;/li>
+&lt;li>Développé en Rust (performances, sécurité mémoire)&lt;/li>
+&lt;/ul>
+&lt;h2>Pourquoi Rust ?&lt;span class="hx-absolute -hx-mt-20" id="pourquoi-rust-">&lt;/span>
+&lt;a href="#pourquoi-rust-" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Rust offre d&amp;rsquo;excellentes garanties de sécurité mémoire et de performances pour un protocole bas niveau comme Ember+, qui nécessite une communication fiable et à faible latence.&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/emberplus_rust" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Rust&lt;/li>
+&lt;/ul></description></item><item><title>Protocoles de contrôle</title><link>https://dewiweb.github.io/docs/contributions/protocoles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/protocoles/</guid><description>
+&lt;h2>ember-plus&lt;span class="hx-absolute -hx-mt-20" id="ember-plus">&lt;/span>
+&lt;a href="#ember-plus" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ember-plus" target="_blank" rel="noopener">github.com/dewiweb/ember-plus&lt;/a>&lt;/p>
+&lt;p>Le protocole &lt;strong>Ember+&lt;/strong> officiel de Lawo — protocole de contrôle ouvert pour l&amp;rsquo;industrie broadcast et audiovisuelle. Utilisé pour communiquer entre équipements de diffusion (mixeurs, routeurs, systèmes de monitoring).&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>Licence : BSL-1.0&lt;/li>
+&lt;li>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Projet original&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>ember-plus-sharp&lt;span class="hx-absolute -hx-mt-20" id="ember-plus-sharp">&lt;/span>
+&lt;a href="#ember-plus-sharp" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ember-plus-sharp" target="_blank" rel="noopener">github.com/dewiweb/ember-plus-sharp&lt;/a>&lt;/p>
+&lt;p>Implémentation Ember+ pour .NET, permettant de créer rapidement des consumers Ember+ entièrement typés dans n&amp;rsquo;importe quel langage .NET.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C#&lt;/li>
+&lt;li>Licence : BSL-1.0&lt;/li>
+&lt;li>&lt;a href="http://lawo.github.io/ember-plus-sharp" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>OSCRouter&lt;span class="hx-absolute -hx-mt-20" id="oscrouter">&lt;/span>
+&lt;a href="#oscrouter" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/OSCRouter" target="_blank" rel="noopener">github.com/dewiweb/OSCRouter&lt;/a>&lt;/p>
+&lt;p>Routeur de paquets UDP/TCP simple pour Mac et Windows, avec options spécifiques OSC. Permet de redistribuer des messages OSC entre plusieurs applications ou équipements.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>Licence : MIT&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Visualisation</title><link>https://dewiweb.github.io/en/tags/visualisation/</link><description>Recent content in Visualisation on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/visualisation/index.xml" rel="self" type="application/rss+xml"/><item><title>music-constellation</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/music-constellation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/music-constellation/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A web application that represents a &lt;strong>&lt;a href="https://beets.io/" target="_blank" rel="noopener">beets&lt;/a>&lt;/strong> music library as an &lt;strong>interactive constellation&lt;/strong>. Each star is an album or artist, and the links between them illustrate relationships (genres, years, similarities).&lt;/p>
+&lt;p>A poetic, visual way to explore your music collection.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Connect to a beets library (via the beets web API)&lt;/li>
+&lt;li>SVG/Canvas constellation graph representation&lt;/li>
+&lt;li>Interactive navigation (zoom, pan, select)&lt;/li>
+&lt;li>Filter by genre, decade, artist&lt;/li>
+&lt;/ul>
+&lt;h2>Stack&lt;span class="hx-absolute -hx-mt-20" id="stack">&lt;/span>
+&lt;a href="#stack" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>TypeScript&lt;/li>
+&lt;li>Visualisation: D3.js or Canvas&lt;/li>
+&lt;li>Backend: beets API&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/music-constellation" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul></description></item></channel></rss>

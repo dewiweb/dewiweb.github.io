@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Contributions</title><link>https://dewiweb.github.io/docs/contributions/</link><description>Recent content in Contributions on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/docs/contributions/index.xml" rel="self" type="application/rss+xml"/><item><title>Audio spatial &amp; spatialisation</title><link>https://dewiweb.github.io/docs/contributions/audio-spatial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/audio-spatial/</guid><description>
+&lt;h2>trajectoires&lt;span class="hx-absolute -hx-mt-20" id="trajectoires">&lt;/span>
+&lt;a href="#trajectoires" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/trajectoires" target="_blank" rel="noopener">github.com/dewiweb/trajectoires&lt;/a>&lt;/p>
+&lt;p>Application mobile/web pour le contrôle de la spatialisation sonore via OSC. Fork de l&amp;rsquo;original, adapté et utilisé comme base de travail.&lt;/p>
+&lt;ul>
+&lt;li>Langage : Objective-C&lt;/li>
+&lt;li>Usage : contrôle OSC de sources sonores depuis mobile&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>SPARTA&lt;span class="hx-absolute -hx-mt-20" id="sparta">&lt;/span>
+&lt;a href="#sparta" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/SPARTA" target="_blank" rel="noopener">github.com/dewiweb/SPARTA&lt;/a>&lt;/p>
+&lt;p>Collection de plugins VST audio pour la production, reproduction et visualisation d&amp;rsquo;audio spatial. Suite développée par Aalto University.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>Licence : GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://research.spa.aalto.fi/projects/sparta_vsts/" target="_blank" rel="noopener">Projet original&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>VISR-Production-Suite&lt;span class="hx-absolute -hx-mt-20" id="visr-production-suite">&lt;/span>
+&lt;a href="#visr-production-suite" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/VISR-Production-Suite" target="_blank" rel="noopener">github.com/dewiweb/VISR-Production-Suite&lt;/a>&lt;/p>
+&lt;p>Suite de plugins audio pour la production spatiale, issue du projet de recherche S3A.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>&lt;a href="http://www.s3a-spatialaudio.org/plugins" target="_blank" rel="noopener">Site officiel&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Protocoles de contrôle</title><link>https://dewiweb.github.io/docs/contributions/protocoles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/protocoles/</guid><description>
+&lt;h2>ember-plus&lt;span class="hx-absolute -hx-mt-20" id="ember-plus">&lt;/span>
+&lt;a href="#ember-plus" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ember-plus" target="_blank" rel="noopener">github.com/dewiweb/ember-plus&lt;/a>&lt;/p>
+&lt;p>Le protocole &lt;strong>Ember+&lt;/strong> officiel de Lawo — protocole de contrôle ouvert pour l&amp;rsquo;industrie broadcast et audiovisuelle. Utilisé pour communiquer entre équipements de diffusion (mixeurs, routeurs, systèmes de monitoring).&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>Licence : BSL-1.0&lt;/li>
+&lt;li>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Projet original&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>ember-plus-sharp&lt;span class="hx-absolute -hx-mt-20" id="ember-plus-sharp">&lt;/span>
+&lt;a href="#ember-plus-sharp" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ember-plus-sharp" target="_blank" rel="noopener">github.com/dewiweb/ember-plus-sharp&lt;/a>&lt;/p>
+&lt;p>Implémentation Ember+ pour .NET, permettant de créer rapidement des consumers Ember+ entièrement typés dans n&amp;rsquo;importe quel langage .NET.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C#&lt;/li>
+&lt;li>Licence : BSL-1.0&lt;/li>
+&lt;li>&lt;a href="http://lawo.github.io/ember-plus-sharp" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>OSCRouter&lt;span class="hx-absolute -hx-mt-20" id="oscrouter">&lt;/span>
+&lt;a href="#oscrouter" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/OSCRouter" target="_blank" rel="noopener">github.com/dewiweb/OSCRouter&lt;/a>&lt;/p>
+&lt;p>Routeur de paquets UDP/TCP simple pour Mac et Windows, avec options spécifiques OSC. Permet de redistribuer des messages OSC entre plusieurs applications ou équipements.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>Licence : MIT&lt;/li>
+&lt;/ul></description></item><item><title>Outils &amp; Séquenceurs</title><link>https://dewiweb.github.io/docs/contributions/outils/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/outils/</guid><description>
+&lt;h2>IanniX&lt;span class="hx-absolute -hx-mt-20" id="iannix">&lt;/span>
+&lt;a href="#iannix" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/IanniX" target="_blank" rel="noopener">github.com/dewiweb/IanniX&lt;/a>&lt;/p>
+&lt;p>&lt;strong>IanniX&lt;/strong> est un séquenceur graphique open source basé sur les travaux d&amp;rsquo;Iannis Xenakis, destiné à l&amp;rsquo;art numérique. Il synchronise via OSC des événements et des courbes vers des environnements temps réel (Max/MSP, Pure Data, SuperCollider&amp;hellip;).&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++ (Qt)&lt;/li>
+&lt;li>Licence : GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://www.iannix.org" target="_blank" rel="noopener">Site officiel&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>scenic&lt;span class="hx-absolute -hx-mt-20" id="scenic">&lt;/span>
+&lt;a href="#scenic" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/scenic" target="_blank" rel="noopener">github.com/dewiweb/scenic&lt;/a>&lt;/p>
+&lt;p>Application de &lt;strong>téléprésence&lt;/strong> pour les performances live et les installations artistiques. Permet de partager flux vidéo, audio et données entre sites distants.&lt;/p>
+&lt;ul>
+&lt;li>Langage : Python&lt;/li>
+&lt;li>Licence : GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://code.sat.qc.ca/trac/scenic/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

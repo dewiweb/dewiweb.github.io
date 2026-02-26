@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Rust</title><link>https://dewiweb.github.io/tags/rust/</link><description>Recent content in Rust on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml"/><item><title>emberplus_rust</title><link>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Implémentation en &lt;strong>Rust&lt;/strong> du protocole &lt;strong>Ember+&lt;/strong>, couvrant à la fois le rôle de client (consumer) et de serveur (provider).&lt;/p>
+&lt;p>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Ember+&lt;/a> est un protocole de contrôle utilisé dans l&amp;rsquo;industrie broadcast et audiovisuelle pour la communication entre équipements (mixeurs, routeurs, systèmes de monitoring&amp;hellip;).&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Implémentation client Ember+ (consumer)&lt;/li>
+&lt;li>Implémentation serveur Ember+ (provider)&lt;/li>
+&lt;li>Développé en Rust (performances, sécurité mémoire)&lt;/li>
+&lt;/ul>
+&lt;h2>Pourquoi Rust ?&lt;span class="hx-absolute -hx-mt-20" id="pourquoi-rust-">&lt;/span>
+&lt;a href="#pourquoi-rust-" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Rust offre d&amp;rsquo;excellentes garanties de sécurité mémoire et de performances pour un protocole bas niveau comme Ember+, qui nécessite une communication fiable et à faible latence.&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/emberplus_rust" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Rust&lt;/li>
+&lt;/ul></description></item></channel></rss>

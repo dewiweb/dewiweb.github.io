@@ -1,0 +1,69 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Audio spatial</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/</link><description>Recent content in Audio spatial on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/docs/projets/audio-spatial/index.xml" rel="self" type="application/rss+xml"/><item><title>holophonix-animator</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Application desktop permettant de créer et gérer des &lt;strong>animations de mouvement&lt;/strong> pour les pistes audio spatiales du processeur &lt;a href="https://holophonix.xyz/" target="_blank" rel="noopener">Holophonix&lt;/a>.&lt;/p>
+&lt;p>Elle communique avec Holophonix via le protocole &lt;strong>OSC&lt;/strong> et permet de définir des trajectoires et comportements dynamiques pour les sources sonores dans l&amp;rsquo;espace 3D.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Création de comportements de mouvement (cercles, lignes, trajectoires libres)&lt;/li>
+&lt;li>Gestion de plusieurs pistes simultanées&lt;/li>
+&lt;li>Synchronisation OSC avec Holophonix&lt;/li>
+&lt;li>Interface graphique desktop (Electron/Node.js)&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : JavaScript/TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>spacemouse-osc</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre la &lt;strong>SpaceMouse Compact de 3Dconnexion&lt;/strong> et le protocole &lt;strong>OSC&lt;/strong> (Open Sound Control). Permet d&amp;rsquo;utiliser le contrôleur 6DoF (6 degrés de liberté) pour piloter des sources sonores dans l&amp;rsquo;espace 3D en temps réel.&lt;/p>
+&lt;p>Particulièrement adapté au contrôle de systèmes de spatialisation comme Holophonix, Max/MSP ou SuperCollider.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Lecture des données 6DoF (translation X/Y/Z + rotation) de la SpaceMouse&lt;/li>
+&lt;li>Conversion et envoi des données en messages OSC&lt;/li>
+&lt;li>Mappages configurables (axes, adresses OSC, plages de valeurs)&lt;/li>
+&lt;li>Faible latence pour le contrôle en temps réel&lt;/li>
+&lt;/ul>
+&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
+&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>14 étoiles&lt;/strong> · 1 fork · actif&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/spacemouse-osc" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : JavaScript&lt;/li>
+&lt;li>Licence : MIT&lt;/li>
+&lt;li>Topics : &lt;code>3dconnexion&lt;/code> &lt;code>6dof&lt;/code> &lt;code>osc&lt;/code> &lt;code>spacemouse&lt;/code> &lt;code>spatial-audio&lt;/code>&lt;/li>
+&lt;/ul></description></item><item><title>ALSA-RAVENNA-AES67-Driver</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clone du driver ALSA RAVENNA/AES67 originellement fourni par &lt;strong>Merging Technologies&lt;/strong>. Ce driver noyau Linux (LKM) permet d&amp;rsquo;utiliser le protocole de transport audio réseau &lt;strong>RAVENNA&lt;/strong> (compatible &lt;strong>AES67&lt;/strong>) avec l&amp;rsquo;architecture ALSA sous Linux.&lt;/p>
+&lt;p>RAVENNA/AES67 est un standard de transport audio professionnel sur réseau IP, utilisé dans les studios, salles de concert et installations de diffusion.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Driver noyau Linux (Loadable Kernel Module)&lt;/li>
+&lt;li>Transport audio RAVENNA/AES67 sur réseau IP&lt;/li>
+&lt;li>Intégration native avec ALSA&lt;/li>
+&lt;li>Compatible avec les équipements Merging Technologies et autres appareils AES67&lt;/li>
+&lt;/ul>
+&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
+&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>53 étoiles&lt;/strong> · 10 forks&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bitbucket.org/MergingTechnologies/ravenna-alsa-lkm" target="_blank" rel="noopener">Source originale (Merging Technologies)&lt;/a>&lt;/li>
+&lt;li>Langage : C&lt;/li>
+&lt;li>Topics : &lt;code>aes67&lt;/code> &lt;code>alsa&lt;/code> &lt;code>driver&lt;/code> &lt;code>linux&lt;/code>&lt;/li>
+&lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Refonte complète de l&amp;rsquo;application &lt;strong>Trajectoires&lt;/strong>, une interface web/mobile pour le contrôle de la spatialisation sonore via OSC. Cette version modernisée est développée en TypeScript avec une architecture revue.&lt;/p>
+&lt;p>Trajectoires permet de dessiner et animer des trajectoires de sources sonores dans l&amp;rsquo;espace, puis de les envoyer en temps réel vers un système de spatialisation.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Interface graphique pour définir des trajectoires de mouvement&lt;/li>
+&lt;li>Envoi en temps réel via OSC&lt;/li>
+&lt;li>Architecture moderne TypeScript&lt;/li>
+&lt;li>Compatible avec les systèmes OSC (Holophonix, Max/MSP, etc.)&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item></channel></rss>

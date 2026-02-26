@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Alsa</title><link>https://dewiweb.github.io/tags/alsa/</link><description>Recent content in Alsa on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/alsa/index.xml" rel="self" type="application/rss+xml"/><item><title>ALSA-RAVENNA-AES67-Driver</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clone du driver ALSA RAVENNA/AES67 originellement fourni par &lt;strong>Merging Technologies&lt;/strong>. Ce driver noyau Linux (LKM) permet d&amp;rsquo;utiliser le protocole de transport audio réseau &lt;strong>RAVENNA&lt;/strong> (compatible &lt;strong>AES67&lt;/strong>) avec l&amp;rsquo;architecture ALSA sous Linux.&lt;/p>
+&lt;p>RAVENNA/AES67 est un standard de transport audio professionnel sur réseau IP, utilisé dans les studios, salles de concert et installations de diffusion.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Driver noyau Linux (Loadable Kernel Module)&lt;/li>
+&lt;li>Transport audio RAVENNA/AES67 sur réseau IP&lt;/li>
+&lt;li>Intégration native avec ALSA&lt;/li>
+&lt;li>Compatible avec les équipements Merging Technologies et autres appareils AES67&lt;/li>
+&lt;/ul>
+&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
+&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>53 étoiles&lt;/strong> · 10 forks&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bitbucket.org/MergingTechnologies/ravenna-alsa-lkm" target="_blank" rel="noopener">Source originale (Merging Technologies)&lt;/a>&lt;/li>
+&lt;li>Langage : C&lt;/li>
+&lt;li>Topics : &lt;code>aes67&lt;/code> &lt;code>alsa&lt;/code> &lt;code>driver&lt;/code> &lt;code>linux&lt;/code>&lt;/li>
+&lt;/ul></description></item></channel></rss>

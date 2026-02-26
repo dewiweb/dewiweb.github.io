@@ -1,0 +1,74 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Spatial-Audio</title><link>https://dewiweb.github.io/en/tags/spatial-audio/</link><description>Recent content in Spatial-Audio on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/spatial-audio/index.xml" rel="self" type="application/rss+xml"/><item><title>holophonix-animator</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-animator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-animator/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Desktop application for creating and managing &lt;strong>movement animations&lt;/strong> for spatial audio tracks on the &lt;a href="https://holophonix.xyz/" target="_blank" rel="noopener">Holophonix&lt;/a> processor.&lt;/p>
+&lt;p>It communicates with Holophonix via the &lt;strong>OSC&lt;/strong> protocol and lets you define trajectories and dynamic behaviours for sound sources in 3D space.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Create movement behaviours (circles, lines, free trajectories)&lt;/li>
+&lt;li>Manage multiple tracks simultaneously&lt;/li>
+&lt;li>OSC synchronisation with Holophonix&lt;/li>
+&lt;li>Desktop GUI (Electron/Node.js)&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript/TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>Spatial audio &amp; spatialisation</title><link>https://dewiweb.github.io/en/docs/contributions/audio-spatial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/audio-spatial/</guid><description>
+&lt;h2>trajectoires&lt;span class="hx-absolute -hx-mt-20" id="trajectoires">&lt;/span>
+&lt;a href="#trajectoires" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/trajectoires" target="_blank" rel="noopener">github.com/dewiweb/trajectoires&lt;/a>&lt;/p>
+&lt;p>Mobile/web application for spatial audio control via OSC. Fork of the original, adapted and used as a working base.&lt;/p>
+&lt;ul>
+&lt;li>Language: Objective-C&lt;/li>
+&lt;li>Usage: OSC control of sound sources from mobile&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>SPARTA&lt;span class="hx-absolute -hx-mt-20" id="sparta">&lt;/span>
+&lt;a href="#sparta" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/SPARTA" target="_blank" rel="noopener">github.com/dewiweb/SPARTA&lt;/a>&lt;/p>
+&lt;p>Collection of VST audio plugins for spatial audio production, reproduction and visualisation. Suite developed by Aalto University.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;li>Licence: GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://research.spa.aalto.fi/projects/sparta_vsts/" target="_blank" rel="noopener">Original project&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>VISR-Production-Suite&lt;span class="hx-absolute -hx-mt-20" id="visr-production-suite">&lt;/span>
+&lt;a href="#visr-production-suite" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/VISR-Production-Suite" target="_blank" rel="noopener">github.com/dewiweb/VISR-Production-Suite&lt;/a>&lt;/p>
+&lt;p>Suite of audio plugins for spatial production, from the S3A research project.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;li>&lt;a href="http://www.s3a-spatialaudio.org/plugins" target="_blank" rel="noopener">Official site&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>spacemouse-osc</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/spacemouse-osc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/spacemouse-osc/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Bridge between the &lt;strong>3Dconnexion SpaceMouse Compact&lt;/strong> and the &lt;strong>OSC&lt;/strong> (Open Sound Control) protocol. Lets you use the 6DoF (6 degrees of freedom) controller to drive sound sources in 3D space in real time.&lt;/p>
+&lt;p>Particularly well suited to controlling spatialisation systems such as Holophonix, Max/MSP or SuperCollider.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Read 6DoF data (X/Y/Z translation + rotation) from the SpaceMouse&lt;/li>
+&lt;li>Convert and send data as OSC messages&lt;/li>
+&lt;li>Configurable mappings (axes, OSC addresses, value ranges)&lt;/li>
+&lt;li>Low latency for real-time control&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>14 stars&lt;/strong> · 1 fork · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/spacemouse-osc" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;li>Licence: MIT&lt;/li>
+&lt;li>Topics: &lt;code>3dconnexion&lt;/code> &lt;code>6dof&lt;/code> &lt;code>osc&lt;/code> &lt;code>spacemouse&lt;/code> &lt;code>spatial-audio&lt;/code>&lt;/li>
+&lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Full rewrite of the &lt;strong>Trajectoires&lt;/strong> application, a web/mobile interface for controlling sound spatialisation via OSC. This modernised version is developed in TypeScript with a revised architecture.&lt;/p>
+&lt;p>Trajectoires lets you draw and animate trajectories for sound sources in space, then send them in real time to a spatialisation system.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>GUI for defining movement trajectories&lt;/li>
+&lt;li>Real-time OSC output&lt;/li>
+&lt;li>Modern TypeScript architecture&lt;/li>
+&lt;li>Compatible with OSC systems (Holophonix, Max/MSP, etc.)&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: TypeScript&lt;/li>
+&lt;/ul></description></item></channel></rss>

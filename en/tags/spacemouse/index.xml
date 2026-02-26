@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Spacemouse</title><link>https://dewiweb.github.io/en/tags/spacemouse/</link><description>Recent content in Spacemouse on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/spacemouse/index.xml" rel="self" type="application/rss+xml"/><item><title>spacemouse-osc</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/spacemouse-osc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/spacemouse-osc/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Bridge between the &lt;strong>3Dconnexion SpaceMouse Compact&lt;/strong> and the &lt;strong>OSC&lt;/strong> (Open Sound Control) protocol. Lets you use the 6DoF (6 degrees of freedom) controller to drive sound sources in 3D space in real time.&lt;/p>
+&lt;p>Particularly well suited to controlling spatialisation systems such as Holophonix, Max/MSP or SuperCollider.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Read 6DoF data (X/Y/Z translation + rotation) from the SpaceMouse&lt;/li>
+&lt;li>Convert and send data as OSC messages&lt;/li>
+&lt;li>Configurable mappings (axes, OSC addresses, value ranges)&lt;/li>
+&lt;li>Low latency for real-time control&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>14 stars&lt;/strong> · 1 fork · active&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/spacemouse-osc" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;li>Licence: MIT&lt;/li>
+&lt;li>Topics: &lt;code>3dconnexion&lt;/code> &lt;code>6dof&lt;/code> &lt;code>osc&lt;/code> &lt;code>spacemouse&lt;/code> &lt;code>spatial-audio&lt;/code>&lt;/li>
+&lt;/ul></description></item></channel></rss>

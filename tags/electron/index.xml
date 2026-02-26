@@ -1,0 +1,16 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Electron</title><link>https://dewiweb.github.io/tags/electron/</link><description>Recent content in Electron on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/electron/index.xml" rel="self" type="application/rss+xml"/><item><title>holophonix-animator</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Application desktop permettant de créer et gérer des &lt;strong>animations de mouvement&lt;/strong> pour les pistes audio spatiales du processeur &lt;a href="https://holophonix.xyz/" target="_blank" rel="noopener">Holophonix&lt;/a>.&lt;/p>
+&lt;p>Elle communique avec Holophonix via le protocole &lt;strong>OSC&lt;/strong> et permet de définir des trajectoires et comportements dynamiques pour les sources sonores dans l&amp;rsquo;espace 3D.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Création de comportements de mouvement (cercles, lignes, trajectoires libres)&lt;/li>
+&lt;li>Gestion de plusieurs pistes simultanées&lt;/li>
+&lt;li>Synchronisation OSC avec Holophonix&lt;/li>
+&lt;li>Interface graphique desktop (Electron/Node.js)&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : JavaScript/TypeScript&lt;/li>
+&lt;/ul></description></item></channel></rss>

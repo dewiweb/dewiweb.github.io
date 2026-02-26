@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Spatialisation</title><link>https://dewiweb.github.io/tags/spatialisation/</link><description>Recent content in Spatialisation on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/spatialisation/index.xml" rel="self" type="application/rss+xml"/><item><title>Audio spatial &amp; spatialisation</title><link>https://dewiweb.github.io/docs/contributions/audio-spatial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/contributions/audio-spatial/</guid><description>
+&lt;h2>trajectoires&lt;span class="hx-absolute -hx-mt-20" id="trajectoires">&lt;/span>
+&lt;a href="#trajectoires" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/trajectoires" target="_blank" rel="noopener">github.com/dewiweb/trajectoires&lt;/a>&lt;/p>
+&lt;p>Application mobile/web pour le contrôle de la spatialisation sonore via OSC. Fork de l&amp;rsquo;original, adapté et utilisé comme base de travail.&lt;/p>
+&lt;ul>
+&lt;li>Langage : Objective-C&lt;/li>
+&lt;li>Usage : contrôle OSC de sources sonores depuis mobile&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>SPARTA&lt;span class="hx-absolute -hx-mt-20" id="sparta">&lt;/span>
+&lt;a href="#sparta" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/SPARTA" target="_blank" rel="noopener">github.com/dewiweb/SPARTA&lt;/a>&lt;/p>
+&lt;p>Collection de plugins VST audio pour la production, reproduction et visualisation d&amp;rsquo;audio spatial. Suite développée par Aalto University.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>Licence : GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://research.spa.aalto.fi/projects/sparta_vsts/" target="_blank" rel="noopener">Projet original&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>VISR-Production-Suite&lt;span class="hx-absolute -hx-mt-20" id="visr-production-suite">&lt;/span>
+&lt;a href="#visr-production-suite" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/VISR-Production-Suite" target="_blank" rel="noopener">github.com/dewiweb/VISR-Production-Suite&lt;/a>&lt;/p>
+&lt;p>Suite de plugins audio pour la production spatiale, issue du projet de recherche S3A.&lt;/p>
+&lt;ul>
+&lt;li>Langage : C++&lt;/li>
+&lt;li>&lt;a href="http://www.s3a-spatialaudio.org/plugins" target="_blank" rel="noopener">Site officiel&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Xctl</title><link>https://dewiweb.github.io/tags/xctl/</link><description>Recent content in Xctl on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/xctl/index.xml" rel="self" type="application/rss+xml"/><item><title>XCTL_</title><link>https://dewiweb.github.io/docs/projets/protocoles/xctl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/xctl/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Documentation de référence sur le protocole &lt;strong>XCTL&lt;/strong> utilisé par les consoles de mixage &lt;strong>Behringer X-Touch&lt;/strong> (et compatibles). Ce protocole, basé sur MIDI étendu, permet la communication bidirectionnelle entre la surface de contrôle et un logiciel DAW ou un système de contrôle personnalisé.&lt;/p>
+&lt;p>Ce dépôt rassemble les informations collectées par rétro-ingénierie et documentation communautaire, qui sont peu ou pas documentées officiellement par Behringer.&lt;/p>
+&lt;h2>Contenu&lt;span class="hx-absolute -hx-mt-20" id="contenu">&lt;/span>
+&lt;a href="#contenu" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Structure des messages XCTL&lt;/li>
+&lt;li>Mappage des contrôles (faders, encodeurs, boutons, LEDs, afficheurs)&lt;/li>
+&lt;li>Exemples d&amp;rsquo;implémentation en JavaScript&lt;/li>
+&lt;li>Comparaison avec le protocole HUI et Mackie Control&lt;/li>
+&lt;/ul>
+&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
+&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>2 étoiles&lt;/strong> · Actif · Pages GitHub disponibles&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/XCTL_" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dewiweb.github.io/XCTL_" target="_blank" rel="noopener">Documentation en ligne&lt;/a>&lt;/li>
+&lt;li>Langage : JavaScript&lt;/li>
+&lt;li>Licence : GPL-3.0&lt;/li>
+&lt;/ul></description></item></channel></rss>

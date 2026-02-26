@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Typescript</title><link>https://dewiweb.github.io/tags/typescript/</link><description>Recent content in Typescript on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml"/><item><title>music-constellation</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/music-constellation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/music-constellation/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Application web qui représente une bibliothèque musicale gérée par &lt;strong>&lt;a href="https://beets.io/" target="_blank" rel="noopener">beets&lt;/a>&lt;/strong> sous forme de &lt;strong>constellation interactive&lt;/strong>. Chaque étoile est un album ou un artiste, et les liens entre elles illustrent les relations (genres, années, similarités).&lt;/p>
+&lt;p>Une façon poétique et visuelle d&amp;rsquo;explorer sa collection musicale.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Connexion à la bibliothèque beets (via l&amp;rsquo;API web de beets)&lt;/li>
+&lt;li>Représentation en graphe de constellation SVG/Canvas&lt;/li>
+&lt;li>Navigation interactive (zoom, déplacement, sélection)&lt;/li>
+&lt;li>Filtrage par genre, décennie, artiste&lt;/li>
+&lt;/ul>
+&lt;h2>Stack technique&lt;span class="hx-absolute -hx-mt-20" id="stack-technique">&lt;/span>
+&lt;a href="#stack-technique" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>TypeScript&lt;/li>
+&lt;li>Visualisation : D3.js ou Canvas&lt;/li>
+&lt;li>Backend : API beets&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/music-constellation" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Refonte complète de l&amp;rsquo;application &lt;strong>Trajectoires&lt;/strong>, une interface web/mobile pour le contrôle de la spatialisation sonore via OSC. Cette version modernisée est développée en TypeScript avec une architecture revue.&lt;/p>
+&lt;p>Trajectoires permet de dessiner et animer des trajectoires de sources sonores dans l&amp;rsquo;espace, puis de les envoyer en temps réel vers un système de spatialisation.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Interface graphique pour définir des trajectoires de mouvement&lt;/li>
+&lt;li>Envoi en temps réel via OSC&lt;/li>
+&lt;li>Architecture moderne TypeScript&lt;/li>
+&lt;li>Compatible avec les systèmes OSC (Holophonix, Max/MSP, etc.)&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,61 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Protocol</title><link>https://dewiweb.github.io/en/tags/protocol/</link><description>Recent content in Protocol on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/protocol/index.xml" rel="self" type="application/rss+xml"/><item><title>emberplus_rust</title><link>https://dewiweb.github.io/en/docs/projets/protocoles/emberplus-rust/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/protocoles/emberplus-rust/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Rust&lt;/strong> implementation of the &lt;strong>Ember+&lt;/strong> protocol, covering both the client (consumer) and server (provider) roles.&lt;/p>
+&lt;p>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Ember+&lt;/a> is a control protocol used in the broadcast and audiovisual industry for communication between equipment (mixers, routers, monitoring systems&amp;hellip;).&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Ember+ client (consumer) implementation&lt;/li>
+&lt;li>Ember+ server (provider) implementation&lt;/li>
+&lt;li>Written in Rust (performance, memory safety)&lt;/li>
+&lt;/ul>
+&lt;h2>Why Rust?&lt;span class="hx-absolute -hx-mt-20" id="why-rust">&lt;/span>
+&lt;a href="#why-rust" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Rust provides excellent memory-safety guarantees and performance for a low-level protocol like Ember+, which requires reliable, low-latency communication.&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/emberplus_rust" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Rust&lt;/li>
+&lt;/ul></description></item><item><title>Control protocols</title><link>https://dewiweb.github.io/en/docs/contributions/protocoles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/protocoles/</guid><description>
+&lt;h2>ember-plus&lt;span class="hx-absolute -hx-mt-20" id="ember-plus">&lt;/span>
+&lt;a href="#ember-plus" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ember-plus" target="_blank" rel="noopener">github.com/dewiweb/ember-plus&lt;/a>&lt;/p>
+&lt;p>The official &lt;strong>Ember+&lt;/strong> protocol from Lawo — an open control protocol for the broadcast and audiovisual industry. Used to communicate between broadcast equipment (mixers, routers, monitoring systems).&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;li>Licence: BSL-1.0&lt;/li>
+&lt;li>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Original project&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>ember-plus-sharp&lt;span class="hx-absolute -hx-mt-20" id="ember-plus-sharp">&lt;/span>
+&lt;a href="#ember-plus-sharp" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/ember-plus-sharp" target="_blank" rel="noopener">github.com/dewiweb/ember-plus-sharp&lt;/a>&lt;/p>
+&lt;p>Ember+ implementation for .NET, enabling the rapid creation of fully-typed Ember+ consumers in any .NET language.&lt;/p>
+&lt;ul>
+&lt;li>Language: C#&lt;/li>
+&lt;li>Licence: BSL-1.0&lt;/li>
+&lt;li>&lt;a href="http://lawo.github.io/ember-plus-sharp" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>OSCRouter&lt;span class="hx-absolute -hx-mt-20" id="oscrouter">&lt;/span>
+&lt;a href="#oscrouter" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/OSCRouter" target="_blank" rel="noopener">github.com/dewiweb/OSCRouter&lt;/a>&lt;/p>
+&lt;p>Simple UDP/TCP packet router for Mac and Windows with OSC-specific options. Redistributes OSC messages between multiple applications or devices.&lt;/p>
+&lt;ul>
+&lt;li>Language: C++&lt;/li>
+&lt;li>Licence: MIT&lt;/li>
+&lt;/ul></description></item><item><title>XCTL_</title><link>https://dewiweb.github.io/en/docs/projets/protocoles/xctl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/protocoles/xctl/</guid><description>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Reference documentation for the &lt;strong>XCTL&lt;/strong> protocol used by &lt;strong>Behringer X-Touch&lt;/strong> mixing consoles (and compatible surfaces). This MIDI-extended protocol enables bidirectional communication between the control surface and a DAW or custom control system.&lt;/p>
+&lt;p>This repository collects information gathered through reverse engineering and community documentation — officially undocumented by Behringer.&lt;/p>
+&lt;h2>Contents&lt;span class="hx-absolute -hx-mt-20" id="contents">&lt;/span>
+&lt;a href="#contents" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>XCTL message structure&lt;/li>
+&lt;li>Control mapping (faders, encoders, buttons, LEDs, displays)&lt;/li>
+&lt;li>JavaScript implementation examples&lt;/li>
+&lt;li>Comparison with HUI and Mackie Control protocols&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>⭐ &lt;strong>2 stars&lt;/strong> · Active · GitHub Pages available&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/XCTL_" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dewiweb.github.io/XCTL_" target="_blank" rel="noopener">Online documentation&lt;/a>&lt;/li>
+&lt;li>Language: JavaScript&lt;/li>
+&lt;li>Licence: GPL-3.0&lt;/li>
+&lt;/ul></description></item></channel></rss>

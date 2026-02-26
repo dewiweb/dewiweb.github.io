@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Digital-Art</title><link>https://dewiweb.github.io/en/tags/digital-art/</link><description>Recent content in Digital-Art on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/digital-art/index.xml" rel="self" type="application/rss+xml"/><item><title>Tools &amp; Sequencers</title><link>https://dewiweb.github.io/en/docs/contributions/outils/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/contributions/outils/</guid><description>
+&lt;h2>IanniX&lt;span class="hx-absolute -hx-mt-20" id="iannix">&lt;/span>
+&lt;a href="#iannix" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/IanniX" target="_blank" rel="noopener">github.com/dewiweb/IanniX&lt;/a>&lt;/p>
+&lt;p>&lt;strong>IanniX&lt;/strong> is an open source graphical sequencer inspired by Iannis Xenakis, designed for digital art. It synchronises events and curves via OSC to real-time environments (Max/MSP, Pure Data, SuperCollider&amp;hellip;).&lt;/p>
+&lt;ul>
+&lt;li>Language: C++ (Qt)&lt;/li>
+&lt;li>Licence: GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://www.iannix.org" target="_blank" rel="noopener">Official site&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>scenic&lt;span class="hx-absolute -hx-mt-20" id="scenic">&lt;/span>
+&lt;a href="#scenic" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/scenic" target="_blank" rel="noopener">github.com/dewiweb/scenic&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Telepresence&lt;/strong> application for live performances and artistic installations. Allows sharing of video, audio and data streams between remote sites.&lt;/p>
+&lt;ul>
+&lt;li>Language: Python&lt;/li>
+&lt;li>Licence: GPL-3.0&lt;/li>
+&lt;li>&lt;a href="http://code.sat.qc.ca/trac/scenic/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
