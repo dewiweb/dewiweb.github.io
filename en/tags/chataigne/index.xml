@@ -1,4 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Chataigne</title><link>https://dewiweb.github.io/en/tags/chataigne/</link><description>Recent content in Chataigne on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/chataigne/index.xml" rel="self" type="application/rss+xml"/><item><title>chataigne_spatiale</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/chataigne_spatiale?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/chataigne_spatiale/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/chataigne_spatiale?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/chataigne_spatiale?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Python&lt;/strong> module integrating the &lt;strong>Holophonix&lt;/strong> spatial audio processor into &lt;strong>Chataigne&lt;/strong> — a modular software for arts and technology. Drives spatial sound sources from Chataigne&amp;rsquo;s interface via OSC.&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
@@ -67,6 +76,16 @@
 &lt;h2>midimonster&lt;span class="hx-absolute -hx-mt-20" id="midimonster">&lt;/span>
 &lt;a href="#midimonster" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/midimonster" target="_blank" rel="noopener">github.com/dewiweb/midimonster&lt;/a>&lt;/p>
 &lt;p>Multi-protocol control &amp;amp; translation software: ArtNet, MIDI, OSC, sACN and more.&lt;/p></description></item><item><title>Holophonix-chataigne-module</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Chataigne&lt;/strong> module dedicated to the &lt;strong>Holophonix&lt;/strong> spatial audio processor. Natively integrates Holophonix into Chataigne to drive sound sources, read states and automate behaviours in a show control context.&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>

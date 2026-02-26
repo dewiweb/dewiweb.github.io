@@ -1,4 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Audio-Réseau</title><link>https://dewiweb.github.io/tags/audio-r%C3%A9seau/</link><description>Recent content in Audio-Réseau on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/audio-r%C3%A9seau/index.xml" rel="self" type="application/rss+xml"/><item><title>ALSA-RAVENNA-AES67-Driver</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clone du driver ALSA RAVENNA/AES67 originellement fourni par &lt;strong>Merging Technologies&lt;/strong>. Ce driver noyau Linux (LKM) permet d&amp;rsquo;utiliser le protocole de transport audio réseau &lt;strong>RAVENNA&lt;/strong> (compatible &lt;strong>AES67&lt;/strong>) avec l&amp;rsquo;architecture ALSA sous Linux.&lt;/p>
 &lt;p>RAVENNA/AES67 est un standard de transport audio professionnel sur réseau IP, utilisé dans les studios, salles de concert et installations de diffusion.&lt;/p>

@@ -23,6 +23,16 @@
 &lt;li>Langage : C++&lt;/li>
 &lt;li>&lt;a href="http://www.s3a-spatialaudio.org/plugins" target="_blank" rel="noopener">Site officiel&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>holophonix-animator</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/holophonix-animator?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/holophonix-animator/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/holophonix-animator?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/holophonix-animator?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Application desktop permettant de créer et gérer des &lt;strong>animations de mouvement&lt;/strong> pour les pistes audio spatiales du processeur &lt;a href="https://holophonix.xyz/" target="_blank" rel="noopener">Holophonix&lt;/a>.&lt;/p>
 &lt;p>Elle communique avec Holophonix via le protocole &lt;strong>OSC&lt;/strong> et permet de définir des trajectoires et comportements dynamiques pour les sources sonores dans l&amp;rsquo;espace 3D.&lt;/p>
@@ -38,6 +48,16 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : JavaScript/TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>spacemouse-osc</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/spacemouse-osc" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/spacemouse-osc?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/spacemouse-osc/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/spacemouse-osc?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/spacemouse-osc?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/spacemouse-osc?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre la &lt;strong>SpaceMouse Compact de 3Dconnexion&lt;/strong> et le protocole &lt;strong>OSC&lt;/strong> (Open Sound Control). Permet d&amp;rsquo;utiliser le contrôleur 6DoF (6 degrés de liberté) pour piloter des sources sonores dans l&amp;rsquo;espace 3D en temps réel.&lt;/p>
 &lt;p>Particulièrement adapté au contrôle de systèmes de spatialisation comme Holophonix, Max/MSP ou SuperCollider.&lt;/p>
@@ -57,6 +77,15 @@
 &lt;li>Licence : MIT&lt;/li>
 &lt;li>Topics : &lt;code>3dconnexion&lt;/code> &lt;code>6dof&lt;/code> &lt;code>osc&lt;/code> &lt;code>spacemouse&lt;/code> &lt;code>spatial-audio&lt;/code>&lt;/li>
 &lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/trajectoires-modern?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/trajectoires-modern/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/trajectoires-modern?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/trajectoires-modern?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Refonte complète de l&amp;rsquo;application &lt;strong>Trajectoires&lt;/strong>, une interface web/mobile pour le contrôle de la spatialisation sonore via OSC. Cette version modernisée est développée en TypeScript avec une architecture revue.&lt;/p>
 &lt;p>Trajectoires permet de dessiner et animer des trajectoires de sources sonores dans l&amp;rsquo;espace, puis de les envoyer en temps réel vers un système de spatialisation.&lt;/p>

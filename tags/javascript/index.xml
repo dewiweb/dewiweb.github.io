@@ -1,4 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Javascript</title><link>https://dewiweb.github.io/tags/javascript/</link><description>Recent content in Javascript on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>spacemouse-osc</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/spacemouse-osc" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/spacemouse-osc?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/spacemouse-osc/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/spacemouse-osc?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/spacemouse-osc?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/spacemouse-osc?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre la &lt;strong>SpaceMouse Compact de 3Dconnexion&lt;/strong> et le protocole &lt;strong>OSC&lt;/strong> (Open Sound Control). Permet d&amp;rsquo;utiliser le contrôleur 6DoF (6 degrés de liberté) pour piloter des sources sonores dans l&amp;rsquo;espace 3D en temps réel.&lt;/p>
 &lt;p>Particulièrement adapté au contrôle de systèmes de spatialisation comme Holophonix, Max/MSP ou SuperCollider.&lt;/p>
@@ -18,6 +28,15 @@
 &lt;li>Licence : MIT&lt;/li>
 &lt;li>Topics : &lt;code>3dconnexion&lt;/code> &lt;code>6dof&lt;/code> &lt;code>osc&lt;/code> &lt;code>spacemouse&lt;/code> &lt;code>spatial-audio&lt;/code>&lt;/li>
 &lt;/ul></description></item><item><title>MCxOSC</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSC?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/MCxOSC/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSC?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSC?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre le protocole &lt;strong>Ember+&lt;/strong> et &lt;strong>OSC&lt;/strong>, spécifiquement conçue pour les consoles &lt;strong>Lawo MCx&lt;/strong>. Permet de contrôler et monitorer une console MCx depuis n&amp;rsquo;importe quel environnement OSC (Chataigne, Max/MSP, QLab, etc.).&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
@@ -50,6 +69,16 @@
 &lt;ul>
 &lt;li>Langage : TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSCnext?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/MCxOSCnext/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSCnext?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSCnext?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/MCxOSCnext?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Réécriture et évolution de &lt;strong>MCxOSC&lt;/strong> — une passerelle entre les protocoles &lt;strong>Ember+&lt;/strong> et &lt;strong>OSC&lt;/strong>. Architecture remaniée pour plus de robustesse et de flexibilité, compatible avec un plus large éventail d&amp;rsquo;équipements Ember+.&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
@@ -118,6 +147,16 @@
 &lt;h2>midimonster&lt;span class="hx-absolute -hx-mt-20" id="midimonster">&lt;/span>
 &lt;a href="#midimonster" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/midimonster" target="_blank" rel="noopener">github.com/dewiweb/midimonster&lt;/a>&lt;/p>
 &lt;p>Logiciel de traduction et contrôle multi-protocoles : ArtNet, MIDI, OSC, sACN et plus.&lt;/p></description></item><item><title>Holophonix-chataigne-module</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-chataigne-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-chataigne-module/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Module &lt;strong>Chataigne&lt;/strong> dédié au processeur audio spatial &lt;strong>Holophonix&lt;/strong>. Permet d&amp;rsquo;intégrer nativement Holophonix dans Chataigne pour piloter les sources sonores, lire les états et automatiser des comportements dans un contexte de show control.&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>

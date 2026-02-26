@@ -1,4 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Protocoles de contrôle</title><link>https://dewiweb.github.io/docs/projets/protocoles/</link><description>Recent content in Protocoles de contrôle on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/docs/projets/protocoles/index.xml" rel="self" type="application/rss+xml"/><item><title>emberplus_rust</title><link>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/emberplus_rust" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/emberplus_rust?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/emberplus_rust/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/emberplus_rust?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/emberplus_rust?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Implémentation en &lt;strong>Rust&lt;/strong> du protocole &lt;strong>Ember+&lt;/strong>, couvrant à la fois le rôle de client (consumer) et de serveur (provider).&lt;/p>
 &lt;p>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Ember+&lt;/a> est un protocole de contrôle utilisé dans l&amp;rsquo;industrie broadcast et audiovisuelle pour la communication entre équipements (mixeurs, routeurs, systèmes de monitoring&amp;hellip;).&lt;/p>
@@ -15,6 +24,16 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/emberplus_rust" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : Rust&lt;/li>
 &lt;/ul></description></item><item><title>XCTL_</title><link>https://dewiweb.github.io/docs/projets/protocoles/xctl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/xctl/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/XCTL_" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/XCTL_?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/XCTL_/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/XCTL_?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/XCTL_?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/XCTL_?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Documentation de référence sur le protocole &lt;strong>XCTL&lt;/strong> utilisé par les consoles de mixage &lt;strong>Behringer X-Touch&lt;/strong> (et compatibles). Ce protocole, basé sur MIDI étendu, permet la communication bidirectionnelle entre la surface de contrôle et un logiciel DAW ou un système de contrôle personnalisé.&lt;/p>
 &lt;p>Ce dépôt rassemble les informations collectées par rétro-ingénierie et documentation communautaire, qui sont peu ou pas documentées officiellement par Behringer.&lt;/p>
@@ -34,6 +53,15 @@
 &lt;li>Langage : JavaScript&lt;/li>
 &lt;li>Licence : GPL-3.0&lt;/li>
 &lt;/ul></description></item><item><title>MCxOSC</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSC?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/MCxOSC/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSC?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSC?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre le protocole &lt;strong>Ember+&lt;/strong> et &lt;strong>OSC&lt;/strong>, spécifiquement conçue pour les consoles &lt;strong>Lawo MCx&lt;/strong>. Permet de contrôler et monitorer une console MCx depuis n&amp;rsquo;importe quel environnement OSC (Chataigne, Max/MSP, QLab, etc.).&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
@@ -49,6 +77,16 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : JavaScript&lt;/li>
 &lt;/ul></description></item><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSCnext?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/MCxOSCnext/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSCnext?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSCnext?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/MCxOSCnext?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Réécriture et évolution de &lt;strong>MCxOSC&lt;/strong> — une passerelle entre les protocoles &lt;strong>Ember+&lt;/strong> et &lt;strong>OSC&lt;/strong>. Architecture remaniée pour plus de robustesse et de flexibilité, compatible avec un plus large éventail d&amp;rsquo;équipements Ember+.&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>

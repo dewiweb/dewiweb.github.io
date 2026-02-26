@@ -1,4 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Documentation</title><link>https://dewiweb.github.io/tags/documentation/</link><description>Recent content in Documentation on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/documentation/index.xml" rel="self" type="application/rss+xml"/><item><title>XCTL_</title><link>https://dewiweb.github.io/docs/projets/protocoles/xctl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/xctl/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/XCTL_" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/XCTL_?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/XCTL_/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/XCTL_?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/XCTL_?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/XCTL_?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Documentation de référence sur le protocole &lt;strong>XCTL&lt;/strong> utilisé par les consoles de mixage &lt;strong>Behringer X-Touch&lt;/strong> (et compatibles). Ce protocole, basé sur MIDI étendu, permet la communication bidirectionnelle entre la surface de contrôle et un logiciel DAW ou un système de contrôle personnalisé.&lt;/p>
 &lt;p>Ce dépôt rassemble les informations collectées par rétro-ingénierie et documentation communautaire, qui sont peu ou pas documentées officiellement par Behringer.&lt;/p>

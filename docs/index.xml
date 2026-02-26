@@ -23,6 +23,15 @@
 &lt;li>Langage : C++&lt;/li>
 &lt;li>&lt;a href="http://www.s3a-spatialaudio.org/plugins" target="_blank" rel="noopener">Site officiel&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>emberplus_rust</title><link>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/emberplus-rust/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/emberplus_rust" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/emberplus_rust?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/emberplus_rust/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/emberplus_rust?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/emberplus_rust?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Implémentation en &lt;strong>Rust&lt;/strong> du protocole &lt;strong>Ember+&lt;/strong>, couvrant à la fois le rôle de client (consumer) et de serveur (provider).&lt;/p>
 &lt;p>&lt;a href="https://github.com/Lawo/ember-plus" target="_blank" rel="noopener">Ember+&lt;/a> est un protocole de contrôle utilisé dans l&amp;rsquo;industrie broadcast et audiovisuelle pour la communication entre équipements (mixeurs, routeurs, systèmes de monitoring&amp;hellip;).&lt;/p>
@@ -39,6 +48,16 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/emberplus_rust" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : Rust&lt;/li>
 &lt;/ul></description></item><item><title>holophonix-animator</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/holophonix-animator?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/holophonix-animator/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/holophonix-animator?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/holophonix-animator?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Application desktop permettant de créer et gérer des &lt;strong>animations de mouvement&lt;/strong> pour les pistes audio spatiales du processeur &lt;a href="https://holophonix.xyz/" target="_blank" rel="noopener">Holophonix&lt;/a>.&lt;/p>
 &lt;p>Elle communique avec Holophonix via le protocole &lt;strong>OSC&lt;/strong> et permet de définir des trajectoires et comportements dynamiques pour les sources sonores dans l&amp;rsquo;espace 3D.&lt;/p>
@@ -54,6 +73,15 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : JavaScript/TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>rpi-media-kiosk</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/rpi-media-kiosk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/rpi-media-kiosk/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/rpi-media-kiosk" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/rpi-media-kiosk?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/rpi-media-kiosk/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/rpi-media-kiosk?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/rpi-media-kiosk?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Solution clé en main pour transformer n&amp;rsquo;importe quel &lt;strong>Raspberry Pi&lt;/strong> en lecteur média &lt;strong>kiosk plein écran&lt;/strong>. Lit automatiquement des vidéos, présentations PowerPoint, PDF et diaporamas d&amp;rsquo;images depuis une clé USB ou le stockage local — le tout rendu via &lt;strong>Chromium&lt;/strong>.&lt;/p>
 &lt;p>Idéal pour les installations, expositions, signalétique numérique ou tout usage scénique nécessitant une lecture automatique de médias.&lt;/p>
@@ -76,6 +104,15 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/rpi-media-kiosk" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : HTML/Shell&lt;/li>
 &lt;/ul></description></item><item><title>music-constellation</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/music-constellation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/music-constellation/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/music-constellation" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/music-constellation?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/music-constellation/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/music-constellation?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/music-constellation?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Application web qui représente une bibliothèque musicale gérée par &lt;strong>&lt;a href="https://beets.io/" target="_blank" rel="noopener">beets&lt;/a>&lt;/strong> sous forme de &lt;strong>constellation interactive&lt;/strong>. Chaque étoile est un album ou un artiste, et les liens entre elles illustrent les relations (genres, années, similarités).&lt;/p>
 &lt;p>Une façon poétique et visuelle d&amp;rsquo;explorer sa collection musicale.&lt;/p>
@@ -122,6 +159,16 @@
 &lt;li>Langage : C++&lt;/li>
 &lt;li>Licence : MIT&lt;/li>
 &lt;/ul></description></item><item><title>spacemouse-osc</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/spacemouse-osc/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/spacemouse-osc" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/spacemouse-osc?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/spacemouse-osc/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/spacemouse-osc?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/spacemouse-osc?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/spacemouse-osc?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre la &lt;strong>SpaceMouse Compact de 3Dconnexion&lt;/strong> et le protocole &lt;strong>OSC&lt;/strong> (Open Sound Control). Permet d&amp;rsquo;utiliser le contrôleur 6DoF (6 degrés de liberté) pour piloter des sources sonores dans l&amp;rsquo;espace 3D en temps réel.&lt;/p>
 &lt;p>Particulièrement adapté au contrôle de systèmes de spatialisation comme Holophonix, Max/MSP ou SuperCollider.&lt;/p>
@@ -141,6 +188,16 @@
 &lt;li>Licence : MIT&lt;/li>
 &lt;li>Topics : &lt;code>3dconnexion&lt;/code> &lt;code>6dof&lt;/code> &lt;code>osc&lt;/code> &lt;code>spacemouse&lt;/code> &lt;code>spatial-audio&lt;/code>&lt;/li>
 &lt;/ul></description></item><item><title>XCTL_</title><link>https://dewiweb.github.io/docs/projets/protocoles/xctl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/xctl/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/XCTL_" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/XCTL_?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/XCTL_/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/XCTL_?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/XCTL_?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/XCTL_?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Documentation de référence sur le protocole &lt;strong>XCTL&lt;/strong> utilisé par les consoles de mixage &lt;strong>Behringer X-Touch&lt;/strong> (et compatibles). Ce protocole, basé sur MIDI étendu, permet la communication bidirectionnelle entre la surface de contrôle et un logiciel DAW ou un système de contrôle personnalisé.&lt;/p>
 &lt;p>Ce dépôt rassemble les informations collectées par rétro-ingénierie et documentation communautaire, qui sont peu ou pas documentées officiellement par Behringer.&lt;/p>
@@ -160,6 +217,15 @@
 &lt;li>Langage : JavaScript&lt;/li>
 &lt;li>Licence : GPL-3.0&lt;/li>
 &lt;/ul></description></item><item><title>ALSA-RAVENNA-AES67-Driver</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/alsa-ravenna-aes67/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clone du driver ALSA RAVENNA/AES67 originellement fourni par &lt;strong>Merging Technologies&lt;/strong>. Ce driver noyau Linux (LKM) permet d&amp;rsquo;utiliser le protocole de transport audio réseau &lt;strong>RAVENNA&lt;/strong> (compatible &lt;strong>AES67&lt;/strong>) avec l&amp;rsquo;architecture ALSA sous Linux.&lt;/p>
 &lt;p>RAVENNA/AES67 est un standard de transport audio professionnel sur réseau IP, utilisé dans les studios, salles de concert et installations de diffusion.&lt;/p>
@@ -179,6 +245,15 @@
 &lt;li>Langage : C&lt;/li>
 &lt;li>Topics : &lt;code>aes67&lt;/code> &lt;code>alsa&lt;/code> &lt;code>driver&lt;/code> &lt;code>linux&lt;/code>&lt;/li>
 &lt;/ul></description></item><item><title>MCxOSC</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxosc/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/MCxOSC" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSC?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/MCxOSC/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSC?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSC?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Passerelle entre le protocole &lt;strong>Ember+&lt;/strong> et &lt;strong>OSC&lt;/strong>, spécifiquement conçue pour les consoles &lt;strong>Lawo MCx&lt;/strong>. Permet de contrôler et monitorer une console MCx depuis n&amp;rsquo;importe quel environnement OSC (Chataigne, Max/MSP, QLab, etc.).&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
@@ -259,6 +334,15 @@
 &lt;h2>MARIAN-ALSA-DRIVER&lt;span class="hx-absolute -hx-mt-20" id="marian-alsa-driver">&lt;/span>
 &lt;a href="#marian-alsa-driver" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/MARIAN-ALSA-DRIVER" target="_blank" rel="noopener">github.com/dewiweb/MARIAN-ALSA-DRIVER&lt;/a>&lt;/p>
 &lt;p>Pilote ALSA pour les interfaces audio MARIAN.&lt;/p></description></item><item><title>holophonix_blender_addon</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/holophonix_blender_addon?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/holophonix_blender_addon/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/holophonix_blender_addon?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix_blender_addon?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Addon &lt;strong>Blender&lt;/strong> fournissant des fonctions utilitaires pour les projets &lt;strong>Holophonix&lt;/strong>, notamment la gestion de pistes (tracks), de haut-parleurs (speakers), de handlers et d&amp;rsquo;opérations OSC directement depuis l&amp;rsquo;interface de Blender.&lt;/p>
 &lt;p>Combine la puissance de Blender comme outil de visualisation 3D avec le moteur de spatialisation Holophonix.&lt;/p>
@@ -275,6 +359,16 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : Python&lt;/li>
 &lt;/ul></description></item><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/MCxOSCnext?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/MCxOSCnext/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/MCxOSCnext?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/MCxOSCnext?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/MCxOSCnext?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Réécriture et évolution de &lt;strong>MCxOSC&lt;/strong> — une passerelle entre les protocoles &lt;strong>Ember+&lt;/strong> et &lt;strong>OSC&lt;/strong>. Architecture remaniée pour plus de robustesse et de flexibilité, compatible avec un plus large éventail d&amp;rsquo;équipements Ember+.&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
@@ -290,6 +384,15 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : JavaScript&lt;/li>
 &lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/trajectoires-modern?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/trajectoires-modern/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/trajectoires-modern?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/trajectoires-modern?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Refonte complète de l&amp;rsquo;application &lt;strong>Trajectoires&lt;/strong>, une interface web/mobile pour le contrôle de la spatialisation sonore via OSC. Cette version modernisée est développée en TypeScript avec une architecture revue.&lt;/p>
 &lt;p>Trajectoires permet de dessiner et animer des trajectoires de sources sonores dans l&amp;rsquo;espace, puis de les envoyer en temps réel vers un système de spatialisation.&lt;/p>
@@ -305,6 +408,15 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>chataigne_spatiale</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/chataigne-spatiale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/chataigne-spatiale/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/chataigne_spatiale?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/chataigne_spatiale/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/chataigne_spatiale?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/chataigne_spatiale?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Module &lt;strong>Python&lt;/strong> pour intégrer le processeur audio spatial &lt;strong>Holophonix&lt;/strong> dans l&amp;rsquo;environnement &lt;strong>Chataigne&lt;/strong> — un logiciel modulaire orienté arts et technologie. Permet de piloter les sources sonores spatiales depuis l&amp;rsquo;interface de Chataigne via OSC.&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
@@ -411,6 +523,16 @@
 &lt;ul>
 &lt;li>Langage : JavaScript&lt;/li>
 &lt;/ul></description></item><item><title>Holophonix-chataigne-module</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-chataigne-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-chataigne-module/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Module &lt;strong>Chataigne&lt;/strong> dédié au processeur audio spatial &lt;strong>Holophonix&lt;/strong>. Permet d&amp;rsquo;intégrer nativement Holophonix dans Chataigne pour piloter les sources sonores, lire les états et automatiser des comportements dans un contexte de show control.&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>

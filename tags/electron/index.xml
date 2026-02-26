@@ -1,4 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Electron</title><link>https://dewiweb.github.io/tags/electron/</link><description>Recent content in Electron on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/electron/index.xml" rel="self" type="application/rss+xml"/><item><title>holophonix-animator</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/holophonix-animator?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/holophonix-animator/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/holophonix-animator?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/holophonix-animator?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
 &lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Application desktop permettant de créer et gérer des &lt;strong>animations de mouvement&lt;/strong> pour les pistes audio spatiales du processeur &lt;a href="https://holophonix.xyz/" target="_blank" rel="noopener">Holophonix&lt;/a>.&lt;/p>
 &lt;p>Elle communique avec Holophonix via le protocole &lt;strong>OSC&lt;/strong> et permet de définir des trajectoires et comportements dynamiques pour les sources sonores dans l&amp;rsquo;espace 3D.&lt;/p>

@@ -1,4 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Spatial audio</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/</link><description>Recent content in Spatial audio on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/docs/projets/audio-spatial/index.xml" rel="self" type="application/rss+xml"/><item><title>holophonix-animator</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-animator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-animator/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/holophonix-animator?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/holophonix-animator/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/holophonix-animator?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/holophonix-animator?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Desktop application for creating and managing &lt;strong>movement animations&lt;/strong> for spatial audio tracks on the &lt;a href="https://holophonix.xyz/" target="_blank" rel="noopener">Holophonix&lt;/a> processor.&lt;/p>
 &lt;p>It communicates with Holophonix via the &lt;strong>OSC&lt;/strong> protocol and lets you define trajectories and dynamic behaviours for sound sources in 3D space.&lt;/p>
@@ -14,6 +24,16 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;li>Language: JavaScript/TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>spacemouse-osc</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/spacemouse-osc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/spacemouse-osc/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/spacemouse-osc" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/spacemouse-osc?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/spacemouse-osc/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/spacemouse-osc?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/spacemouse-osc?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/spacemouse-osc?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Bridge between the &lt;strong>3Dconnexion SpaceMouse Compact&lt;/strong> and the &lt;strong>OSC&lt;/strong> (Open Sound Control) protocol. Lets you use the 6DoF (6 degrees of freedom) controller to drive sound sources in 3D space in real time.&lt;/p>
 &lt;p>Particularly well suited to controlling spatialisation systems such as Holophonix, Max/MSP or SuperCollider.&lt;/p>
@@ -33,6 +53,15 @@
 &lt;li>Licence: MIT&lt;/li>
 &lt;li>Topics: &lt;code>3dconnexion&lt;/code> &lt;code>6dof&lt;/code> &lt;code>osc&lt;/code> &lt;code>spacemouse&lt;/code> &lt;code>spatial-audio&lt;/code>&lt;/li>
 &lt;/ul></description></item><item><title>ALSA-RAVENNA-AES67-Driver</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/alsa-ravenna-aes67/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/alsa-ravenna-aes67/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/ALSA-RAVENNA-AES67-Driver/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/ALSA-RAVENNA-AES67-Driver?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Clone of the ALSA RAVENNA/AES67 driver originally provided by &lt;strong>Merging Technologies&lt;/strong>. This Linux kernel module (LKM) enables the &lt;strong>RAVENNA&lt;/strong> network audio transport protocol (compatible with &lt;strong>AES67&lt;/strong>) within the ALSA subsystem on Linux.&lt;/p>
 &lt;p>RAVENNA/AES67 is a professional audio-over-IP transport standard used in studios, concert halls and broadcast installations.&lt;/p>
@@ -52,6 +81,15 @@
 &lt;li>Language: C&lt;/li>
 &lt;li>Topics: &lt;code>aes67&lt;/code> &lt;code>alsa&lt;/code> &lt;code>driver&lt;/code> &lt;code>linux&lt;/code>&lt;/li>
 &lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/trajectoires-modern?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/trajectoires-modern/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/trajectoires-modern?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/trajectoires-modern?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Full rewrite of the &lt;strong>Trajectoires&lt;/strong> application, a web/mobile interface for controlling sound spatialisation via OSC. This modernised version is developed in TypeScript with a revised architecture.&lt;/p>
 &lt;p>Trajectoires lets you draw and animate trajectories for sound sources in space, then send them in real time to a spatialisation system.&lt;/p>
@@ -67,6 +105,15 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;li>Language: TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>chataigne_spatiale</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/chataigne-spatiale/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/chataigne_spatiale?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/chataigne_spatiale/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/chataigne_spatiale?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/chataigne_spatiale?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Python&lt;/strong> module integrating the &lt;strong>Holophonix&lt;/strong> spatial audio processor into &lt;strong>Chataigne&lt;/strong> — a modular software for arts and technology. Drives spatial sound sources from Chataigne&amp;rsquo;s interface via OSC.&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
@@ -82,6 +129,16 @@
 &lt;li>&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;li>Language: Python&lt;/li>
 &lt;/ul></description></item><item><title>Holophonix-chataigne-module</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-chataigne-module/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/Holophonix-chataigne-module/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/Holophonix-chataigne-module?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A &lt;strong>Chataigne&lt;/strong> module dedicated to the &lt;strong>Holophonix&lt;/strong> spatial audio processor. Natively integrates Holophonix into Chataigne to drive sound sources, read states and automate behaviours in a show control context.&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>

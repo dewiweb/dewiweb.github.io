@@ -1,4 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Typescript</title><link>https://dewiweb.github.io/en/tags/typescript/</link><description>Recent content in Typescript on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/typescript/index.xml" rel="self" type="application/rss+xml"/><item><title>music-constellation</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/music-constellation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/music-constellation/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/music-constellation" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/music-constellation?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/music-constellation/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/music-constellation?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/music-constellation?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A web application that represents a &lt;strong>&lt;a href="https://beets.io/" target="_blank" rel="noopener">beets&lt;/a>&lt;/strong> music library as an &lt;strong>interactive constellation&lt;/strong>. Each star is an album or artist, and the links between them illustrate relationships (genres, years, similarities).&lt;/p>
 &lt;p>A poetic, visual way to explore your music collection.&lt;/p>
@@ -36,6 +45,15 @@
 &lt;ul>
 &lt;li>Language: TypeScript&lt;/li>
 &lt;/ul></description></item><item><title>trajectoires-modern</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/trajectoires-modern/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/trajectoires-modern?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/trajectoires-modern/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/trajectoires-modern?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/trajectoires-modern?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
 &lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Full rewrite of the &lt;strong>Trajectoires&lt;/strong> application, a web/mobile interface for controlling sound spatialisation via OSC. This modernised version is developed in TypeScript with a revised architecture.&lt;/p>
 &lt;p>Trajectoires lets you draw and animate trajectories for sound sources in space, then send them in real time to a spatialisation system.&lt;/p>
