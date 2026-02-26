@@ -14,6 +14,8 @@ Passerelle entre la **SpaceMouse Compact de 3Dconnexion** et le protocole **OSC*
 
 Particulièrement adapté au contrôle de systèmes de spatialisation comme Holophonix, Max/MSP ou SuperCollider.
 
+![Interface spacemouse-osc](https://raw.githubusercontent.com/dewiweb/spacemouse-osc/main/resources/screenshotV2.2.2.png)
+
 ## Fonctionnalités
 
 - Lecture des données 6DoF (translation X/Y/Z + rotation) de la SpaceMouse

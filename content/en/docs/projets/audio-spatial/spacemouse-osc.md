@@ -13,6 +13,8 @@ Bridge between the **3Dconnexion SpaceMouse Compact** and the **OSC** (Open Soun
 
 Particularly well suited to controlling spatialisation systems such as Holophonix, Max/MSP or SuperCollider.
 
+![spacemouse-osc interface](https://raw.githubusercontent.com/dewiweb/spacemouse-osc/main/resources/screenshotV2.2.2.png)
+
 ## Features
 
 - Read 6DoF data (X/Y/Z translation + rotation) from the SpaceMouse
