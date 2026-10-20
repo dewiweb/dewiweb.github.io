@@ -1,6 +1,7 @@
 ---
 title: dewiweb
 layout: hextra-home
+description: "Stage manager & open source developer — Spatial audio · Control protocols · Stage tools"
 ---
 
 <div class="hx-mt-6 hx-mb-4">
