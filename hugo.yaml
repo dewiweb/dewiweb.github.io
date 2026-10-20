@@ -89,6 +89,10 @@ module:
     - path: github.com/imfing/hextra
 
 params:
+  editURL:
+    enable: true
+    base: "https://github.com/dewiweb/dewiweb.github.io/edit/main/content"
+
   navbar:
     displayTitle: true
     displayLogo: false

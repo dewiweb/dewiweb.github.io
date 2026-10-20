@@ -1,10 +1,10 @@
-{{ define "main"}}
-    <main id="main">
-      <div>
-       <h1 id="title">Not found</h1>
-       <p>Oops! This page doesn't exist. Try going back to our <a href="{{ "/" | relURL }}">home page</a>.</p>
-
-       <p>You can learn how to make a 404 page like this in <a href="https://gohugo.io/templates/404/">Custom 404 Pages</a>.</p>      
-      </div>
-    </main>
+{{ define "main" }}
+<main id="main">
+  <div class="hx-mx-auto hx-flex hx-max-w-screen-xl hx-flex-col hx-items-center hx-justify-center hx-px-6 hx-py-12 hx-text-center" style="min-height:50vh">
+    <p class="hx-text-4xl hx-font-extrabold hx-text-gray-900 dark:hx-text-gray-100" style="font-size:4rem">404</p>
+    <h1 class="hx-mt-4 hx-text-xl hx-font-medium hx-text-gray-600 dark:hx-text-gray-100">Cette page n'existe pas ou a été déplacée.</h1>
+    <p class="hx-mt-2 hx-text-sm hx-text-gray-500">This page could not be found.</p>
+    <a href="{{ "/" | relURL }}" class="hx-mt-8 hx-rounded-md hx-bg-primary-600 hx-px-4 hx-py-2 hx-text-sm hx-font-medium hx-text-white hover:hx-bg-primary-700">Retour à l'accueil</a>
+  </div>
+</main>
 {{ end }}
