@@ -112,7 +112,7 @@
 &lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator-blender?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
 &lt;/div>
 &lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
-&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Portage de &lt;strong>holophonix-animator&lt;/strong> en &lt;strong>addon Blender natif&lt;/strong> : créer et jouer des animations de mouvement pour les pistes audio spatiales Holophonix directement dans la 3D View de Blender. Complète &lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/" >holophonix_blender_addon&lt;/a>, orienté gestion de projets.&lt;/p>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Portage de &lt;strong>holophonix-animator&lt;/strong> en &lt;strong>addon Blender natif&lt;/strong> : créer et jouer des animations de mouvement pour les pistes audio spatiales Holophonix directement dans la 3D View de Blender. Complète &lt;a href="https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-blender-addon/" >holophonix_blender_addon&lt;/a>, orienté gestion de projets.&lt;/p>
 &lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
 &lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Import de projets Holophonix (&lt;code>.hol&lt;/code>, &lt;code>.zip&lt;/code>)&lt;/li>

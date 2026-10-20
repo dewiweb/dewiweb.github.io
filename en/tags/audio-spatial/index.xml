@@ -9,7 +9,7 @@
 &lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator-blender?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
 &lt;/div>
 &lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
-&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Port of &lt;strong>holophonix-animator&lt;/strong> as a &lt;strong>native Blender addon&lt;/strong>: create and play motion animations for Holophonix spatial audio tracks directly inside Blender&amp;rsquo;s 3D View. Complements &lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/" >holophonix_blender_addon&lt;/a>, which focuses on project management.&lt;/p>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Port of &lt;strong>holophonix-animator&lt;/strong> as a &lt;strong>native Blender addon&lt;/strong>: create and play motion animations for Holophonix spatial audio tracks directly inside Blender&amp;rsquo;s 3D View. Complements &lt;a href="https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-blender-addon/" >holophonix_blender_addon&lt;/a>, which focuses on project management.&lt;/p>
 &lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
 &lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>Import Holophonix projects (&lt;code>.hol&lt;/code>, &lt;code>.zip&lt;/code>)&lt;/li>
