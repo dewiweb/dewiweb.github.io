@@ -14,6 +14,8 @@ languages:
     weight: 1
     params:
       description: "Stage manager & développeur open source — Audio spatial · Protocoles de contrôle · Outils scéniques"
+      images:
+        - /images/og-fr.png
     menu:
       main:
         - name: À propos
@@ -42,6 +44,8 @@ languages:
     weight: 2
     params:
       description: "Stage manager & open source developer — Spatial audio · Control protocols · Stage tools"
+      images:
+        - /images/og-en.png
     menu:
       main:
         - name: About
