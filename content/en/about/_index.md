@@ -22,5 +22,5 @@ My projects revolve around **spatial audio**, **control protocols** (OSC, Ember+
 ### Links
 
 - [GitHub — github.com/dewiweb](https://github.com/dewiweb)
-- [Initiated projects](/docs/projets/)
-- [Contributions](/docs/contributions/)
+- [Initiated projects](/en/docs/projets/)
+- [Contributions](/en/docs/contributions/)

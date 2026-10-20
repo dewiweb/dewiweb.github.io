@@ -1,7 +1,8 @@
 ---
 title: "holophonix_blender_addon"
-weight: 4
+weight: 10
 description: "Addon Blender pour la gestion de projets Holophonix"
+aliases: ["/docs/projets/outils-sceniques/holophonix-blender-addon/"]
 tags: ["blender", "holophonix", "python", "osc", "spatial-audio", "3d"]
 ---
 

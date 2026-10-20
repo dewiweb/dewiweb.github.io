@@ -9,7 +9,7 @@ tags: ["holophonix", "blender", "audio-spatial", "osc", "python"]
 
 ## Présentation
 
-Portage de **holophonix-animator** en **addon Blender natif** : créer et jouer des animations de mouvement pour les pistes audio spatiales Holophonix directement dans la 3D View de Blender. Complète [holophonix_blender_addon](/docs/projets/outils-sceniques/holophonix-blender-addon/), orienté gestion de projets.
+Portage de **holophonix-animator** en **addon Blender natif** : créer et jouer des animations de mouvement pour les pistes audio spatiales Holophonix directement dans la 3D View de Blender. Complète [holophonix_blender_addon](/docs/projets/audio-spatial/holophonix-blender-addon/), orienté gestion de projets.
 
 ## Fonctionnalités
 
