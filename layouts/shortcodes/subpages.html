@@ -1,0 +1,11 @@
+{{- $cols := .Get "cols" | default 3 -}}
+{{- $cards := "" -}}
+{{- range .Page.Pages -}}
+  {{- $cards = printf "%s%s" $cards (partial "shortcodes/card" (dict
+    "page" .
+    "link" .RelPermalink
+    "title" .Title
+    "subtitle" .Params.description
+  )) -}}
+{{- end -}}
+{{- partial "shortcodes/cards" (dict "cols" $cols "content" $cards) -}}
