@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Ptt</title><link>https://dewiweb.github.io/en/tags/ptt/</link><description>Recent content in Ptt on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/ptt/index.xml" rel="self" type="application/rss+xml"/><item><title>DewiCom</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/dewicom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/dewicom/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/dewicom" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/dewicom?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/dewicom/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/dewicom?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/dewicom?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Local WiFi intercom for stage technicians&lt;/strong> — a multi-channel Push-To-Talk app: zero installation, zero cloud, zero subscription. All communications run over HTTPS/WSS (self-signed certificate generated at startup) to guarantee microphone access on every device.&lt;/p>
+&lt;h2>Architecture — 3 deployment levels&lt;span class="hx-absolute -hx-mt-20" id="architecture--3-deployment-levels">&lt;/span>
+&lt;a href="#architecture--3-deployment-levels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Standalone Node.js server&lt;/strong> (Docker / dedicated) — level 1&lt;/li>
+&lt;li>&lt;strong>Desktop app&lt;/strong> Electron (Linux AppImage / Windows EXE)&lt;/li>
+&lt;li>&lt;strong>Android app&lt;/strong> (APK)&lt;/li>
+&lt;li>Automatic failover between levels&lt;/li>
+&lt;/ul>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Multi-channel PTT over LAN&lt;/li>
+&lt;li>Web UI shared across server, desktop and mobile&lt;/li>
+&lt;li>Monitoring panel&lt;/li>
+&lt;li>No external dependency&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/dewicom" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

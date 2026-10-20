@@ -1,0 +1,54 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Openagenda</title><link>https://dewiweb.github.io/tags/openagenda/</link><description>Recent content in Openagenda on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/openagenda/index.xml" rel="self" type="application/rss+xml"/><item><title>nextevents</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/nextevents/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/nextevents/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/nextevents?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/nextevents/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/nextevents?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/nextevents?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Suite d&amp;rsquo;outils générant des &lt;strong>diaporamas des événements des Champs Libres&lt;/strong> (Rennes) à partir des données OpenAgenda — diapos UHD prêtes pour OBS, affichage dynamique et kiosks.&lt;/p>
+&lt;p>Trois déclinaisons selon l&amp;rsquo;infrastructure :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a>&lt;/strong> — serveur Debian/Docker : scraping leschampslibres.fr + OpenAgenda, rendu PNG &lt;strong>UHD 3840×2160&lt;/strong> dans la charte du site (fonte Oldschool Grotesk, fond pastel par événement), web UI avec galerie et rafraîchissement automatique&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a>&lt;/strong> — réécriture en &lt;strong>application portable&lt;/strong> PySide6/Qt (zip Windows, AppImage Linux) : même génération de diapos + player plein écran natif, sans Docker ni serveur&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/strong> — port PHP léger pour kiosk : diapos HTML autonomes (fontes/images en base64), aucun PNG à générer, aucune dépendance — le navigateur du kiosk fait le rendu&lt;/li>
+&lt;/ul>
+&lt;h2>Fonctionnalités communes&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités-communes">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s-communes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Date, durée, lieu, tarif, &lt;strong>public&lt;/strong> et &lt;strong>accessibilité&lt;/strong> (LSF, audiodescription, surtitrage) extraits des données OpenAgenda&lt;/li>
+&lt;li>Images en résolution native, synchros FTP/SMB/local&lt;/li>
+&lt;li>Diapo du jour, planificateur, galerie&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/li>
+&lt;li>Voir aussi &lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/openagenda-slides/" >openagenda-slides&lt;/a> — la version généralisée pour tout agenda OpenAgenda public&lt;/li>
+&lt;/ul></description></item><item><title>openagenda-slides</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/openagenda-slides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/openagenda-slides/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/openagenda-slides?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/openagenda-slides/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/openagenda-slides?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/openagenda-slides?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/openagenda-slides?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Généralisation de &lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/nextevents/" >nextevents&lt;/a> : transforme &lt;strong>n&amp;rsquo;importe quel agenda OpenAgenda public&lt;/strong> en diaporama d&amp;rsquo;écrans — une diapositive par événement (image, date, lieu, tarif, public…) pour téléviseurs, bornes et panneaux d&amp;rsquo;affichage, en &lt;strong>16:9, 9:16 portrait ou A4&lt;/strong> imprimable.&lt;/p>
+&lt;p>Aucune compétence technique nécessaire : télécharger, indiquer l&amp;rsquo;agenda, cliquer sur &lt;strong>Générer&lt;/strong>.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Application desktop &lt;strong>Qt&lt;/strong>, portable Windows et Linux (AppImage) — sans installation&lt;/li>
+&lt;li>Une diapo par événement, charte graphique soignée&lt;/li>
+&lt;li>Formats paysage, portrait et imprimable&lt;/li>
+&lt;li>Binaires disponibles dans les Releases GitHub&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides/releases" target="_blank" rel="noopener">Releases&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

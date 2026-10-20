@@ -1,0 +1,54 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Digital-Signage</title><link>https://dewiweb.github.io/en/tags/digital-signage/</link><description>Recent content in Digital-Signage on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/digital-signage/index.xml" rel="self" type="application/rss+xml"/><item><title>nextevents</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/nextevents/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/nextevents/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/nextevents?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/nextevents/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/nextevents?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/nextevents?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A suite of tools generating &lt;strong>slideshows of Les Champs Libres events&lt;/strong> (Rennes, France) from OpenAgenda data — UHD slides ready for OBS, digital signage and kiosks.&lt;/p>
+&lt;p>Three variants depending on the infrastructure:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a>&lt;/strong> — Debian/Docker server: scrapes leschampslibres.fr + OpenAgenda, renders &lt;strong>UHD 3840×2160&lt;/strong> PNGs matching the venue&amp;rsquo;s visual identity (Oldschool Grotesk typeface, per-event pastel background), web UI with gallery and auto-refresh&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a>&lt;/strong> — rewritten as a &lt;strong>portable PySide6/Qt app&lt;/strong> (Windows zip, Linux AppImage): same slide generation plus a native fullscreen player, no Docker or server needed&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/strong> — lightweight PHP port for kiosks: self-contained HTML slides (fonts/images in base64), no PNG generation, no dependencies — the kiosk browser does the rendering&lt;/li>
+&lt;/ul>
+&lt;h2>Common features&lt;span class="hx-absolute -hx-mt-20" id="common-features">&lt;/span>
+&lt;a href="#common-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Date, duration, venue, price, &lt;strong>audience&lt;/strong> and &lt;strong>accessibility&lt;/strong> (LSF, audio description, surtitling) extracted from OpenAgenda data&lt;/li>
+&lt;li>Native-resolution images, FTP/SMB/local sync&lt;/li>
+&lt;li>Slide of the day, scheduler, gallery&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/li>
+&lt;li>See also &lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/openagenda-slides/" >openagenda-slides&lt;/a> — the generalized version for any public OpenAgenda agenda&lt;/li>
+&lt;/ul></description></item><item><title>openagenda-slides</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/openagenda-slides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/openagenda-slides/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/openagenda-slides?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/openagenda-slides/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/openagenda-slides?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/openagenda-slides?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/openagenda-slides?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Generalization of &lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/nextevents/" >nextevents&lt;/a>: turns &lt;strong>any public OpenAgenda agenda&lt;/strong> into screen slideshows — one slide per event (image, date, venue, price, audience…) for TVs, kiosks and digital signage, in &lt;strong>16:9, 9:16 portrait or printable A4&lt;/strong>.&lt;/p>
+&lt;p>No technical skills required: download, enter your agenda, click &lt;strong>Generate&lt;/strong>.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Portable &lt;strong>Qt&lt;/strong> desktop app for Windows and Linux (AppImage) — no install&lt;/li>
+&lt;li>One polished slide per event&lt;/li>
+&lt;li>Landscape, portrait and printable formats&lt;/li>
+&lt;li>Binaries available in GitHub Releases&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides/releases" target="_blank" rel="noopener">Releases&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

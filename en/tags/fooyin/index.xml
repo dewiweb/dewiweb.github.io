@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Fooyin</title><link>https://dewiweb.github.io/en/tags/fooyin/</link><description>Recent content in Fooyin on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/fooyin/index.xml" rel="self" type="application/rss+xml"/><item><title>fooyin-album-mosaic-plugin</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/fooyin-album-mosaic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/fooyin-album-mosaic/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/fooyin-album-mosaic-plugin" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/fooyin-album-mosaic-plugin?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/fooyin-album-mosaic-plugin/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/fooyin-album-mosaic-plugin?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/fooyin-album-mosaic-plugin?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Plugin for the &lt;strong>Fooyin&lt;/strong> audio player displaying an &lt;strong>infinite scrolling mosaic of album covers&lt;/strong> with animations — cyclic browsing through the whole collection.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Infinite cyclic grid with adaptive cell size&lt;/li>
+&lt;li>Efficient loading via Fooyin&amp;rsquo;s shared &lt;code>CoverRepository&lt;/code>&lt;/li>
+&lt;li>&lt;strong>5 animations&lt;/strong>: 3D flip, crossfade, slide, zoom, page curl (+ random mode, 3 speeds)&lt;/li>
+&lt;li>Configurable column count and background color&lt;/li>
+&lt;li>Elegant placeholder for albums without covers&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/fooyin-album-mosaic-plugin" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: C++&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -23,4 +23,62 @@
 &lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;li>Language: JavaScript/TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>DewiCom</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/dewicom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/dewicom/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/dewicom" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/dewicom?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/dewicom/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/dewicom?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/dewicom?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Local WiFi intercom for stage technicians&lt;/strong> — a multi-channel Push-To-Talk app: zero installation, zero cloud, zero subscription. All communications run over HTTPS/WSS (self-signed certificate generated at startup) to guarantee microphone access on every device.&lt;/p>
+&lt;h2>Architecture — 3 deployment levels&lt;span class="hx-absolute -hx-mt-20" id="architecture--3-deployment-levels">&lt;/span>
+&lt;a href="#architecture--3-deployment-levels" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Standalone Node.js server&lt;/strong> (Docker / dedicated) — level 1&lt;/li>
+&lt;li>&lt;strong>Desktop app&lt;/strong> Electron (Linux AppImage / Windows EXE)&lt;/li>
+&lt;li>&lt;strong>Android app&lt;/strong> (APK)&lt;/li>
+&lt;li>Automatic failover between levels&lt;/li>
+&lt;/ul>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Multi-channel PTT over LAN&lt;/li>
+&lt;li>Web UI shared across server, desktop and mobile&lt;/li>
+&lt;li>Monitoring panel&lt;/li>
+&lt;li>No external dependency&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/dewicom" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>aes67_visualizer</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/aes67-visualizer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/aes67-visualizer/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/aes67_visualizer" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/aes67_visualizer?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/aes67_visualizer/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/aes67_visualizer?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/aes67_visualizer?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Cross-platform desktop application for &lt;strong>visualizing and monitoring audio-over-IP streams&lt;/strong>: AES67, ST2110-30, RAVENNA and Dante. Automatic stream discovery on the network, playback, level metering and PTP tracking.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Automatic stream discovery via &lt;strong>SAP/mDNS&lt;/strong>&lt;/li>
+&lt;li>Manual stream entry by pasting SDP&lt;/li>
+&lt;li>Direct Dante device queries via &lt;strong>ARC&lt;/strong> (name, model, TX/RX channels)&lt;/li>
+&lt;li>&lt;strong>16-slot monitoring wall&lt;/strong> with drag-and-drop&lt;/li>
+&lt;li>Real-time &lt;strong>dBFS&lt;/strong> metering with peak hold&lt;/li>
+&lt;li>Listen to any stream with channel selection&lt;/li>
+&lt;li>&lt;strong>PTP&lt;/strong> tracking (IEEE 1588 grandmaster, per-stream lock status)&lt;/li>
+&lt;li>UI in &lt;strong>8 languages&lt;/strong>&lt;/li>
+&lt;li>Windows, macOS, Linux&lt;/li>
+&lt;/ul>
+&lt;h2>Tech stack&lt;span class="hx-absolute -hx-mt-20" id="tech-stack">&lt;/span>
+&lt;a href="#tech-stack" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>React 19 + TypeScript + Vite + TailwindCSS, &lt;strong>Electron&lt;/strong> desktop shell, audio via Audify (RtAudio bindings).&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/aes67_visualizer" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

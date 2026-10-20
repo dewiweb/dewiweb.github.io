@@ -76,6 +76,16 @@
 &lt;p>Module Companion pour le contrôle d&amp;rsquo;&lt;strong>amplificateurs Powersoft&lt;/strong>. Permet de monitorer et contrôler les amplis Powersoft (série X, Quattrocanali, etc.) depuis une Stream Deck.&lt;/p>
 &lt;ul>
 &lt;li>Langage : TypeScript&lt;/li>
+&lt;li>API UNICA HTTP, feedback UDP, vu-mètres WebSocket&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-oppo-bdp&lt;span class="hx-absolute -hx-mt-20" id="companion-module-oppo-bdp">&lt;/span>
+&lt;a href="#companion-module-oppo-bdp" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Dépôt&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-oppo-bdp" target="_blank" rel="noopener">github.com/dewiweb/companion-module-oppo-bdp&lt;/a>&lt;/p>
+&lt;p>Module Companion pour les &lt;strong>lecteurs Blu-ray OPPO&lt;/strong> (BDP-83/93/95/103/105) via le protocole de contrôle TCP du lecteur. Lecture, navigation et réglages depuis une Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Langage : JavaScript&lt;/li>
+&lt;li>Protocole : TCP&lt;/li>
+&lt;li>Licence : MIT&lt;/li>
 &lt;/ul></description></item><item><title>holophonix_blender_addon</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/</guid><description>
 &lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
 &lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" style="text-decoration:none;">
@@ -101,4 +111,189 @@
 &lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/holophonix_blender_addon" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : Python&lt;/li>
+&lt;/ul></description></item><item><title>StageNeth</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/stageneth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/stageneth/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/stageneth?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/stageneth/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/stageneth?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/stageneth?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>OS pour routeur dédié au spectacle vivant&lt;/strong>, basé sur &lt;strong>OpenWrt&lt;/strong>. StageNeth sépare les flux audio/vidéo/lumière (AV) du réseau de gestion et fournit les services indispensables aux équipements scéniques : DHCP, NTP, mDNS, SNMP et PTP.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Interface web Vue 3&lt;/strong> en HTTPS — mode simple (opérateur) et mode expert (tech)&lt;/li>
+&lt;li>&lt;strong>API Go&lt;/strong> sécurisée (sessions HttpOnly, mots de passe argon2id, rôles opérateur/tech)&lt;/li>
+&lt;li>&lt;strong>Orchestrateur réseau Go&lt;/strong> — génération automatique des VLANs 802.1q, bridges, firewall, DHCP, QoS/NIC tuning et PTP&lt;/li>
+&lt;li>&lt;strong>Configuration par service&lt;/strong> — chaque protocole (Dante, NDI, AES67/RAVENNA, ST 2110, Art-Net, sACN, PTP, AVB, NMOS, MA-Net…) a son VLAN, son DSCP, sa priorité et son MTU&lt;/li>
+&lt;li>Trunk AV configurable et interface dédiée ST 2110 en jumbo frames (MTU 9000)&lt;/li>
+&lt;li>Serveur NTP avec option DHCP 42 par VLAN, réflecteur mDNS entre VLANs AV&lt;/li>
+&lt;li>Surveillance : monitoring CPU/mémoire/services, alertes, journaux filtrés, agent SNMP v2c/v3, métriques Prometheus&lt;/li>
+&lt;/ul>
+&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
+&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>🚧 &lt;strong>Développement actif&lt;/strong> (v0.2.0-beta) — à valider sur banc avant tout usage en production.&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langages : Go, Vue 3, OpenWrt&lt;/li>
+&lt;/ul></description></item><item><title>DewiCom</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/dewicom/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/dewicom/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/dewicom" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/dewicom?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/dewicom/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/dewicom?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/dewicom?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Intercom WiFi en réseau local pour techniciens scène&lt;/strong> — application Push-To-Talk multi-canal : zéro installation, zéro cloud, zéro abonnement. Toutes les communications passent en HTTPS/WSS (certificat auto-signé généré au démarrage) pour garantir l&amp;rsquo;accès au microphone sur tous les appareils.&lt;/p>
+&lt;h2>Architecture — 3 niveaux de déploiement&lt;span class="hx-absolute -hx-mt-20" id="architecture--3-niveaux-de-déploiement">&lt;/span>
+&lt;a href="#architecture--3-niveaux-de-d%c3%a9ploiement" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Serveur Node.js&lt;/strong> standalone (Docker / dédié) — niveau 1&lt;/li>
+&lt;li>&lt;strong>Application desktop&lt;/strong> Electron (AppImage Linux / EXE Windows)&lt;/li>
+&lt;li>&lt;strong>Application mobile&lt;/strong> Android (APK)&lt;/li>
+&lt;li>Failover automatique entre les niveaux&lt;/li>
+&lt;/ul>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>PTT multi-canal sur le réseau local&lt;/li>
+&lt;li>Interface web partagée entre serveur, desktop et mobile&lt;/li>
+&lt;li>Panneau de monitoring&lt;/li>
+&lt;li>Aucune dépendance externe&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/dewicom" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>audio-accessibility-system</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/audio-accessibility-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/audio-accessibility-system/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/audio-accessibility-system" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/audio-accessibility-system?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/audio-accessibility-system/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/audio-accessibility-system?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/audio-accessibility-system?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Système de &lt;strong>diffusion audio multicanal DIY&lt;/strong> pour salles de spectacle, de conférence et de cinéma (~450 places), conçu pour l&amp;rsquo;&lt;strong>audiodescription&lt;/strong>, le &lt;strong>renforcement audio&lt;/strong> (malentendants) et l&amp;rsquo;&lt;strong>interprétation simultanée multilingue&lt;/strong>.&lt;/p>
+&lt;p>La source audio arrive en &lt;strong>AES67/RTP&lt;/strong> depuis la console son, est encodée en &lt;strong>HLS&lt;/strong> par FFmpeg et servie aux smartphones des spectateurs via une &lt;strong>PWA&lt;/strong> — aucune app à installer.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Backend Node.js + streaming HLS (HTTPS/TLS)&lt;/li>
+&lt;li>Réception AES67/RTP multicast (L24/48 kHz) depuis consoles QSYS/Dante&lt;/li>
+&lt;li>Interface auditeur PWA + interface admin régie&lt;/li>
+&lt;li>Sécurité (JWT, CSP, bcrypt), déploiement Docker/Portainer&lt;/li>
+&lt;li>CI/CD GitHub Actions → GHCR (amd64 + arm64)&lt;/li>
+&lt;/ul>
+&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
+&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>✅ Opérationnel — tests en conditions réelles (450 clients) en cours ; WebRTC (&amp;lt; 200 ms) prévu pour réduire la latence.&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/audio-accessibility-system" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>nextevents</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/nextevents/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/nextevents/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/nextevents?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/nextevents/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/nextevents?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/nextevents?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Suite d&amp;rsquo;outils générant des &lt;strong>diaporamas des événements des Champs Libres&lt;/strong> (Rennes) à partir des données OpenAgenda — diapos UHD prêtes pour OBS, affichage dynamique et kiosks.&lt;/p>
+&lt;p>Trois déclinaisons selon l&amp;rsquo;infrastructure :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a>&lt;/strong> — serveur Debian/Docker : scraping leschampslibres.fr + OpenAgenda, rendu PNG &lt;strong>UHD 3840×2160&lt;/strong> dans la charte du site (fonte Oldschool Grotesk, fond pastel par événement), web UI avec galerie et rafraîchissement automatique&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a>&lt;/strong> — réécriture en &lt;strong>application portable&lt;/strong> PySide6/Qt (zip Windows, AppImage Linux) : même génération de diapos + player plein écran natif, sans Docker ni serveur&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/strong> — port PHP léger pour kiosk : diapos HTML autonomes (fontes/images en base64), aucun PNG à générer, aucune dépendance — le navigateur du kiosk fait le rendu&lt;/li>
+&lt;/ul>
+&lt;h2>Fonctionnalités communes&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités-communes">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s-communes" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Date, durée, lieu, tarif, &lt;strong>public&lt;/strong> et &lt;strong>accessibilité&lt;/strong> (LSF, audiodescription, surtitrage) extraits des données OpenAgenda&lt;/li>
+&lt;li>Images en résolution native, synchros FTP/SMB/local&lt;/li>
+&lt;li>Diapo du jour, planificateur, galerie&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/li>
+&lt;li>Voir aussi &lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/openagenda-slides/" >openagenda-slides&lt;/a> — la version généralisée pour tout agenda OpenAgenda public&lt;/li>
+&lt;/ul></description></item><item><title>openagenda-slides</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/openagenda-slides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/openagenda-slides/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/openagenda-slides?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/openagenda-slides/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/openagenda-slides?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/openagenda-slides?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/openagenda-slides?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Généralisation de &lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/nextevents/" >nextevents&lt;/a> : transforme &lt;strong>n&amp;rsquo;importe quel agenda OpenAgenda public&lt;/strong> en diaporama d&amp;rsquo;écrans — une diapositive par événement (image, date, lieu, tarif, public…) pour téléviseurs, bornes et panneaux d&amp;rsquo;affichage, en &lt;strong>16:9, 9:16 portrait ou A4&lt;/strong> imprimable.&lt;/p>
+&lt;p>Aucune compétence technique nécessaire : télécharger, indiquer l&amp;rsquo;agenda, cliquer sur &lt;strong>Générer&lt;/strong>.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Application desktop &lt;strong>Qt&lt;/strong>, portable Windows et Linux (AppImage) — sans installation&lt;/li>
+&lt;li>Une diapo par événement, charte graphique soignée&lt;/li>
+&lt;li>Formats paysage, portrait et imprimable&lt;/li>
+&lt;li>Binaires disponibles dans les Releases GitHub&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides/releases" target="_blank" rel="noopener">Releases&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>clock_X_overlay</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/clock-x-overlay/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/clock-x-overlay/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/clock_X_overlay?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/clock_X_overlay/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/clock_X_overlay?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/clock_X_overlay?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Horloge OSD always-on-top pour Linux X11&lt;/strong> — l&amp;rsquo;outil de régie qui garde l&amp;rsquo;heure sous les yeux sur n&amp;rsquo;importe quel poste, au-dessus de toutes les fenêtres. Configurable, légère, universelle.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Affichage au-dessus de toutes les fenêtres (overlay OSD)&lt;/li>
+&lt;li>&lt;strong>Click-through&lt;/strong> : la souris traverse l&amp;rsquo;horloge&lt;/li>
+&lt;li>Déplaçable à la souris, icône système tray&lt;/li>
+&lt;li>Paramétrage complet : police, taille, couleurs, opacité, format strftime, position (9 zones), choix de l&amp;rsquo;écran&lt;/li>
+&lt;li>Prévisualisation en temps réel, configuration persistante&lt;/li>
+&lt;li>Compatible Cinnamon, GNOME, KDE, XFCE, MATE, i3, Openbox…&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Python (PyQt6)&lt;/li>
+&lt;/ul></description></item><item><title>fooyin-album-mosaic-plugin</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/fooyin-album-mosaic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/fooyin-album-mosaic/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/fooyin-album-mosaic-plugin" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/fooyin-album-mosaic-plugin?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/fooyin-album-mosaic-plugin/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/fooyin-album-mosaic-plugin?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/fooyin-album-mosaic-plugin?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Plugin pour le lecteur audio &lt;strong>Fooyin&lt;/strong> affichant une &lt;strong>mosaïque infinie de pochettes d&amp;rsquo;albums&lt;/strong> animées — navigation cyclique dans toute la collection.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Grille infinie cyclique à taille de cellule adaptative&lt;/li>
+&lt;li>Chargement efficace via le &lt;code>CoverRepository&lt;/code> partagé de Fooyin&lt;/li>
+&lt;li>&lt;strong>5 animations&lt;/strong> : flip 3D, crossfade, slide, zoom, page curl (+ mode aléatoire, 3 vitesses)&lt;/li>
+&lt;li>Nombre de colonnes et couleur de fond configurables&lt;/li>
+&lt;li>Placeholder élégant pour les albums sans pochette&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/fooyin-album-mosaic-plugin" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : C++&lt;/li>
 &lt;/ul></description></item></channel></rss>

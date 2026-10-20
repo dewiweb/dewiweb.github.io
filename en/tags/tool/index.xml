@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Tool</title><link>https://dewiweb.github.io/en/tags/tool/</link><description>Recent content in Tool on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/tool/index.xml" rel="self" type="application/rss+xml"/><item><title>clock_X_overlay</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/clock-x-overlay/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/clock-x-overlay/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/clock_X_overlay?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/clock_X_overlay/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/clock_X_overlay?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/clock_X_overlay?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Always-on-top OSD clock for Linux X11&lt;/strong> — the control-room tool that keeps the time visible on any workstation, above every window. Configurable, lightweight, universal.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Displays above all windows (OSD overlay)&lt;/li>
+&lt;li>&lt;strong>Click-through&lt;/strong>: the mouse passes through the clock&lt;/li>
+&lt;li>Draggable, system tray icon&lt;/li>
+&lt;li>Full settings: font, size, colors, opacity, strftime format, position (9 zones), screen selection&lt;/li>
+&lt;li>Real-time preview, persistent configuration&lt;/li>
+&lt;li>Works with Cinnamon, GNOME, KDE, XFCE, MATE, i3, Openbox…&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python (PyQt6)&lt;/li>
+&lt;/ul></description></item></channel></rss>

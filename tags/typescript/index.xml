@@ -45,6 +45,16 @@
 &lt;p>Module Companion pour le contrôle d&amp;rsquo;&lt;strong>amplificateurs Powersoft&lt;/strong>. Permet de monitorer et contrôler les amplis Powersoft (série X, Quattrocanali, etc.) depuis une Stream Deck.&lt;/p>
 &lt;ul>
 &lt;li>Langage : TypeScript&lt;/li>
+&lt;li>API UNICA HTTP, feedback UDP, vu-mètres WebSocket&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2>companion-module-oppo-bdp&lt;span class="hx-absolute -hx-mt-20" id="companion-module-oppo-bdp">&lt;/span>
+&lt;a href="#companion-module-oppo-bdp" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Dépôt&lt;/strong> · &lt;a href="https://github.com/dewiweb/companion-module-oppo-bdp" target="_blank" rel="noopener">github.com/dewiweb/companion-module-oppo-bdp&lt;/a>&lt;/p>
+&lt;p>Module Companion pour les &lt;strong>lecteurs Blu-ray OPPO&lt;/strong> (BDP-83/93/95/103/105) via le protocole de contrôle TCP du lecteur. Lecture, navigation et réglages depuis une Stream Deck.&lt;/p>
+&lt;ul>
+&lt;li>Langage : JavaScript&lt;/li>
+&lt;li>Protocole : TCP&lt;/li>
+&lt;li>Licence : MIT&lt;/li>
 &lt;/ul></description></item><item><title>MCxOSCnext</title><link>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/protocoles/mcxoscnext/</guid><description>
 &lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
 &lt;a href="https://github.com/dewiweb/MCxOSCnext" target="_blank" style="text-decoration:none;">

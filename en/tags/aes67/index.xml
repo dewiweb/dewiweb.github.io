@@ -57,4 +57,117 @@
 &lt;hr>
 &lt;h2>MARIAN-ALSA-DRIVER&lt;span class="hx-absolute -hx-mt-20" id="marian-alsa-driver">&lt;/span>
 &lt;a href="#marian-alsa-driver" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Fork&lt;/strong> · &lt;a href="https://github.com/dewiweb/MARIAN-ALSA-DRIVER" target="_blank" rel="noopener">github.com/dewiweb/MARIAN-ALSA-DRIVER&lt;/a>&lt;/p>
-&lt;p>ALSA driver for MARIAN audio interfaces.&lt;/p></description></item></channel></rss>
+&lt;p>ALSA driver for MARIAN audio interfaces.&lt;/p></description></item><item><title>StageNeth</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/stageneth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/stageneth/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/stageneth?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/stageneth/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/stageneth?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/stageneth?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Router OS designed for live performance environments&lt;/strong>, based on &lt;strong>OpenWrt&lt;/strong>. StageNeth separates audio/video/lighting (AV) streams from the management network and provides the services stage equipment relies on: DHCP, NTP, mDNS, SNMP and PTP.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Vue 3 web UI&lt;/strong> over HTTPS — simple mode (operator) and expert mode (tech)&lt;/li>
+&lt;li>&lt;strong>Secured Go API&lt;/strong> (HttpOnly sessions, argon2id passwords, operator/tech roles)&lt;/li>
+&lt;li>&lt;strong>Go network orchestrator&lt;/strong> — automatic generation of 802.1q VLANs, bridges, firewall, DHCP, QoS/NIC tuning and PTP&lt;/li>
+&lt;li>&lt;strong>Per-service configuration&lt;/strong> — each protocol (Dante, NDI, AES67/RAVENNA, ST 2110, Art-Net, sACN, PTP, AVB, NMOS, MA-Net…) gets its own VLAN, DSCP, priority and MTU&lt;/li>
+&lt;li>Configurable AV trunk and dedicated ST 2110 interface with jumbo frames (MTU 9000)&lt;/li>
+&lt;li>NTP server with DHCP option 42 per VLAN, mDNS reflector across AV VLANs&lt;/li>
+&lt;li>Monitoring: CPU/memory/services, alerts, filterable logs, SNMP v2c/v3 agent, Prometheus metrics&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>🚧 &lt;strong>Active development&lt;/strong> (v0.2.0-beta) — validate on the bench before any production use.&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Languages: Go, Vue 3, OpenWrt&lt;/li>
+&lt;/ul></description></item><item><title>aes67_visualizer</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/aes67-visualizer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/aes67-visualizer/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/aes67_visualizer" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/aes67_visualizer?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/aes67_visualizer/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/aes67_visualizer?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/aes67_visualizer?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Cross-platform desktop application for &lt;strong>visualizing and monitoring audio-over-IP streams&lt;/strong>: AES67, ST2110-30, RAVENNA and Dante. Automatic stream discovery on the network, playback, level metering and PTP tracking.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Automatic stream discovery via &lt;strong>SAP/mDNS&lt;/strong>&lt;/li>
+&lt;li>Manual stream entry by pasting SDP&lt;/li>
+&lt;li>Direct Dante device queries via &lt;strong>ARC&lt;/strong> (name, model, TX/RX channels)&lt;/li>
+&lt;li>&lt;strong>16-slot monitoring wall&lt;/strong> with drag-and-drop&lt;/li>
+&lt;li>Real-time &lt;strong>dBFS&lt;/strong> metering with peak hold&lt;/li>
+&lt;li>Listen to any stream with channel selection&lt;/li>
+&lt;li>&lt;strong>PTP&lt;/strong> tracking (IEEE 1588 grandmaster, per-stream lock status)&lt;/li>
+&lt;li>UI in &lt;strong>8 languages&lt;/strong>&lt;/li>
+&lt;li>Windows, macOS, Linux&lt;/li>
+&lt;/ul>
+&lt;h2>Tech stack&lt;span class="hx-absolute -hx-mt-20" id="tech-stack">&lt;/span>
+&lt;a href="#tech-stack" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>React 19 + TypeScript + Vite + TailwindCSS, &lt;strong>Electron&lt;/strong> desktop shell, audio via Audify (RtAudio bindings).&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/aes67_visualizer" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>audio-accessibility-system</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/audio-accessibility-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/audio-accessibility-system/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/audio-accessibility-system" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/audio-accessibility-system?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/audio-accessibility-system/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/audio-accessibility-system?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/audio-accessibility-system?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>DIY multichannel audio distribution system&lt;/strong> for theatres, conference halls and cinemas (~450 seats), designed for &lt;strong>audio description&lt;/strong>, &lt;strong>hearing assistance&lt;/strong> (hard-of-hearing audiences) and &lt;strong>multilingual simultaneous interpretation&lt;/strong>.&lt;/p>
+&lt;p>Audio is received via &lt;strong>AES67/RTP&lt;/strong> from the mixing console, encoded to &lt;strong>HLS&lt;/strong> by FFmpeg and served to audience smartphones through a &lt;strong>PWA&lt;/strong> — no app to install.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Node.js backend + HLS streaming (HTTPS/TLS)&lt;/li>
+&lt;li>AES67/RTP multicast input (L24/48 kHz) from QSYS/Dante consoles&lt;/li>
+&lt;li>Listener PWA + control-room admin UI&lt;/li>
+&lt;li>Security (JWT, CSP, bcrypt), Docker/Portainer deployment&lt;/li>
+&lt;li>CI/CD GitHub Actions → GHCR (amd64 + arm64)&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>✅ Operational — real-world testing (450 clients) in progress; WebRTC (&amp;lt; 200 ms) planned to reduce latency.&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/audio-accessibility-system" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>ptp-monitor</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/ptp-monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/ptp-monitor/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/ptp-monitor" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/ptp-monitor?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/ptp-monitor/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/ptp-monitor?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/ptp-monitor?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/ptp-monitor?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Desktop tool (Qt / PySide6) for &lt;strong>passively listening to PTP clock traffic&lt;/strong> on a production audio-over-IP network — to detect problems and record evidence for vendor support cases.&lt;/p>
+&lt;p>&lt;strong>100% passive&lt;/strong>: it joins the standard PTP multicast group &lt;code>224.0.1.129&lt;/code> (UDP 319/320) and listens. It never sends a single PTP packet and cannot disturb the clock election or timing of the network.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Dante leader (PTPv1)&lt;/strong> — who sends Sync, sync interval, jitter (mean/min/max/σ), leader change history&lt;/li>
+&lt;li>&lt;strong>AES67 grandmaster (PTPv2)&lt;/strong> — clock identity, priorities, clock class, steps removed, announce timing&lt;/li>
+&lt;li>&lt;strong>Per-source stats&lt;/strong> — message types, rates, sequence gaps/dupes, silence detection, non-standard PTP domains&lt;/li>
+&lt;li>&lt;strong>Malformed packets&lt;/strong> — unparsable datagrams logged with source IP and full hexdump&lt;/li>
+&lt;li>&lt;strong>Evidence logs&lt;/strong> — chronological JSONL journal + optional full packet capture&lt;/li>
+&lt;li>&lt;strong>Network-agnostic&lt;/strong> — no hard-coded addresses; friendly device names via &lt;code>devices.json&lt;/code>, reverse DNS and the IEEE OUI database&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/ptp-monitor" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python (Qt / PySide6)&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>The UI is currently in French — i18n contributions are welcome.&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Openwrt</title><link>https://dewiweb.github.io/en/tags/openwrt/</link><description>Recent content in Openwrt on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/openwrt/index.xml" rel="self" type="application/rss+xml"/><item><title>StageNeth</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/stageneth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/stageneth/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/stageneth?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/stageneth/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/stageneth?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/stageneth?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Router OS designed for live performance environments&lt;/strong>, based on &lt;strong>OpenWrt&lt;/strong>. StageNeth separates audio/video/lighting (AV) streams from the management network and provides the services stage equipment relies on: DHCP, NTP, mDNS, SNMP and PTP.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Vue 3 web UI&lt;/strong> over HTTPS — simple mode (operator) and expert mode (tech)&lt;/li>
+&lt;li>&lt;strong>Secured Go API&lt;/strong> (HttpOnly sessions, argon2id passwords, operator/tech roles)&lt;/li>
+&lt;li>&lt;strong>Go network orchestrator&lt;/strong> — automatic generation of 802.1q VLANs, bridges, firewall, DHCP, QoS/NIC tuning and PTP&lt;/li>
+&lt;li>&lt;strong>Per-service configuration&lt;/strong> — each protocol (Dante, NDI, AES67/RAVENNA, ST 2110, Art-Net, sACN, PTP, AVB, NMOS, MA-Net…) gets its own VLAN, DSCP, priority and MTU&lt;/li>
+&lt;li>Configurable AV trunk and dedicated ST 2110 interface with jumbo frames (MTU 9000)&lt;/li>
+&lt;li>NTP server with DHCP option 42 per VLAN, mDNS reflector across AV VLANs&lt;/li>
+&lt;li>Monitoring: CPU/memory/services, alerts, filterable logs, SNMP v2c/v3 agent, Prometheus metrics&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>🚧 &lt;strong>Active development&lt;/strong> (v0.2.0-beta) — validate on the bench before any production use.&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Languages: Go, Vue 3, OpenWrt&lt;/li>
+&lt;/ul></description></item></channel></rss>

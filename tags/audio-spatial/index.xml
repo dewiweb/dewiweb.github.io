@@ -101,4 +101,35 @@
 &lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/trajectoires-modern" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
 &lt;li>Langage : TypeScript&lt;/li>
+&lt;/ul></description></item><item><title>holophonix-animator-blender</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator-blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator-blender/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/holophonix-animator-blender" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/holophonix-animator-blender?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/holophonix-animator-blender/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/holophonix-animator-blender?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator-blender?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Portage de &lt;strong>holophonix-animator&lt;/strong> en &lt;strong>addon Blender natif&lt;/strong> : créer et jouer des animations de mouvement pour les pistes audio spatiales Holophonix directement dans la 3D View de Blender. Complète &lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/holophonix-blender-addon/" >holophonix_blender_addon&lt;/a>, orienté gestion de projets.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Import de projets Holophonix (&lt;code>.hol&lt;/code>, &lt;code>.zip&lt;/code>)&lt;/li>
+&lt;li>Découverte des pistes via requête OSC &lt;code>/dump&lt;/code>&lt;/li>
+&lt;li>Animation &lt;strong>temps réel&lt;/strong> (modes loop / ping-pong / once)&lt;/li>
+&lt;li>&lt;strong>Animations simultanées&lt;/strong> — chaque piste indépendante&lt;/li>
+&lt;li>&lt;strong>Cue list&lt;/strong> — déclenchement, arrêt, fondu entre animations&lt;/li>
+&lt;li>Modèles de mouvement (JSON extensible) : circulaire, linéaire, figure-8, spirale, pendule, marche aléatoire&lt;/li>
+&lt;li>Sortie &lt;strong>OSC&lt;/strong> &lt;code>/track/{id}/xyz&lt;/code> en temps réel pendant la lecture&lt;/li>
+&lt;/ul>
+&lt;h2>Prérequis&lt;span class="hx-absolute -hx-mt-20" id="prérequis">&lt;/span>
+&lt;a href="#pr%c3%a9requis" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Blender 4.2+ (testé sur 5.0)&lt;/li>
+&lt;li>Libs OSC embarquées — aucune installation externe&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator-blender" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Python&lt;/li>
 &lt;/ul></description></item></channel></rss>

@@ -1,0 +1,59 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Ptp</title><link>https://dewiweb.github.io/tags/ptp/</link><description>Recent content in Ptp on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/ptp/index.xml" rel="self" type="application/rss+xml"/><item><title>StageNeth</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/stageneth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/stageneth/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/stageneth?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/stageneth/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/stageneth?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/stageneth?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>OS pour routeur dédié au spectacle vivant&lt;/strong>, basé sur &lt;strong>OpenWrt&lt;/strong>. StageNeth sépare les flux audio/vidéo/lumière (AV) du réseau de gestion et fournit les services indispensables aux équipements scéniques : DHCP, NTP, mDNS, SNMP et PTP.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Interface web Vue 3&lt;/strong> en HTTPS — mode simple (opérateur) et mode expert (tech)&lt;/li>
+&lt;li>&lt;strong>API Go&lt;/strong> sécurisée (sessions HttpOnly, mots de passe argon2id, rôles opérateur/tech)&lt;/li>
+&lt;li>&lt;strong>Orchestrateur réseau Go&lt;/strong> — génération automatique des VLANs 802.1q, bridges, firewall, DHCP, QoS/NIC tuning et PTP&lt;/li>
+&lt;li>&lt;strong>Configuration par service&lt;/strong> — chaque protocole (Dante, NDI, AES67/RAVENNA, ST 2110, Art-Net, sACN, PTP, AVB, NMOS, MA-Net…) a son VLAN, son DSCP, sa priorité et son MTU&lt;/li>
+&lt;li>Trunk AV configurable et interface dédiée ST 2110 en jumbo frames (MTU 9000)&lt;/li>
+&lt;li>Serveur NTP avec option DHCP 42 par VLAN, réflecteur mDNS entre VLANs AV&lt;/li>
+&lt;li>Surveillance : monitoring CPU/mémoire/services, alertes, journaux filtrés, agent SNMP v2c/v3, métriques Prometheus&lt;/li>
+&lt;/ul>
+&lt;h2>Statut&lt;span class="hx-absolute -hx-mt-20" id="statut">&lt;/span>
+&lt;a href="#statut" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>🚧 &lt;strong>Développement actif&lt;/strong> (v0.2.0-beta) — à valider sur banc avant tout usage en production.&lt;/p>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/stageneth" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langages : Go, Vue 3, OpenWrt&lt;/li>
+&lt;/ul></description></item><item><title>ptp-monitor</title><link>https://dewiweb.github.io/docs/projets/audio-spatial/ptp-monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/audio-spatial/ptp-monitor/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/ptp-monitor" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/ptp-monitor?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/ptp-monitor/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/ptp-monitor?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/ptp-monitor?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/ptp-monitor?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Outil desktop (Qt / PySide6) d&amp;rsquo;&lt;strong>écoute passive du trafic d&amp;rsquo;horloge PTP&lt;/strong> sur un réseau audio-over-IP de production — pour détecter les problèmes et constituer des preuves à transmettre au support constructeur.&lt;/p>
+&lt;p>&lt;strong>100 % passif&lt;/strong> : rejoint le groupe multicast standard &lt;code>224.0.1.129&lt;/code> (UDP 319/320) et écoute. Aucun paquet émis, aucune perturbation possible de l&amp;rsquo;élection d&amp;rsquo;horloge.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Leader Dante (PTPv1)&lt;/strong> — émetteur des Sync, intervalle, jitter (moyenne/min/max/σ), historique des changements de leader&lt;/li>
+&lt;li>&lt;strong>Grandmaster AES67 (PTPv2)&lt;/strong> — identité d&amp;rsquo;horloge, priorités, clock class, steps removed, cadence des Announce&lt;/li>
+&lt;li>&lt;strong>Stats par source&lt;/strong> — types de messages, débits, trous/doublons de séquence, détection de silence, domaines PTP non standard&lt;/li>
+&lt;li>&lt;strong>Paquets malformés&lt;/strong> — datagrammes imparsables journalisés avec IP source et hexdump complet&lt;/li>
+&lt;li>&lt;strong>Journaux de preuve&lt;/strong> — journal chronologique JSONL + capture complète optionnelle&lt;/li>
+&lt;li>&lt;strong>Agnostique réseau&lt;/strong> — aucune adresse codée en dur ; noms d&amp;rsquo;équipements via &lt;code>devices.json&lt;/code>, DNS inverse et base OUI IEEE&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/ptp-monitor" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Python (Qt / PySide6)&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>L&amp;rsquo;interface est actuellement en français — les contributions i18n sont bienvenues.&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

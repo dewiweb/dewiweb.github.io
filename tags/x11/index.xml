@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – X11</title><link>https://dewiweb.github.io/tags/x11/</link><description>Recent content in X11 on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><atom:link href="https://dewiweb.github.io/tags/x11/index.xml" rel="self" type="application/rss+xml"/><item><title>clock_X_overlay</title><link>https://dewiweb.github.io/docs/projets/outils-sceniques/clock-x-overlay/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/docs/projets/outils-sceniques/clock-x-overlay/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/clock_X_overlay?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/clock_X_overlay/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/clock_X_overlay?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/clock_X_overlay?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Présentation&lt;span class="hx-absolute -hx-mt-20" id="présentation">&lt;/span>
+&lt;a href="#pr%c3%a9sentation" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Horloge OSD always-on-top pour Linux X11&lt;/strong> — l&amp;rsquo;outil de régie qui garde l&amp;rsquo;heure sous les yeux sur n&amp;rsquo;importe quel poste, au-dessus de toutes les fenêtres. Configurable, légère, universelle.&lt;/p>
+&lt;h2>Fonctionnalités&lt;span class="hx-absolute -hx-mt-20" id="fonctionnalités">&lt;/span>
+&lt;a href="#fonctionnalit%c3%a9s" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Affichage au-dessus de toutes les fenêtres (overlay OSD)&lt;/li>
+&lt;li>&lt;strong>Click-through&lt;/strong> : la souris traverse l&amp;rsquo;horloge&lt;/li>
+&lt;li>Déplaçable à la souris, icône système tray&lt;/li>
+&lt;li>Paramétrage complet : police, taille, couleurs, opacité, format strftime, position (9 zones), choix de l&amp;rsquo;écran&lt;/li>
+&lt;li>Prévisualisation en temps réel, configuration persistante&lt;/li>
+&lt;li>Compatible Cinnamon, GNOME, KDE, XFCE, MATE, i3, Openbox…&lt;/li>
+&lt;/ul>
+&lt;h2>Liens&lt;span class="hx-absolute -hx-mt-20" id="liens">&lt;/span>
+&lt;a href="#liens" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" rel="noopener">Dépôt GitHub&lt;/a>&lt;/li>
+&lt;li>Langage : Python (PyQt6)&lt;/li>
+&lt;/ul></description></item></channel></rss>

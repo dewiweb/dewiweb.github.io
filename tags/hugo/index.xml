@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Hugo</title><link>https://dewiweb.github.io/tags/hugo/</link><description>Recent content in Hugo on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dewiweb.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Refonte du site et nouveaux projets documentés</title><link>https://dewiweb.github.io/blog/refonte-site/</link><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/blog/refonte-site/</guid><description>
+&lt;p>Première note de ce carnet, à l&amp;rsquo;occasion d&amp;rsquo;une refonte complète du site.&lt;/p>
+&lt;h2>Le site&lt;span class="hx-absolute -hx-mt-20" id="le-site">&lt;/span>
+&lt;a href="#le-site" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Le site tourne désormais sous &lt;strong>Hugo + thème Hextra&lt;/strong>, avec :&lt;/p>
+&lt;ul>
+&lt;li>version bilingue &lt;strong>FR/EN&lt;/strong>&lt;/li>
+&lt;li>thème sombre par défaut, recherche intégrée&lt;/li>
+&lt;li>lien &lt;strong>« Modifier cette page »&lt;/strong> sur chaque page, qui mène directement au fichier source sur GitHub&lt;/li>
+&lt;li>déploiement GitHub Pages via GitHub Actions, avec vérification de build sur les pull requests&lt;/li>
+&lt;/ul>
+&lt;h2>Nouvelles pages projets&lt;span class="hx-absolute -hx-mt-20" id="nouvelles-pages-projets">&lt;/span>
+&lt;a href="#nouvelles-pages-projets" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>La refonte s&amp;rsquo;accompagne de la documentation d&amp;rsquo;une dizaine de dépôts actifs qui n&amp;rsquo;étaient pas encore référencés :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/stageneth/" >StageNeth&lt;/a>&lt;/strong> — OS pour routeur basé OpenWrt, dédié au spectacle vivant (VLANs AV, PTP, Dante/AES67/ST 2110)&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/audio-spatial/aes67-visualizer/" >aes67_visualizer&lt;/a>&lt;/strong> — visualiseur de flux AoIP (AES67, RAVENNA, Dante, ST 2110-30)&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/audio-spatial/ptp-monitor/" >ptp-monitor&lt;/a>&lt;/strong> — écoute passive des horloges PTP pour le diagnostic réseau AoIP&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/dewicom/" >DewiCom&lt;/a>&lt;/strong> — intercom WiFi PTT en réseau local pour techniciens&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/audio-accessibility-system/" >audio-accessibility-system&lt;/a>&lt;/strong> — diffusion audiodescription / renforcement audio via PWA&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/nextevents/" >nextevents&lt;/a>&lt;/strong> &amp;amp; &lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/openagenda-slides/" >openagenda-slides&lt;/a>&lt;/strong> — diaporamas d&amp;rsquo;événements OpenAgenda pour affichage dynamique&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/audio-spatial/holophonix-animator-blender/" >holophonix-animator-blender&lt;/a>&lt;/strong> — animations Holophonix en addon Blender natif&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/clock-x-overlay/" >clock_X_overlay&lt;/a>&lt;/strong> — horloge OSD always-on-top pour Linux X11&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/fooyin-album-mosaic/" >fooyin-album-mosaic-plugin&lt;/a>&lt;/strong> — mosaïque de pochettes animée pour Fooyin&lt;/li>
+&lt;li>module Companion &lt;strong>&lt;a href="https://dewiweb.github.io/docs/projets/outils-sceniques/companion-modules/" >oppo-bdp&lt;/a>&lt;/strong> ajouté à la page des modules&lt;/li>
+&lt;/ul>
+&lt;p>La suite : des notes techniques au fil des projets — retours d&amp;rsquo;expérience, architectures, pièges rencontrés.&lt;/p></description></item></channel></rss>

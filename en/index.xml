@@ -1,1 +1,25 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – dewiweb</title><link>https://dewiweb.github.io/en/</link><description>Recent content on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – dewiweb</title><link>https://dewiweb.github.io/en/</link><description>Recent content on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Site rebuild and newly documented projects</title><link>https://dewiweb.github.io/en/blog/refonte-site/</link><pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/blog/refonte-site/</guid><description>
+&lt;p>First entry in this notebook, on the occasion of a full site rebuild.&lt;/p>
+&lt;h2>The site&lt;span class="hx-absolute -hx-mt-20" id="the-site">&lt;/span>
+&lt;a href="#the-site" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The site now runs on &lt;strong>Hugo + the Hextra theme&lt;/strong>, with:&lt;/p>
+&lt;ul>
+&lt;li>a bilingual &lt;strong>FR/EN&lt;/strong> version&lt;/li>
+&lt;li>dark theme by default, built-in search&lt;/li>
+&lt;li>an &lt;strong>&amp;ldquo;Edit this page&amp;rdquo;&lt;/strong> link on every page leading straight to the source file on GitHub&lt;/li>
+&lt;li>GitHub Pages deployment via GitHub Actions, with a build check on pull requests&lt;/li>
+&lt;/ul>
+&lt;h2>New project pages&lt;span class="hx-absolute -hx-mt-20" id="new-project-pages">&lt;/span>
+&lt;a href="#new-project-pages" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>The rebuild comes with documentation for about ten active repositories that weren&amp;rsquo;t listed yet:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/stageneth/" >StageNeth&lt;/a>&lt;/strong> — OpenWrt-based router OS for live performance (AV VLANs, PTP, Dante/AES67/ST 2110)&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/audio-spatial/aes67-visualizer/" >aes67_visualizer&lt;/a>&lt;/strong> — AoIP stream visualizer (AES67, RAVENNA, Dante, ST 2110-30)&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/audio-spatial/ptp-monitor/" >ptp-monitor&lt;/a>&lt;/strong> — passive PTP clock listening for AoIP network diagnostics&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/dewicom/" >DewiCom&lt;/a>&lt;/strong> — local WiFi PTT intercom for stage technicians&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/audio-accessibility-system/" >audio-accessibility-system&lt;/a>&lt;/strong> — audio description / hearing assistance distribution via PWA&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/nextevents/" >nextevents&lt;/a>&lt;/strong> &amp;amp; &lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/openagenda-slides/" >openagenda-slides&lt;/a>&lt;/strong> — OpenAgenda event slideshows for digital signage&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-animator-blender/" >holophonix-animator-blender&lt;/a>&lt;/strong> — Holophonix animations as a native Blender addon&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/clock-x-overlay/" >clock_X_overlay&lt;/a>&lt;/strong> — always-on-top OSD clock for Linux X11&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/fooyin-album-mosaic/" >fooyin-album-mosaic-plugin&lt;/a>&lt;/strong> — animated album-cover mosaic for Fooyin&lt;/li>
+&lt;li>the &lt;strong>&lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/companion-modules/" >oppo-bdp&lt;/a>&lt;/strong> Companion module added to the modules page&lt;/li>
+&lt;/ul>
+&lt;p>Next up: technical notes as projects evolve — lessons learned, architectures, pitfalls.&lt;/p></description></item></channel></rss>

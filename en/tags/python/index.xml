@@ -78,4 +78,143 @@
 &lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
 &lt;li>&lt;a href="https://github.com/dewiweb/chataigne_spatiale" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
 &lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item><item><title>nextevents</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/nextevents/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/nextevents/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/nextevents?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/nextevents/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/nextevents?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/nextevents?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>A suite of tools generating &lt;strong>slideshows of Les Champs Libres events&lt;/strong> (Rennes, France) from OpenAgenda data — UHD slides ready for OBS, digital signage and kiosks.&lt;/p>
+&lt;p>Three variants depending on the infrastructure:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a>&lt;/strong> — Debian/Docker server: scrapes leschampslibres.fr + OpenAgenda, renders &lt;strong>UHD 3840×2160&lt;/strong> PNGs matching the venue&amp;rsquo;s visual identity (Oldschool Grotesk typeface, per-event pastel background), web UI with gallery and auto-refresh&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a>&lt;/strong> — rewritten as a &lt;strong>portable PySide6/Qt app&lt;/strong> (Windows zip, Linux AppImage): same slide generation plus a native fullscreen player, no Docker or server needed&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/strong> — lightweight PHP port for kiosks: self-contained HTML slides (fonts/images in base64), no PNG generation, no dependencies — the kiosk browser does the rendering&lt;/li>
+&lt;/ul>
+&lt;h2>Common features&lt;span class="hx-absolute -hx-mt-20" id="common-features">&lt;/span>
+&lt;a href="#common-features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Date, duration, venue, price, &lt;strong>audience&lt;/strong> and &lt;strong>accessibility&lt;/strong> (LSF, audio description, surtitling) extracted from OpenAgenda data&lt;/li>
+&lt;li>Native-resolution images, FTP/SMB/local sync&lt;/li>
+&lt;li>Slide of the day, scheduler, gallery&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/nextevents" target="_blank" rel="noopener">nextevents&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-desktop" target="_blank" rel="noopener">nextevents-desktop&lt;/a> · &lt;a href="https://github.com/dewiweb/nextevents-php" target="_blank" rel="noopener">nextevents-php&lt;/a>&lt;/li>
+&lt;li>See also &lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/openagenda-slides/" >openagenda-slides&lt;/a> — the generalized version for any public OpenAgenda agenda&lt;/li>
+&lt;/ul></description></item><item><title>ptp-monitor</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/ptp-monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/ptp-monitor/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/ptp-monitor" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/ptp-monitor?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/ptp-monitor/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/ptp-monitor?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/ptp-monitor?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/ptp-monitor?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Desktop tool (Qt / PySide6) for &lt;strong>passively listening to PTP clock traffic&lt;/strong> on a production audio-over-IP network — to detect problems and record evidence for vendor support cases.&lt;/p>
+&lt;p>&lt;strong>100% passive&lt;/strong>: it joins the standard PTP multicast group &lt;code>224.0.1.129&lt;/code> (UDP 319/320) and listens. It never sends a single PTP packet and cannot disturb the clock election or timing of the network.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Dante leader (PTPv1)&lt;/strong> — who sends Sync, sync interval, jitter (mean/min/max/σ), leader change history&lt;/li>
+&lt;li>&lt;strong>AES67 grandmaster (PTPv2)&lt;/strong> — clock identity, priorities, clock class, steps removed, announce timing&lt;/li>
+&lt;li>&lt;strong>Per-source stats&lt;/strong> — message types, rates, sequence gaps/dupes, silence detection, non-standard PTP domains&lt;/li>
+&lt;li>&lt;strong>Malformed packets&lt;/strong> — unparsable datagrams logged with source IP and full hexdump&lt;/li>
+&lt;li>&lt;strong>Evidence logs&lt;/strong> — chronological JSONL journal + optional full packet capture&lt;/li>
+&lt;li>&lt;strong>Network-agnostic&lt;/strong> — no hard-coded addresses; friendly device names via &lt;code>devices.json&lt;/code>, reverse DNS and the IEEE OUI database&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/ptp-monitor" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python (Qt / PySide6)&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>The UI is currently in French — i18n contributions are welcome.&lt;/p>
+&lt;/blockquote></description></item><item><title>holophonix-animator-blender</title><link>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-animator-blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/audio-spatial/holophonix-animator-blender/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/holophonix-animator-blender" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/holophonix-animator-blender?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/holophonix-animator-blender/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/holophonix-animator-blender?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/holophonix-animator-blender?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Port of &lt;strong>holophonix-animator&lt;/strong> as a &lt;strong>native Blender addon&lt;/strong>: create and play motion animations for Holophonix spatial audio tracks directly inside Blender&amp;rsquo;s 3D View. Complements &lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/holophonix-blender-addon/" >holophonix_blender_addon&lt;/a>, which focuses on project management.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Import Holophonix projects (&lt;code>.hol&lt;/code>, &lt;code>.zip&lt;/code>)&lt;/li>
+&lt;li>Track discovery via OSC &lt;code>/dump&lt;/code> request&lt;/li>
+&lt;li>&lt;strong>Real-time&lt;/strong> animation (loop / ping-pong / once modes)&lt;/li>
+&lt;li>&lt;strong>Simultaneous animations&lt;/strong> — each track runs independently&lt;/li>
+&lt;li>&lt;strong>Cue list&lt;/strong> — trigger, stop and blend animations on demand&lt;/li>
+&lt;li>Motion models (extensible JSON): circular, linear, figure-8, spiral, pendulum, random walk&lt;/li>
+&lt;li>&lt;strong>OSC&lt;/strong> output &lt;code>/track/{id}/xyz&lt;/code> in real time during playback&lt;/li>
+&lt;/ul>
+&lt;h2>Requirements&lt;span class="hx-absolute -hx-mt-20" id="requirements">&lt;/span>
+&lt;a href="#requirements" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Blender 4.2+ (tested on 5.0)&lt;/li>
+&lt;li>OSC libs bundled — no external install needed&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/holophonix-animator-blender" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python&lt;/li>
+&lt;/ul></description></item><item><title>openagenda-slides</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/openagenda-slides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/openagenda-slides/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/openagenda-slides?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/openagenda-slides/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/openagenda-slides?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/openagenda-slides?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;img src="https://img.shields.io/github/license/dewiweb/openagenda-slides?style=flat-square&amp;color=3b82f6&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>Generalization of &lt;a href="https://dewiweb.github.io/en/docs/projets/outils-sceniques/nextevents/" >nextevents&lt;/a>: turns &lt;strong>any public OpenAgenda agenda&lt;/strong> into screen slideshows — one slide per event (image, date, venue, price, audience…) for TVs, kiosks and digital signage, in &lt;strong>16:9, 9:16 portrait or printable A4&lt;/strong>.&lt;/p>
+&lt;p>No technical skills required: download, enter your agenda, click &lt;strong>Generate&lt;/strong>.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Portable &lt;strong>Qt&lt;/strong> desktop app for Windows and Linux (AppImage) — no install&lt;/li>
+&lt;li>One polished slide per event&lt;/li>
+&lt;li>Landscape, portrait and printable formats&lt;/li>
+&lt;li>Binaries available in GitHub Releases&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dewiweb/openagenda-slides/releases" target="_blank" rel="noopener">Releases&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>clock_X_overlay</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/clock-x-overlay/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/clock-x-overlay/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/clock_X_overlay?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/clock_X_overlay/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/clock_X_overlay?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/clock_X_overlay?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>Always-on-top OSD clock for Linux X11&lt;/strong> — the control-room tool that keeps the time visible on any workstation, above every window. Configurable, lightweight, universal.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Displays above all windows (OSD overlay)&lt;/li>
+&lt;li>&lt;strong>Click-through&lt;/strong>: the mouse passes through the clock&lt;/li>
+&lt;li>Draggable, system tray icon&lt;/li>
+&lt;li>Full settings: font, size, colors, opacity, strftime format, position (9 zones), screen selection&lt;/li>
+&lt;li>Real-time preview, persistent configuration&lt;/li>
+&lt;li>Works with Cinnamon, GNOME, KDE, XFCE, MATE, i3, Openbox…&lt;/li>
+&lt;/ul>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/clock_X_overlay" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;li>Language: Python (PyQt6)&lt;/li>
 &lt;/ul></description></item></channel></rss>

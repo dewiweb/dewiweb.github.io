@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dewiweb – Hls</title><link>https://dewiweb.github.io/en/tags/hls/</link><description>Recent content in Hls on dewiweb</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://dewiweb.github.io/en/tags/hls/index.xml" rel="self" type="application/rss+xml"/><item><title>audio-accessibility-system</title><link>https://dewiweb.github.io/en/docs/projets/outils-sceniques/audio-accessibility-system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dewiweb.github.io/en/docs/projets/outils-sceniques/audio-accessibility-system/</guid><description>
+&lt;div style="display:flex;flex-wrap:wrap;gap:6px;margin:1.2rem 0 1.8rem;">
+&lt;a href="https://github.com/dewiweb/audio-accessibility-system" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/stars/dewiweb/audio-accessibility-system?style=flat-square&amp;logo=github&amp;color=6366f1&amp;labelColor=1e1e2e" alt="GitHub stars" />
+&lt;/a>
+&lt;a href="https://github.com/dewiweb/audio-accessibility-system/commits" target="_blank" style="text-decoration:none;">
+&lt;img src="https://img.shields.io/github/last-commit/dewiweb/audio-accessibility-system?style=flat-square&amp;color=10b981&amp;labelColor=1e1e2e" alt="Last commit" />
+&lt;/a>
+&lt;img src="https://img.shields.io/github/languages/top/dewiweb/audio-accessibility-system?style=flat-square&amp;color=f59e0b&amp;labelColor=1e1e2e" alt="true" />
+&lt;/div>
+&lt;h2>Overview&lt;span class="hx-absolute -hx-mt-20" id="overview">&lt;/span>
+&lt;a href="#overview" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>&lt;strong>DIY multichannel audio distribution system&lt;/strong> for theatres, conference halls and cinemas (~450 seats), designed for &lt;strong>audio description&lt;/strong>, &lt;strong>hearing assistance&lt;/strong> (hard-of-hearing audiences) and &lt;strong>multilingual simultaneous interpretation&lt;/strong>.&lt;/p>
+&lt;p>Audio is received via &lt;strong>AES67/RTP&lt;/strong> from the mixing console, encoded to &lt;strong>HLS&lt;/strong> by FFmpeg and served to audience smartphones through a &lt;strong>PWA&lt;/strong> — no app to install.&lt;/p>
+&lt;h2>Features&lt;span class="hx-absolute -hx-mt-20" id="features">&lt;/span>
+&lt;a href="#features" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>Node.js backend + HLS streaming (HTTPS/TLS)&lt;/li>
+&lt;li>AES67/RTP multicast input (L24/48 kHz) from QSYS/Dante consoles&lt;/li>
+&lt;li>Listener PWA + control-room admin UI&lt;/li>
+&lt;li>Security (JWT, CSP, bcrypt), Docker/Portainer deployment&lt;/li>
+&lt;li>CI/CD GitHub Actions → GHCR (amd64 + arm64)&lt;/li>
+&lt;/ul>
+&lt;h2>Status&lt;span class="hx-absolute -hx-mt-20" id="status">&lt;/span>
+&lt;a href="#status" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;p>✅ Operational — real-world testing (450 clients) in progress; WebRTC (&amp;lt; 200 ms) planned to reduce latency.&lt;/p>
+&lt;h2>Links&lt;span class="hx-absolute -hx-mt-20" id="links">&lt;/span>
+&lt;a href="#links" class="subheading-anchor" aria-label="Permalink for this section">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/dewiweb/audio-accessibility-system" target="_blank" rel="noopener">GitHub repository&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
