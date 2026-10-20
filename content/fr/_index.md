@@ -35,7 +35,7 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Audio spatial"
-    subtitle="Holophonix Animator, SpaceMouse-OSC, ALSA RAVENNA/AES67 — outils pour piloter et animer le son dans l'espace 3D."
+    subtitle="Holophonix Animator, AES67 Visualizer, ALSA RAVENNA/AES67 — outils pour piloter et monitorer le son dans l'espace 3D et sur IP."
     link="docs/projets/audio-spatial"
     icon="music-note"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(99,102,241,0.15), hsla(0,0%,100%,0));"
@@ -49,7 +49,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Outils scéniques"
-    subtitle="Raspberry Pi media kiosk, visualisation de bibliothèque musicale — solutions pratiques pour la production."
+    subtitle="StageNeth, intercom WiFi, accessibilité audio, affichage dynamique — solutions pratiques pour la production."
     link="docs/projets/outils-sceniques"
     icon="puzzle"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(245,158,11,0.15), hsla(0,0%,100%,0));"

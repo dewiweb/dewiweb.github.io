@@ -2,7 +2,7 @@
 title: "Modules Bitfocus Companion"
 linkTitle: "Modules Companion"
 weight: 3
-description: "Modules pour Bitfocus Companion : Canon Network et Powersoft"
+description: "Modules pour Bitfocus Companion : Canon Network, Powersoft et OPPO Blu-ray"
 tags: ["companion", "bitfocus", "javascript", "typescript", "show-control"]
 ---
 
@@ -30,3 +30,16 @@ Module Companion pour le contrôle de **caméras Canon** via l'API HTTP réseau 
 Module Companion pour le contrôle d'**amplificateurs Powersoft**. Permet de monitorer et contrôler les amplis Powersoft (série X, Quattrocanali, etc.) depuis une Stream Deck.
 
 - Langage : TypeScript
+- API UNICA HTTP, feedback UDP, vu-mètres WebSocket
+
+---
+
+## companion-module-oppo-bdp
+
+**Dépôt** · [github.com/dewiweb/companion-module-oppo-bdp](https://github.com/dewiweb/companion-module-oppo-bdp)
+
+Module Companion pour les **lecteurs Blu-ray OPPO** (BDP-83/93/95/103/105) via le protocole de contrôle TCP du lecteur. Lecture, navigation et réglages depuis une Stream Deck.
+
+- Langage : JavaScript
+- Protocole : TCP
+- Licence : MIT
