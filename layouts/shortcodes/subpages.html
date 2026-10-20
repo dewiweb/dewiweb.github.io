@@ -8,4 +8,4 @@
     "subtitle" .Params.description
   )) -}}
 {{- end -}}
-{{- partial "shortcodes/cards" (dict "cols" $cols "content" $cards) -}}
+{{- partial "shortcodes/cards" (dict "cols" $cols "content" ($cards | safeHTML)) -}}
